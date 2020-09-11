@@ -15,9 +15,7 @@ public class HealthCheckController {
             method = {RequestMethod.GET})
     @ResponseBody
     public String healthCheck() {
-        return "OK";
+        return "Hello from Research portal";
     }
-
-
 
 }

@@ -42,7 +42,11 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<finalName>rp-cloud</finalName>
+				</configuration>
 			</plugin>
+
 		</plugins>
 	</build>
 
