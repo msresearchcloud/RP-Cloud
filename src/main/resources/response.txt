@@ -1,0 +1,5207 @@
+{
+  
+    "docs": [
+      {
+        "pd": "2020-09-22T05:49:31.000Z",
+        "id": "42b4fae2-fc97-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample BDD article.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T05:48:13.000Z",
+        "id": "077f7aba-fc97-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T05:46:35.000Z",
+        "id": "dbf5cb56-fc96-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample BDD article.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T05:45:19.000Z",
+        "id": "aae14acc-fc96-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T05:44:00.000Z",
+        "id": "7ee7f34e-fc96-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Insight",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T05:42:46.000Z",
+        "id": "4e655ee6-fc96-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "GPN.N",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "GPN.N"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T05:41:25.000Z",
+        "id": "22481e52-fc96-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Insight",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T05:40:04.000Z",
+        "id": "eefc5630-fc95-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "GPN.N",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "GPN.N"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T01:35:54.000Z",
+        "id": "d81e8342-fc73-11ea-8b3b-ff748e7f50fc",
+        "hl": "Europe Insight: BDD article, Please do not edit",
+        "a": {
+          "id": "624ed61c-42d4-4c95-a969-d9b3e64a1f86",
+          "n": " Analyst Build9"
+        },
+        "co": [
+          {
+            "id": "624ed61c-42d4-4c95-a969-d9b3e64a1f86",
+            "n": " Analyst Build9"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Idea",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "Europe Insight"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {},
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T01:34:29.000Z",
+        "id": "99bc395a-fc73-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      }
+,
+      {
+        "pd": "2020-09-22T01:32:59.000Z",
+        "id": "66c4ca6c-fc73-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T01:31:34.000Z",
+        "id": "3070945a-fc73-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T01:30:01.000Z",
+        "id": "fdd2ed9a-fc72-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T01:24:13.000Z",
+        "id": "35751562-fc72-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample BDD article.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T01:23:02.000Z",
+        "id": "072292c0-fc72-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T01:21:43.000Z",
+        "id": "dca83b30-fc71-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample BDD article.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T01:20:32.000Z",
+        "id": "ae678b54-fc71-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T01:19:14.000Z",
+        "id": "84103de2-fc71-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Insight",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T01:18:04.000Z",
+        "id": "52209b10-fc71-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "GPN.N",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "GPN.N"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-22T01:16:39.000Z",
+        "id": "27992bf0-fc71-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Insight",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      }
+ ,
+      {
+        "pd": "2020-09-22T01:15:23.000Z",
+        "id": "f61f0ca2-fc70-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "GPN.N",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "GPN.N"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T20:58:36.000Z",
+        "id": "54c302f6-fc38-11ea-8b3b-ff748e7f50fc",
+        "hl": "AirAsia X: SEND SECURE: Testing the Suppress Undeliverable unchecked",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          }
+        ],
+        "dt": "application/pdf",
+        "pt": "AIRX.KL",
+        "pv": "4",
+        "pn": "Foundation",
+        "pc": "9",
+        "hi": {},
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "AIRX.KL",
+              "srp": null,
+              "src": "Underweight"
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "AIRX.KL",
+              "ptc": "153.00",
+              "cy": "MYR"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1900000487",
+              "industry": "Capital Goods"
+            },
+            {
+              "id": "1900000526",
+              "industry": "Industrials"
+            },
+            {
+              "id": "1900000527",
+              "industry": "India Industrials",
+              "ivc": "Attractive"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T20:58:00.000Z",
+        "ab": "THIS IS A TEST ARTICLE AND SHOULD NOT BE CONSIDERED VALID RESEARCH.",
+        "id": "55ceca2e-fc3b-11ea-8b3b-ff748e7f50fc",
+        "hl": "AirAsia X: SEND SECURE: Testing adhoc emails for Suppress undelievrable",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          }
+        ],
+        "dt": "application/pdf",
+        "pt": "AIRX.KL",
+        "pv": "4",
+        "pn": "Foundation",
+        "pc": "9",
+        "hi": {},
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "AIRX.KL",
+              "srp": null,
+              "src": "Underweight"
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "AIRX.KL",
+              "ptc": "153.00",
+              "cy": "MYR"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1900000487",
+              "industry": "Capital Goods"
+            },
+            {
+              "id": "1900000526",
+              "industry": "Industrials"
+            },
+            {
+              "id": "1900000527",
+              "industry": "India Industrials",
+              "ivc": "Attractive"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T20:56:38.000Z",
+        "id": "a4cf2e18-fc39-11ea-8b3b-ff748e7f50fc",
+        "hl": "AirAsia X: SEND SECURE: Testing Suppress Undeliverable checkbox unchecked for prod issue",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          }
+        ],
+        "dt": "application/pdf",
+        "pt": "AIRX.KL",
+        "pv": "4",
+        "pn": "Foundation",
+        "pc": "9",
+        "hi": {},
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "AIRX.KL",
+              "srp": null,
+              "src": "Underweight"
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "AIRX.KL",
+              "ptc": "153.00",
+              "cy": "MYR"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1900000487",
+              "industry": "Capital Goods"
+            },
+            {
+              "id": "1900000526",
+              "industry": "Industrials"
+            },
+            {
+              "id": "1900000527",
+              "industry": "India Industrials",
+              "ivc": "Attractive"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T20:45:33.000Z",
+        "ab": "Risk Reward for LG Household & Health Care (051900.KS) has been updated",
+        "id": "7b0ee6b6-fc4a-11ea-8b3b-ff748e7f50fc",
+        "hl": "LG Household & Health Care: Risk Reward Update",
+        "a": {
+          "id": "e9c566e7-218f-4d2a-8083-ee467e0d63e1",
+          "n": " Ken A Zerbe CFA"
+        },
+        "co": [
+          {
+            "id": "e9c566e7-218f-4d2a-8083-ee467e0d63e1",
+            "n": " Ken A Zerbe CFA"
+          }
+        ],
+        "dt": "application/pdf",
+        "pt": "051900.KS",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "9",
+        "hi": {},
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "051900.KS",
+              "srp": null,
+              "src": "Underweight"
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "051900.KS",
+              "ptc": "120000.00",
+              "cy": "KRW"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1900000012",
+              "industry": "Consumer"
+            },
+            {
+              "id": "1900000033",
+              "industry": "Consumer"
+            },
+            {
+              "id": "1900000354",
+              "industry": "S. Korea Consumer",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "StandaloneRiskReward",
+        "pstc": "StandaloneRiskReward",
+        "pcat1": "PublisherDefined",
+        "pcat2": "RiskReward"
+      },
+      {
+        "pd": "2020-09-21T20:40:40.000Z",
+        "id": "dc2b8fae-fc49-11ea-8b3b-ff748e7f50fc",
+        "hl": "AirAsia X: SEND SECURE: Testing AB-SC integration",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          }
+        ],
+        "dt": "application/pdf",
+        "pt": "AIRX.KL",
+        "pv": "4",
+        "pn": "Foundation",
+        "pc": "9",
+        "hi": {},
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "AIRX.KL",
+              "srp": null,
+              "src": "Underweight"
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "AIRX.KL",
+              "ptc": "153.00",
+              "cy": "MYR"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1900000487",
+              "industry": "Capital Goods"
+            },
+            {
+              "id": "1900000526",
+              "industry": "Industrials"
+            },
+            {
+              "id": "1900000527",
+              "industry": "India Industrials",
+              "ivc": "Attractive"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T19:49:58.000Z",
+        "id": "53ded162-fc42-11ea-8b3b-ff748e7f50fc",
+        "hl": "AirAsia X: SEND SECURE: Testing by removinf Nisha from test mapping table and autoblast routed via SC with analyst as Nisha",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          }
+        ],
+        "dt": "application/pdf",
+        "pt": "AIRX.KL",
+        "pv": "4",
+        "pn": "Foundation",
+        "pc": "9",
+        "hi": {},
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "AIRX.KL",
+              "srp": null,
+              "src": "Underweight"
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "AIRX.KL",
+              "ptc": "153.00",
+              "cy": "MYR"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1900000487",
+              "industry": "Capital Goods"
+            },
+            {
+              "id": "1900000526",
+              "industry": "Industrials"
+            },
+            {
+              "id": "1900000527",
+              "industry": "India Industrials",
+              "ivc": "Attractive"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T16:19:03.000Z",
+        "id": "4897f2f6-fc25-11ea-8b3b-ff748e7f50fc",
+        "hl": "Societe Generale: Test please ignore",
+        "a": {
+          "id": "0f9e0379-2acc-433c-bef6-e1703e29e19a",
+          "n": " Marc A Chamberlain"
+        },
+        "co": [
+          {
+            "id": "0f9e0379-2acc-433c-bef6-e1703e29e19a",
+            "n": " Marc A Chamberlain"
+          }
+        ],
+        "dt": "application/pdf",
+        "pt": "SOGN.PA",
+        "pv": "4",
+        "pn": "Foundation",
+        "pc": "8",
+        "hi": {},
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "SOGN.PA",
+              "srp": null,
+              "src": "Equal-weight"
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "SOGN.PA",
+              "ptc": "48.60",
+              "cy": "EUR"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1700000863",
+              "industry": "Aerospace  Defence"
+            },
+            {
+              "id": "1700000703",
+              "industry": "Banks",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T13:44:58.000Z",
+        "ab": "The US & China aren't decoupling, but are disassociating in key economic areas, with Europe facing a difficult balancing act. This accelerates the trend towards a Multipolar world. Using proprietary supply chain & revenue network maps & our global research colleagues, we identify key sector trends",
+        "id": "52630bb6-fc0e-11ea-8b3b-ff748e7f50fc",
+        "hl": "China Consumer Staples: Investing without interactive",
+        "a": {
+          "id": "738a9af0-eac3-4592-aab6-e1703e29e19a",
+          "n": " Shalini Kumari"
+        },
+        "co": [
+          {
+            "id": "738a9af0-eac3-4592-aab6-e1703e29e19a",
+            "n": " Shalini Kumari"
+          },
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Insight",
+        "pc": "187",
+        "hi": {},
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1900000012",
+              "industry": "Consumer"
+            },
+            {
+              "id": "1900000033",
+              "industry": "Consumer"
+            },
+            {
+              "id": "1900000855",
+              "industry": "China Consumer Staples",
+              "ivc": "Cautious"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T13:29:35.000Z",
+        "id": "602f327e-fc0e-11ea-8b3b-ff748e7f50fc",
+        "hl": "Europe Insight: BDD article, Please do not edit",
+        "a": {
+          "id": "624ed61c-42d4-4c95-a969-d9b3e64a1f86",
+          "n": " Analyst Build9"
+        },
+        "co": [
+          {
+            "id": "624ed61c-42d4-4c95-a969-d9b3e64a1f86",
+            "n": " Analyst Build9"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Idea",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "Europe Insight"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {},
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      }
+ ,
+      {
+        "pd": "2020-09-21T13:28:20.000Z",
+        "id": "28cb98a4-fc0e-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T13:26:49.000Z",
+        "id": "ec7a7da2-fc0d-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T13:25:09.000Z",
+        "id": "b626933a-fc0d-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T13:23:37.000Z",
+        "id": "7f33d1ee-fc0d-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T13:17:25.000Z",
+        "id": "ac363282-fc0c-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample BDD article.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T13:16:11.000Z",
+        "id": "7d6051b8-fc0c-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T13:14:47.000Z",
+        "id": "48fca7fa-fc0c-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T13:13:25.000Z",
+        "id": "1f3d766a-fc0c-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Insight",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T13:12:16.000Z",
+        "id": "f09b45bc-fc0b-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "GPN.N",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "GPN.N"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T13:10:56.000Z",
+        "id": "c445813a-fc0b-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Insight",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      }
+ ,
+      {
+        "pd": "2020-09-21T13:10:03.000Z",
+        "ab": "We believe the share price will rise relative to the industry over the next 15 days. This is because of an earnings release. TEST, PLEASE IGNORE We estimate that there is about a 60% to 70% (or \"likely\") probability for the scenario. Estimated probabilities are illustrative and assigned subjectively based on our assessment of the likelihood of the scenario. THIS IS A TEST ARTICLE AND SHOULD NOT...",
+        "id": "3aec9570-fc03-11ea-8b3b-ff748e7f50fc",
+        "hl": "Afya Ltd - TEST, PLEASE IGNORE /Vivek's use: Research Tactical Idea",
+        "a": {
+          "id": "a03980bb-0585-489a-b099-ee467e0d63e1",
+          "n": " Adam K Martin CA"
+        },
+        "co": [
+          {
+            "id": "a03980bb-0585-489a-b099-ee467e0d63e1",
+            "n": " Adam K Martin CA"
+          }
+        ],
+        "dt": "application/pdf",
+        "pt": "AFYA.O",
+        "pv": "4",
+        "pn": "Idea",
+        "pc": "7",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "Research Tactical Idea"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "AFYA.O",
+              "srp": null,
+              "src": "Overweight"
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "AFYA.O"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500005454",
+              "industry": "LatAm Small and Mid Cap"
+            },
+            {
+              "id": "2123458268",
+              "industry": "Brazil Education Services_test"
+            },
+            {
+              "id": "1500005410",
+              "industry": "Brazil Education Services",
+              "ivc": "Attractive"
+            }
+          ]
+        },
+        "pst": "Research Tactical Idea",
+        "pstc": "ResearchTacticalIdea",
+        "pcat1": "Comment"
+      },
+      {
+        "pd": "2020-09-21T13:09:41.000Z",
+        "id": "9552d544-fc0b-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "GPN.N",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "GPN.N"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T13:05:53.000Z",
+        "ab": "THIS IS A TEST ARTICLE AND SHOULD NOT BE CONSIDERED VALID RESEARCH.",
+        "id": "1274db32-fc0a-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: RTAV-149 : Duration test for Audio ENG",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "3",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "Audio"
+          ]
+        },
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/08/27/ArticlePages/ARBUILD920200827143825/morganstanley.jpg?uuid=4cee3514-e874-11ea-91b7-6d0c0666a8a0",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=l1bf7b10-3qmr-g002-b7b1-df892d34837f&store=0&d=1&user=4d9d265qst5-2&__gda__=1830315599_f3000520b41b1822b1a8814f57578382#0011&4d9d265qst5-1&1830315599_4a6a42b84e214855aaea8cc2b5650f81&0001&4d9d265qst5-0&1830315599_d09d7da13eb64008b14cdc0fcdf83858",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T12:54:40.000Z",
+        "ab": "THIS IS A TEST ARTICLE AND SHOULD NOT BE CONSIDERED VALID RESEARCH.",
+        "id": "eb52ec98-fc08-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: RTAV-149 : Duration test Video ENG",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Foundation",
+        "pc": "3",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/08/27/ArticlePages/ARBUILD920200827145438/msresearch.jpg?uuid=b34e6d78-e875-11ea-91b7-6d0c0666a8a0",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=l10nk5ag-3qmr-g002-b7b1-df892d34837f&store=0&d=1&user=4d9d207er14-2&__gda__=1830315599_c871ca8c851a63d6efa7c93bc81cea09#0011&4d9d207er14-1&1830315599_7b2fff8e71f2b679503b98f4d82aabbf&0001&4d9d207er14-0&1830315599_70eaa31a5979c8f7c0426e467af0de13",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T11:23:33.000Z",
+        "id": "b65bcebc-fbfc-11ea-8b3b-ff748e7f50fc",
+        "hl": "Europe Insight: BDD article, Please do not edit",
+        "a": {
+          "id": "624ed61c-42d4-4c95-a969-d9b3e64a1f86",
+          "n": " Analyst Build9"
+        },
+        "co": [
+          {
+            "id": "624ed61c-42d4-4c95-a969-d9b3e64a1f86",
+            "n": " Analyst Build9"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Idea",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "Europe Insight"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {},
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T11:21:31.000Z",
+        "id": "5f2681e6-fbfc-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T11:19:27.000Z",
+        "id": "18b238ae-fbfc-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T11:17:13.000Z",
+        "id": "c621d8f6-fbfb-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T11:15:09.000Z",
+        "id": "80d6c41e-fbfb-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T11:05:56.000Z",
+        "id": "3814164c-fbfa-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample BDD article.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      }
+,
+      {
+        "pd": "2020-09-21T11:04:09.000Z",
+        "ab": "TEST, PLEASE IGNORE",
+        "id": "73c08c9a-fbf8-11ea-8b3b-ff748e7f50fc",
+        "hl": "EM Strategy: TEST, PLEASE IGNORE : Meena - emerging Markets",
+        "a": {
+          "id": "a712a3fe-cb0e-4880-9a21-e1703e29e19a",
+          "n": " Meena Shinde"
+        },
+        "co": [
+          {
+            "id": "a712a3fe-cb0e-4880-9a21-e1703e29e19a",
+            "n": " Meena Shinde"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "Quantwise",
+            "EM Strategy"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {},
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T11:04:01.000Z",
+        "id": "f0cf2e16-fbf9-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T11:02:01.000Z",
+        "id": "ac2bc95e-fbf9-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample BDD article.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T11:00:04.000Z",
+        "id": "63caa95a-fbf9-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T10:57:37.000Z",
+        "id": "0bbd39a8-fbf9-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "GPN.N",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "GPN.N"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T10:55:10.000Z",
+        "id": "b37b8f4c-fbf8-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "GPN.N",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "GPN.N"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T10:32:33.000Z",
+        "id": "ac8f0774-fbf1-11ea-8b3b-ff748e7f50fc",
+        "hl": "Advance Residence Investment: TEST, PLEASE IGNORE : Video in front matter , video in section and multiple videos, Suppress OOO : false and undeliverable : true",
+        "a": {
+          "id": "eb8d0d3b-a2f3-4afe-a07c-e1703e29e19a",
+          "n": " Divya Gorivale"
+        },
+        "co": [
+          {
+            "id": "eb8d0d3b-a2f3-4afe-a07c-e1703e29e19a",
+            "n": " Divya Gorivale"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Idea",
+        "pc": "7",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/09/21/ArticlePages/ARGORIVALE20200921100318/Clipboard-0007.jpg?uuid=30cea2aa-fbf3-11ea-9914-6ec9d0f050f6",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=kqvhat8g-3qmr-g002-b7b1-df892d34837f&store=0&d=1&user=4d9cz11dv12-2&__gda__=1830315599_9678b10cdc2d7e4d75ecccad6c3c6154#0011&4d9cz11dv12-1&1830315599_532ddb733f3d9fb79c60383834062c84&0001&4d9cz11dv12-0&1830315599_3c809fd3f72f760a410ea6073b591936",
+            "p": false
+          },
+          {
+            "th": "/PublishedContent2/2020/09/21/ArticlePages/ARGORIVALE20200921100318/Clipboard.jpg?uuid=ce7fb86e-fbf2-11ea-9914-6ec9d0f050f6",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=9cvtmtk0-3qn8-g002-b5b9-0795b44a95d3&store=0&d=1&user=17pyvl32czt8-2&__gda__=1830315599_91f787ddd27b29dd5ef14eb33c642ffb#0011&17pyvl32czt8-1&1830315599_3c5a5c7c95a5e45df368e6e6e3ceb421&0001&17pyvl32czt8-0&1830315599_9345e39d9930280082c2fb8ec2098eb1",
+            "p": false
+          },
+          {
+            "th": "/PublishedContent2/2020/09/21/ArticlePages/ARGORIVALE20200921100318/Clipboard-0006.jpg?uuid=021f8fb4-fbf3-11ea-9914-6ec9d0f050f6",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=j56hokdg-3qms-g002-b7b1-df892d34837f&store=0&d=1&user=4d9q9m0cfkr-2&__gda__=1830315598_4d51cbd4e3d445a43503cd5e520acd4e#0011&4d9q9m0cfkr-1&1830315598_748f21b510e283f4b37d6f62dd8ea727&0001&4d9q9m0cfkr-0&1830315598_1a40cfb2d8d7495f082855e4c6767848",
+            "p": false
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "2123457584",
+              "industry": "Advance Residence Investment"
+            },
+            {
+              "id": "2123457585",
+              "industry": "Advance Residence Investment",
+              "ivc": "Attractive"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T10:00:00.000Z",
+        "id": "4e5cbb66-fbf0-11ea-8b3b-ff748e7f50fc",
+        "hl": "Airlines: TEST, PLEASE IGNORE : Meena - Published article with Europe region",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1800000013",
+              "industry": "Transportation"
+            },
+            {
+              "id": "1500005219",
+              "industry": "Airlines",
+              "ivc": "Attractive"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T09:41:36.000Z",
+        "id": "7122aec8-fbee-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T09:39:46.000Z",
+        "id": "35d4c41e-fbee-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      }
+, 
+      {
+        "pd": "2020-09-21T09:38:07.000Z",
+        "id": "f65e741a-fbed-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T09:38:04.000Z",
+        "id": "da7a0708-fbea-11ea-8b3b-ff748e7f50fc",
+        "hl": "Advance Residence Investment: TEST, PLEASE IGNORE : Audio in article front matter and in section and multiple audio scenarios",
+        "a": {
+          "id": "eb8d0d3b-a2f3-4afe-a07c-e1703e29e19a",
+          "n": " Divya Gorivale"
+        },
+        "co": [
+          {
+            "id": "eb8d0d3b-a2f3-4afe-a07c-e1703e29e19a",
+            "n": " Divya Gorivale"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "7",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/09/21/ArticlePages/ARGORIVALE20200921091428/Clipboard-0006.jpg?uuid=0412fea2-fbec-11ea-9914-6ec9d0f050f6",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=jbonm8h0-3qn7-g002-b5b9-0795b44a95d3&store=0&d=1&user=17pw6ygpzm8a-2&__gda__=1830315598_0843b493b16678ffef252845424dd055#0011&17pw6ygpzm8a-1&1830315598_7f3305038c9567bca1ff3ce5b29d9bc3&0001&17pw6ygpzm8a-0&1830315598_9cb9bd38607869668722dc1c2230a0ef",
+            "p": false
+          },
+          {
+            "th": "/PublishedContent2/2020/09/21/ArticlePages/ARGORIVALE20200921091428/Clipboard.jpg?uuid=b877f2d6-fbeb-11ea-9914-6ec9d0f050f6",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=77j0oc80-3qn8-g002-b5b9-0795b44a95d3&store=0&d=1&user=17pym2qtirt7-2&__gda__=1830315600_a081fe95ce080991ff437bf32fb57a5d#0011&17pym2qtirt7-1&1830315600_d25ccc643f657590526c8d5c18835579&0001&17pym2qtirt7-0&1830315600_44f309c5f69219a13850b83ac08f5780",
+            "p": false
+          },
+          {
+            "th": "/PublishedContent2/2020/09/21/ArticlePages/ARGORIVALE20200921091428/Clipboard-0007.jpg?uuid=758ad5e0-fbed-11ea-9914-6ec9d0f050f6",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=lr140ni0-3qms-g002-b7b1-df892d34837f&store=0&d=1&user=4d9rfy02qn0-2&__gda__=1830315599_8c8db6f9d0a659e815d06078e1ef4da1#0011&4d9rfy02qn0-1&1830315599_18b361dd50867802bfc3a455f3745ebf&0001&4d9rfy02qn0-0&1830315599_5b8286c3a1a1b4427a7940c460807ea2",
+            "p": false
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "2123457584",
+              "industry": "Advance Residence Investment"
+            },
+            {
+              "id": "2123457585",
+              "industry": "Advance Residence Investment",
+              "ivc": "Attractive"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T09:09:05.000Z",
+        "ab": "THIS IS A TEST ARTICLE AND SHOULD NOT BE CONSIDERED VALID RESEARCH.",
+        "id": "99e2d960-fbe8-11ea-8b3b-ff748e7f50fc",
+        "hl": "z_periodical: TEST, PLEASE IGNORE : low res",
+        "a": {
+          "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+          "n": " Sheela Dias Jadhav"
+        },
+        "co": [
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          },
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "5",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "Audio",
+            "z_periodical"
+          ]
+        },
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/09/21/ArticlePages/ARBUILD920200921085821/low_res_test.PNG?uuid=bfe2e8b2-fbe8-11ea-9e9c-4f72b0d6240d",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=l1dsdf40-3qni-g002-b44f-f9f5501fa6e6&store=0&d=1&user=c5iwoynjti1v-2&__gda__=1830315599_9fe3a841c83a050910bc5b2b0fb07f37#0011&c5iwoynjti1v-1&1830315599_4c1b420eb56ade7e887fdbfb5aa5ae1d&0001&c5iwoynjti1v-0&1830315599_3244fb15ee3772d715b8f086f6007841",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500005515",
+              "industry": "Apparel and Footwear"
+            },
+            {
+              "id": "1500005516",
+              "industry": "Apparel and Footwear"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T08:41:58.000Z",
+        "id": "39d25938-fbe3-11ea-8b3b-ff748e7f50fc",
+        "hl": "Europe Insight: TEST, PLEASE IGNORE : audio article and supress OOO False and Supress Undeliverable False",
+        "a": {
+          "id": "eb8d0d3b-a2f3-4afe-a07c-e1703e29e19a",
+          "n": " Divya Gorivale"
+        },
+        "co": [
+          {
+            "id": "eb8d0d3b-a2f3-4afe-a07c-e1703e29e19a",
+            "n": " Divya Gorivale"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Foundation",
+        "pc": "5",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "Audio",
+            "Europe Insight"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500005381",
+              "industry": "North American Gold"
+            },
+            {
+              "id": "1500005382",
+              "industry": "North American Gold"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T08:07:56.000Z",
+        "ab": "THIS IS A TEST ARTICLE AND SHOULD NOT BE CONSIDERED VALID RESEARCH.",
+        "id": "04382cde-fbdf-11ea-8b3b-ff748e7f50fc",
+        "hl": "z_periodical: TEST, PLEASE IGNORE : e2e test",
+        "a": {
+          "id": "baaf1904-28b0-4df8-98a5-e1703e29e19a",
+          "n": " Sumanta Banerjee"
+        },
+        "co": [
+          {
+            "id": "baaf1904-28b0-4df8-98a5-e1703e29e19a",
+            "n": " Sumanta Banerjee"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "5",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "z_periodical"
+          ]
+        },
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/09/21/ArticlePages/ARBUILD920200921074945/Clipboard.jpg?uuid=6ae991d8-fbe0-11ea-9914-6ec9d0f050f6",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=rsq82a50-3qnr-g002-91c0-5daeb8d62089&store=0&d=1&user=c5svta6cqhi6-2&__gda__=1830315599_ecedbea49abfe0c4f4160611bea26a00#0011&c5svta6cqhi6-1&1830315599_128892eb5d64d3991dff67ec6e28459f&0001&c5svta6cqhi6-0&1830315599_8ddcba75cab457fd4bb48539e231a130",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500005515",
+              "industry": "Apparel and Footwear"
+            },
+            {
+              "id": "1500005516",
+              "industry": "Apparel and Footwear"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T08:04:19.000Z",
+        "id": "6c820f94-fbdf-11ea-8b3b-ff748e7f50fc",
+        "hl": "Global Macro Strategist: Jira 303 win10/p3 Pulse",
+        "a": {
+          "id": "bb642478-fcef-4c84-ba49-d9b3e64a1f86",
+          "n": " Niyati Pandit"
+        },
+        "co": [
+          {
+            "id": "bb642478-fcef-4c84-ba49-d9b3e64a1f86",
+            "n": " Niyati Pandit"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "Global Macro Strategist"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000481",
+              "industry": "Banks"
+            },
+            {
+              "id": "2123456753",
+              "industry": "Banking"
+            }
+          ]
+        },
+        "pst": "Pulse",
+        "pstc": "Pulse",
+        "pcat1": "Comment"
+      },
+      {
+        "pd": "2020-09-21T07:51:08.000Z",
+        "id": "23f5c942-fbde-11ea-8b3b-ff748e7f50fc",
+        "hl": "Glencore PLC: Jira 303 p3/win7",
+        "a": {
+          "id": "bb642478-fcef-4c84-ba49-d9b3e64a1f86",
+          "n": " Niyati Pandit"
+        },
+        "co": [
+          {
+            "id": "bb642478-fcef-4c84-ba49-d9b3e64a1f86",
+            "n": " Niyati Pandit"
+          }
+        ],
+        "dt": "application/pdf",
+        "pt": "GLNJ.J",
+        "pv": "4",
+        "pn": "Insight",
+        "pc": "9",
+        "hi": {},
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "GLNJ.J",
+              "srp": null,
+              "src": "Overweight"
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "GLNJ.J",
+              "ptc": "NA",
+              "cy": "ZAX"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1700000656",
+              "industry": "Metals  Mining"
+            },
+            {
+              "id": "1700000657",
+              "industry": "Metals  Mining",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T07:46:02.000Z",
+        "ab": "Some real-time indicators continue improving, but survey and hard data have been more mixed lately. European leaders now appear to be closing in on agreement on a Recovery Fund.",
+        "id": "516a2a8a-fbac-11ea-8b3b-ff748e7f50fc",
+        "hl": "Global Macro Commentary BDD Test Do Not Update: Workflow Smoke Testing - Author - Equity Team",
+        "a": {
+          "id": "bb642478-fcef-4c84-ba49-d9b3e64a1f86",
+          "n": " Niyati Pandit"
+        },
+        "co": [
+          {
+            "id": "bb642478-fcef-4c84-ba49-d9b3e64a1f86",
+            "n": " Niyati Pandit"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Insight",
+        "pc": "13",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "Japan Discovery",
+            "Global Macro Commentary"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "MOBL.O",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "MOBL.O"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "2123456920",
+              "industry": "Aberdeen Asset Management"
+            },
+            {
+              "id": "2123456921",
+              "industry": "Aberdeen Asset Management"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T07:37:38.000Z",
+        "id": "6ee8a184-fbdb-11ea-8b3b-ff748e7f50fc",
+        "hl": "Japan Equity Strategy: Jira 303 win10/p3 Pulse",
+        "a": {
+          "id": "bb642478-fcef-4c84-ba49-d9b3e64a1f86",
+          "n": " Niyati Pandit"
+        },
+        "co": [
+          {
+            "id": "bb642478-fcef-4c84-ba49-d9b3e64a1f86",
+            "n": " Niyati Pandit"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "Japan Equity Strategy"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000481",
+              "industry": "Banks"
+            },
+            {
+              "id": "2123456753",
+              "industry": "Banking"
+            }
+          ]
+        },
+        "pst": "Pulse",
+        "pstc": "Pulse",
+        "pcat1": "Comment"
+      },
+      {
+        "pd": "2020-09-21T07:15:37.000Z",
+        "ab": "Two charts with same name article",
+        "id": "ca75a58a-fbd9-11ea-8b3b-ff748e7f50fc",
+        "hl": "Europe Insight: Jira 303 p3/win10 retest",
+        "a": {
+          "id": "bb642478-fcef-4c84-ba49-d9b3e64a1f86",
+          "n": " Niyati Pandit"
+        },
+        "co": [
+          {
+            "id": "bb642478-fcef-4c84-ba49-d9b3e64a1f86",
+            "n": " Niyati Pandit"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "Europe Insight"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500004436",
+              "industry": "Banking"
+            },
+            {
+              "id": "1500004843",
+              "industry": "Midcap Banks"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      }
+ ,
+      {
+        "pd": "2020-09-21T05:51:16.000Z",
+        "id": "58e37d76-fbce-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample BDD article.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T05:50:04.000Z",
+        "id": "2cfef49c-fbce-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T05:48:50.000Z",
+        "id": "0458f394-fbce-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample BDD article.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T05:47:41.000Z",
+        "id": "d64522b6-fbcd-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T05:46:22.000Z",
+        "id": "aaabfada-fbcd-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Insight",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T05:45:10.000Z",
+        "id": "7d17a524-fbcd-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "GPN.N",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "GPN.N"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T05:43:54.000Z",
+        "id": "54167c40-fbcd-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Insight",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T05:42:36.000Z",
+        "id": "216a3124-fbcd-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "GPN.N",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "GPN.N"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T01:35:59.000Z",
+        "id": "b14c863e-fbaa-11ea-8b3b-ff748e7f50fc",
+        "hl": "Europe Insight: BDD article, Please do not edit",
+        "a": {
+          "id": "624ed61c-42d4-4c95-a969-d9b3e64a1f86",
+          "n": " Analyst Build9"
+        },
+        "co": [
+          {
+            "id": "624ed61c-42d4-4c95-a969-d9b3e64a1f86",
+            "n": " Analyst Build9"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Idea",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "Europe Insight"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {},
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T01:34:42.000Z",
+        "id": "78792b0a-fbaa-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      }
+, 
+      {
+        "pd": "2020-09-21T01:33:14.000Z",
+        "id": "407b87b6-fbaa-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T01:31:40.000Z",
+        "id": "0ae20cec-fbaa-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T01:30:10.000Z",
+        "id": "d76329aa-fba9-11ea-8b3b-ff748e7f50fc",
+        "hl": "ABC periodical: Testing : Autoblast Email : BDD Test",
+        "a": {
+          "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+          "n": " Nisha Devdiga CA"
+        },
+        "co": [
+          {
+            "id": "b90eb309-089f-4ac5-a8a9-e1703e29e19a",
+            "n": " Nisha Devdiga CA"
+          },
+          {
+            "id": "81bff896-949d-4b68-a561-d9b3e64a1f86",
+            "n": " Nitin Gangwani Sr"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "BluePaper",
+        "pc": "6",
+        "hi": {},
+        "pls": {
+          "pl": [
+            "ABC periodical"
+          ]
+        },
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1700001202",
+              "industry": "Oil  Gas"
+            },
+            {
+              "id": "1700001203",
+              "industry": "Oil & Gas"
+            }
+          ]
+        },
+        "pst": "Note",
+        "pstc": "Note",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T01:24:29.000Z",
+        "id": "186b8600-fba9-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample BDD article.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T01:23:24.000Z",
+        "id": "ec69292c-fba8-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T01:22:10.000Z",
+        "id": "c4fec14e-fba8-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample BDD article.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T01:21:01.000Z",
+        "id": "97e2a39c-fba8-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Sample article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T01:19:48.000Z",
+        "id": "6f1103b4-fba8-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Insight",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T01:18:38.000Z",
+        "id": "41c37914-fba8-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "GPN.N",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "GPN.N"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-21T01:17:21.000Z",
+        "id": "16dd3a0a-fba8-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Insight",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      }
+,
+      {
+        "pd": "2020-09-21T01:15:51.000Z",
+        "id": "e0a0b516-fba7-11ea-8b3b-ff748e7f50fc",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "GPN.N",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "GPN.N"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-20T05:47:55.000Z",
+        "id": "b811cb10-fb04-11ea-8657-2e1ded5e0869",
+        "hl": "Computer Services IT Consulting: Sample BDD article.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-20T05:46:45.000Z",
+        "id": "8a0deb90-fb04-11ea-8657-2e1ded5e0869",
+        "hl": "Computer Services IT Consulting: Sample article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-20T05:45:29.000Z",
+        "id": "613ab25c-fb04-11ea-8657-2e1ded5e0869",
+        "hl": "Computer Services IT Consulting: Sample BDD article.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-20T05:44:18.000Z",
+        "id": "32dc2bfc-fb04-11ea-8657-2e1ded5e0869",
+        "hl": "Computer Services IT Consulting: Sample article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-20T05:43:01.000Z",
+        "id": "08641d12-fb04-11ea-8657-2e1ded5e0869",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Insight",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-20T05:41:50.000Z",
+        "id": "dafc0772-fb03-11ea-8657-2e1ded5e0869",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "GPN.N",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "GPN.N"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-20T05:40:34.000Z",
+        "id": "b09d3e7e-fb03-11ea-8657-2e1ded5e0869",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Insight",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-20T05:39:18.000Z",
+        "id": "802f7356-fb03-11ea-8657-2e1ded5e0869",
+        "hl": "Computer Services IT Consulting: Test Article for BDD - Please do not use.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "au": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "aurl": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tb9ji7o0-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfnckx1qb-2&__gda__=1830315601_5c60eddcf208c634204839c4fce58c3d#0011&17kmfnckx1qb-1&1830315601_b8a5473ba465d343e71a4f0d54d33144&0001&17kmfnckx1qb-0&1830315601_ffecf5bf29d158c88b11d73f7d9d2b1b",
+            "p": true
+          }
+        ],
+        "lang": "eng",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "GPN.N",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "GPN.N"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Audio",
+        "pstc": "Audio",
+        "pcat1": "Report"
+      },
+      {
+        "pd": "2020-09-20T01:41:10.000Z",
+        "id": "3e6e1a24-fae2-11ea-8657-2e1ded5e0869",
+        "hl": "Computer Services IT Consulting: Sample BDD article.",
+        "a": {
+          "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+          "n": " AshishKumar Malik"
+        },
+        "co": [
+          {
+            "id": "554ad741-110d-4cad-91d5-e1703e29e19a",
+            "n": " AshishKumar Malik"
+          },
+          {
+            "id": "b9d90af9-e137-4c98-bab4-e1703e29e19a",
+            "n": " Sheela Dias Jadhav"
+          }
+        ],
+        "dt": "application/pdf",
+        "pv": "4",
+        "pn": "Update",
+        "pc": "6",
+        "hi": {},
+        "vi": [
+          {
+            "th": "/PublishedContent2/2020/05/26/ArticlePages/ARMALIK20200526140637/morganstanley.jpg?uuid=2c3faa62-b7c0-11ea-af6d-9e3126f8685b",
+            "vu": "https://linkback.uat.morganstanley.com/web/sendlink/webapp/BMServlet?file=tc1f3gvg-3qlm-g002-9efb-0795b44a95d3&store=0&d=1&user=17kmfr0vwt8k-2&__gda__=1830315603_ffd84e9917c769a17abaf4eeeb9f0551#0011&17kmfr0vwt8k-1&1830315603_0ff2c9db1cec190fb1061938511254f8&0001&17kmfr0vwt8k-0&1830315603_fea2620f1257d27964bcb9d1b00fa250",
+            "p": true
+          }
+        ],
+        "lang": "jpn",
+        "cinfo": {
+          "srcinfo": [
+            {
+              "ticker": "6269.T",
+              "srp": null,
+              "src": null
+            }
+          ],
+          "ptcinfo": [
+            {
+              "ticker": "6269.T"
+            }
+          ],
+          "ivcinfo": [
+            {
+              "id": "1500000052",
+              "industry": "Computer Services & IT Consulting"
+            },
+            {
+              "id": "1500005525",
+              "industry": "Computer Services  IT Consulting",
+              "ivc": "In-Line"
+            }
+          ]
+        },
+        "pst": "Video",
+        "pstc": "Video",
+        "pcat1": "Report"
+      }
+       ]
+ 
+}

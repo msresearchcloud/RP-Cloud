@@ -1,6 +1,8 @@
 package com.rp.clound.service;
 
+import com.rp.clound.response.FeedResponse;
+
 public interface FeedService {
 
-	String getFeed();
+	FeedResponse getFeed(String userId);
 }
