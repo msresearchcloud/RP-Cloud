@@ -17,6 +17,8 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+		<!-- This is the Kafka version in HDInsight 3.6 and above -->
+		<kafka.version>2.3.1</kafka.version>
 	</properties>
 
 	<dependencies>
@@ -46,6 +48,20 @@
 			<artifactId>mongo-java-driver</artifactId>
 			<version>3.4.2</version>
 		</dependency>
+
+		<!-- Kafka Dependencies -->
+		<dependency>
+			<groupId>org.apache.kafka</groupId>
+			<artifactId>kafka-clients</artifactId>
+			<version>${kafka.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.microsoft.azure</groupId>
+			<artifactId>msal4j</artifactId>
+			<version>1.6.1</version>
+		</dependency>
+		<!-- Kafka Dependencies -->
 
 	</dependencies>
 
