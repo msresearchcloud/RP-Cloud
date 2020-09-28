@@ -2,6 +2,8 @@ package com.rp.cloud.service.impl;
 
 import java.io.File;
 import java.io.FileReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -33,10 +35,12 @@ public class RcsServiceImpl implements RcsService {
 		try { 
 		    
 		    final ObjectMapper mapper = new ObjectMapper();
-			File file = ResourceUtils.getFile("classpath:response.txt");
-		    FileReader reader = new FileReader(file);
+		    ClassLoader classloader = Thread.currentThread().getContextClassLoader();
+		    InputStream inputStream = classloader.getResourceAsStream("response.txt");
 		    JSONParser jsonParser = new JSONParser();
-		    JSONObject jsonObject = (JSONObject) jsonParser.parse(reader);
+		    JSONObject jsonObject = (JSONObject)jsonParser.parse(
+		          new InputStreamReader(inputStream, "UTF-8"));
+		   
 		    if (null != jsonObject) {
 		    	 JSONArray documentsarray = (JSONArray)jsonObject.get("docs");
 		    	 if (null != documentsarray) {
@@ -50,7 +54,7 @@ public class RcsServiceImpl implements RcsService {
 		    logger.info("Total number of document are : " +documents.size());
 		   documentMap = documents.stream().collect(Collectors.toMap(ResearchDocument::getUuid, doc -> doc, (oldvalue, newvalue)->newvalue));
 		} catch (Exception e) {
-			logger.info("Exception occur while fetching document details" + e.getStackTrace());
+			logger.info("Exception occur while fetching document details" + e.getMessage());
 		}
 		logger.info("Final document map size is : " +documentMap.size());
 		return documentMap;
