@@ -13,6 +13,7 @@ import org.apache.kafka.clients.admin.TopicDescription;
 
 import org.apache.kafka.clients.admin.KafkaAdminClient;
 import org.json.simple.JSONObject;
+import org.json.simple.JSONValue;
 import org.json.simple.parser.JSONParser;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.*;
@@ -129,7 +130,8 @@ public class ResearchKafkaClient {
             Map<String, ResearchDocument> documentMap = rcsService.getDocumentDetails();
             documentMap.entrySet().parallelStream().forEach(e -> {
                 try {
-                    String result = sendMessage(e.getKey(), mapper.writeValueAsString(e.getValue()), topicName);
+                    String jsonValue = "{\"records\" : [ {\"key\" : \"" + e.getKey() + "\", \"value\" : \"" +  JSONValue.escape(mapper.writeValueAsString(e.getValue())) + "\"} ]}";
+                    String result = sendMessage(e.getKey(), jsonValue, topicName);
                     if(result != null){
                         successfullMsgs.add(result);
                     }
@@ -146,6 +148,18 @@ public class ResearchKafkaClient {
             throw new RuntimeException(e.getMessage(), e);
         }
     }
+
+    /* private String ecapse(String jsString) {
+        jsString = jsString.replace("\\", "\\\\");
+        jsString = jsString.replace("\"", "\\\"");
+        jsString = jsString.replace("\b", "\\b");
+        jsString = jsString.replace("\f", "\\f");
+        jsString = jsString.replace("\n", "\\n");
+        jsString = jsString.replace("\r", "\\r");
+        jsString = jsString.replace("\t", "\\t");
+        jsString = jsString.replace("/", "\\/");
+        return jsString;
+    } */
 
     private String sendMessage(String key, String payload, String topicName){
         try{
@@ -164,7 +178,7 @@ public class ResearchKafkaClient {
 
     public String consumeMessage(String topicName) {
         try  {
-            int partition_id = 1;
+            int partition_id = 0;
             int offset = 0;
             String uri = authHelper.getKafkaRestEndpoint() + consumeMsgAPI + topicName + "/partitions/" + partition_id + "/offsets/" + offset + "?count=1";
             ResponseEntity<String> response = executeRequest(uri, null, HttpMethod.GET);
