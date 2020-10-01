@@ -25,9 +25,9 @@ public class ResearchMongoClient {
 	private static  final Logger logger = LoggerFactory.getLogger(ResearchMongoClient.class);
 
 	public ResearchMongoClient() {
-		MongoClientURI uri = new MongoClientURI("mongodb://researchportal:P1m2u4ugPCZ7EnpT84KzhFnyHahV6TmDn3hDHbrBOsfwlq0bfgDeJH9xeDPVUl17zYa9ybTW0dH53Fwhp58TiQ==@researchportal.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@researchportal@");
+		MongoClientURI uri = new MongoClientURI("mongodb://researchportal-db:rWNfcYwatkA5pkpLikqM9tNIO3yx78Lv8ru7FfcUc69sxDg6OeSalsZFrTje1ICLw0qbBVniNOSpG88aiJwW2A==@researchportal-db.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@researchportal-db@");
 		mongoClient = new MongoClient(uri);  
-		database = mongoClient.getDatabase("researchportal");
+		database = mongoClient.getDatabase("researchportal-db");
 	}
 
 	public List<UserSubscriptionDetails> getFeedDetails(String userId) {
