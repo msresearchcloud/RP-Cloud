@@ -2,6 +2,7 @@ package com.rp.cloud.controller;
 
 import com.rp.cloud.client.ResearchKafkaClient;
 import com.rp.cloud.kafka.config.AuthHelper;
+import com.rp.cloud.response.UserSubscriptionDetails;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -19,12 +20,11 @@ public class MessagingController {
     @Autowired
     private ResearchKafkaClient adminClientWrapper;
 
-    @RequestMapping(value = {"/execute"}, produces = {"application/json"},
-            method = {RequestMethod.GET})
-    @ResponseBody
-    public String execute(@RequestParam("action") String action, @RequestParam(name = "topicName", required = false) String topicName)  {
-        return processAction(action, topicName);
-    }
+    @Autowired
+    private HttpServletRequest request;
+
+    @Autowired
+    private HttpServletResponse response;
 
     @RequestMapping(value = {"/authenticate"}, produces = {"application/json"},
             method = {RequestMethod.GET})
@@ -34,44 +34,37 @@ public class MessagingController {
         return authHelper.getAccessToken(httpRequest, httpResponse);
     }
 
-
-
-    /**
-     * Re <producer|consumer|describe|create|delete> <topicName> brokerhosts
-     *
-     * @param action    (producer|consumer|describe|create|delete)
-     * @param topicName
-     * @throws IOException
-     */
-    private String processAction(String action, String topicName) {
-
-        String response = null;
+    @RequestMapping(value = {"/create-topic"}, produces = {"application/json"},
+            method = {RequestMethod.GET})
+    @ResponseBody
+    public String createTopic(@RequestParam(name = "topicName") String topicName) {
         try {
-            // Get the brokers
-            switch (action.toLowerCase()) {
-                case "producer":
-                    response = adminClientWrapper.produceMessage(topicName);
-                    break;
-                case "consumer":
-                    response = adminClientWrapper.consumeMessage(topicName);
-                    break;
-                case "describe":
-                    response = adminClientWrapper.describeTopics(topicName);
-                    break;
-                case "create":
-                    response = adminClientWrapper.createTopics(topicName);
-                    break;
-                case "delete":
-                    adminClientWrapper.deleteTopics(topicName);
-                    response = "DeleteTopics - Topic : " + topicName;
-                    break;
-                default:
-                    break;
-            }
+            return adminClientWrapper.createTopics(topicName);
         } catch (IOException e) {
             e.printStackTrace();
-            response = "Error occurred while processing";
+            return "Error";
         }
-        return response;
     }
+
+    @RequestMapping(value = {"/describe-topics"}, produces = {"application/json"},
+            method = {RequestMethod.GET})
+    @ResponseBody
+    public String describeTopics() {
+        return adminClientWrapper.describeTopics();
+    }
+
+    @RequestMapping(value = {"/produce-message"}, produces = {"application/json"},
+            method = {RequestMethod.POST})
+    @ResponseBody
+    public String produceMessage(@RequestParam(name = "topicName") String topicName, @RequestBody UserSubscriptionDetails userSubscriptionDetails) {
+        return adminClientWrapper.produceMessage(topicName, userSubscriptionDetails);
+    }
+
+    @RequestMapping(value = {"/consume-message"}, produces = {"application/json"},
+            method = {RequestMethod.GET})
+    @ResponseBody
+    public String consumeMessage(@RequestParam(name = "topicName") String topicName) {
+        return adminClientWrapper.consumeMessage(topicName);
+    }
+
 }

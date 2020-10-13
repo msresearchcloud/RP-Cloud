@@ -47,6 +47,26 @@ public class ResearchMongoClient {
 		}
 	}
 
+
+	public String updateFeedDetails(UserSubscriptionDetails userSubscriptionDetails) {
+		try {
+			logger.info("Hitting DB to update feed details for user : "+ userSubscriptionDetails.getUserId());
+			MongoCollection<Document> collection = database.getCollection("research-user-event");
+
+			ObjectMapper mapper = new ObjectMapper();
+			Document dbObject = Document.parse(mapper.writeValueAsString(userSubscriptionDetails));
+			collection.insertOne(dbObject);
+			String message = String.format("Record inserted for userId : %s", userSubscriptionDetails.getUserId());
+			logger.info(message);
+			return message;
+		} catch(Exception e) {
+			String message = String.format("Exception occur while inserting detail in db for user : %s", userSubscriptionDetails.getUserId());
+			logger.info(message);
+			logger.info(e.getStackTrace().toString());
+			return message;
+		}
+	}
+
 	private List<UserSubscriptionDetails> parseData(FindIterable<Document> queryResult) throws Exception {
 		List<UserSubscriptionDetails> userSubscriptionDetails = new ArrayList<>();
 		final ObjectMapper mapper = new ObjectMapper();
