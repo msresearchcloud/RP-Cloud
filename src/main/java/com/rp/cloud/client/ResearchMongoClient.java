@@ -3,6 +3,8 @@ package com.rp.cloud.client;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.mongodb.client.model.UpdateOptions;
+import com.mongodb.client.result.UpdateResult;
 import org.bson.Document;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -44,6 +46,30 @@ public class ResearchMongoClient {
 			logger.info("Exception occur while fetching detail from db for user : "+userId);
 			e.printStackTrace();
 			return null;
+		}
+	}
+
+
+	public String updateFeedDetails(UserSubscriptionDetails userSubscriptionDetails) {
+		try {
+			logger.info("Hitting DB to update feed details for user : "+ userSubscriptionDetails.getUserId());
+			MongoCollection<Document> collection = database.getCollection("research-user-event");
+
+			BasicDBObject query = new BasicDBObject();
+			query.append("_id", userSubscriptionDetails.getUserId());
+			ObjectMapper mapper = new ObjectMapper();
+			Document dbObject = Document.parse(mapper.writeValueAsString(userSubscriptionDetails));
+			UpdateResult result = collection.updateOne(query, dbObject, (new UpdateOptions()).upsert(true));
+			logger.info("Update Matched Count....: " + result.getMatchedCount());
+			logger.info("Update Modified Count...: " + result.getModifiedCount());
+			String message = String.format("Record inserted for userId : %s", userSubscriptionDetails.getUserId());
+			logger.info(message);
+			return message;
+		} catch(Exception e) {
+			String message = String.format("Exception occur while inserting detail in db for user : %s", userSubscriptionDetails.getUserId());
+			logger.info(message);
+			logger.info(e.getStackTrace().toString());
+			return message;
 		}
 	}
 

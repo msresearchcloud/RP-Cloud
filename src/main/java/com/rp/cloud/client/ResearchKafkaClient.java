@@ -4,6 +4,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.rp.cloud.kafka.config.AuthHelper;
 import com.rp.cloud.response.ResearchDocument;
 import com.rp.cloud.response.UserFeedResponse;
+import com.rp.cloud.response.UserSubscriptionDetails;
 import com.rp.cloud.service.impl.RcsServiceImpl;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.clients.admin.AdminClient;
@@ -12,11 +13,13 @@ import org.apache.kafka.clients.admin.DeleteTopicsResult;
 import org.apache.kafka.clients.admin.TopicDescription;
 
 import org.apache.kafka.clients.admin.KafkaAdminClient;
+import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.JSONValue;
 import org.json.simple.parser.JSONParser;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.*;
+import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 import org.springframework.util.ResourceUtils;
 import org.springframework.web.client.RestTemplate;
@@ -42,6 +45,9 @@ public class ResearchKafkaClient {
     @Autowired
     private RcsServiceImpl rcsService;
 
+    @Autowired
+    private ResearchMongoClient mongoClient;
+
     // Kafka Rest APIs
     private String api_version = "v1";
     private static String get_topics_api = "/v1/metadata/topics";
@@ -63,7 +69,7 @@ public class ResearchKafkaClient {
         return properties;
     }
 
-    public String describeTopics(String topicName) throws IOException {
+    public String describeTopics() {
         // Set properties used to configure admin client
         //Properties properties = getProperties(brokers);
 
@@ -123,25 +129,20 @@ public class ResearchKafkaClient {
         return null;
     }
 
-    public String produceMessage(String topicName) {
+    public String produceMessage(String topicName, UserSubscriptionDetails userSubscriptionDetails) {
         try  {
-            List<String> successfullMsgs = new ArrayList<>();
+            List<String> successMsg = new ArrayList<>();
             ObjectMapper mapper = new ObjectMapper();
-            Map<String, ResearchDocument> documentMap = rcsService.getDocumentDetails();
-            documentMap.entrySet().parallelStream().forEach(e -> {
-                try {
-                    String jsonValue = "{\"records\" : [ {\"key\" : \"" + e.getKey() + "\", \"value\" : \"" +  JSONValue.escape(mapper.writeValueAsString(e.getValue())) + "\"} ]}";
-                    String result = sendMessage(e.getKey(), jsonValue, topicName);
+
+                    String jsonValue = "{\"records\" : [ {\"key\" : \"" + userSubscriptionDetails.getUserId() + "\", \"value\" : \"" +  JSONValue.escape(mapper.writeValueAsString(userSubscriptionDetails)) + "\"} ]}";
+                    String result = sendMessage(userSubscriptionDetails.getUserId(), jsonValue, topicName);
                     if(result != null){
-                        successfullMsgs.add(result);
+                        successMsg.add(result);
                     }
-                } catch (JsonProcessingException ex) {
-                    ex.printStackTrace();
-                }
-            });
+
 
             System.out.print("Producer produces message for topic : " + topicName);
-            return "Message Sent for keys : " + successfullMsgs.toString();
+            return "Message Sent for keys : " + successMsg.toString();
         } catch (Exception e) {
             System.out.print("Error occurred while producing the message\n");
             System.out.print(e.getMessage());
@@ -176,6 +177,11 @@ public class ResearchKafkaClient {
         return null;
     }
 
+    //@Scheduled(fixedRate = 30000)
+    public String consumeMessage(){
+        return consumeMessage("research-feed");
+    }
+
     public String consumeMessage(String topicName) {
         try  {
             int partition_id = 0;
@@ -184,7 +190,21 @@ public class ResearchKafkaClient {
             ResponseEntity<String> response = executeRequest(uri, null, HttpMethod.GET);
             HttpStatus statusCode = response.getStatusCode();
             if(HttpStatus.OK == statusCode){
-                return response.getBody();
+                String responseMsg = null;
+                ObjectMapper mapper = new ObjectMapper();
+                JSONParser jsonParser = new JSONParser();
+                JSONObject jsonObject = (JSONObject) jsonParser.parse(response.getBody());
+                JSONArray jsonArray = (JSONArray) jsonObject.get("records");
+
+                Iterator<JSONObject> iterator = jsonArray.iterator();
+                while(iterator.hasNext()) {
+                    JSONObject parsedObj = iterator.next();
+                    String value = parsedObj.get("value").toString();
+                    UserSubscriptionDetails subsDetails = mapper.readValue(value, UserSubscriptionDetails.class);
+                     responseMsg = mongoClient.updateFeedDetails(subsDetails);
+                }
+
+                return responseMsg;
             }
             System.out.print("Consumer consumes message from topic :  " + topicName);
         } catch (Exception e) {
