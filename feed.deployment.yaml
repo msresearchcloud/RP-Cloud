@@ -19,7 +19,9 @@ spec:
           image: researchportal/rp-cloud:v7
           ports:
             - containerPort: 80
-          type: LoadBalancer
+          resources:
+            requests:
+              cpu: 10m
           livenessProbe:
             httpGet:
               path: /statusservice/status
@@ -41,10 +43,3 @@ spec:
     - protocol: TCP
       port: 80
       targetPort: 80
-  resources:
-    requests:
-      memory: "200Mi"
-      cpu: "10m"
-    limits:
-      memory: "300Mi"
-      cpu: "30m"
