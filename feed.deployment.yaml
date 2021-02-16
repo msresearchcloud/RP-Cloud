@@ -21,7 +21,7 @@ spec:
             - containerPort: 80
           resources:
             requests:
-              cpu: 10m
+              cpu: 30m
           livenessProbe:
             httpGet:
               path: /statusservice/status
