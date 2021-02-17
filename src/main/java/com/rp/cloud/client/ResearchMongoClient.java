@@ -5,10 +5,12 @@ import java.util.List;
 
 import com.mongodb.client.model.UpdateOptions;
 import com.mongodb.client.result.UpdateResult;
+import com.nimbusds.oauth2.sdk.util.CollectionUtils;
 import org.bson.Document;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
+import java.util.stream.Collectors;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.mongodb.BasicDBObject;
@@ -52,20 +54,30 @@ public class ResearchMongoClient {
 
 	public String updateFeedDetails(UserSubscriptionDetails userSubscriptionDetails) {
 		try {
-			logger.info("Hitting DB to update feed details for user : "+ userSubscriptionDetails.getUserId());
+			logger.info("Hitting DB to update feed details for user : " + userSubscriptionDetails.getUserId());
+			String message = null;
 			MongoCollection<Document> collection = database.getCollection("research-user-event");
-
-			BasicDBObject query = new BasicDBObject();
-			query.append("_id", userSubscriptionDetails.getUserId());
-			ObjectMapper mapper = new ObjectMapper();
-			Document dbObject = Document.parse(mapper.writeValueAsString(userSubscriptionDetails));
-			UpdateResult result = collection.updateOne(query, dbObject, (new UpdateOptions()).upsert(true));
-			logger.info("Update Matched Count....: " + result.getMatchedCount());
-			logger.info("Update Modified Count...: " + result.getModifiedCount());
-			String message = String.format("Record inserted for userId : %s", userSubscriptionDetails.getUserId());
-			logger.info(message);
+			List<UserSubscriptionDetails> existingSubs = getFeedDetails(userSubscriptionDetails.getUserId());
+			if (CollectionUtils.isNotEmpty(existingSubs)) {
+				List<String> existingDocs = existingSubs.stream().flatMap(e -> e.getDocs().stream()).collect(Collectors.toList());
+				userSubscriptionDetails.getDocs().addAll(existingDocs);
+				BasicDBObject query = new BasicDBObject();
+				query.append("userId", userSubscriptionDetails.getUserId());
+				ObjectMapper mapper = new ObjectMapper();
+				Document dbObject = Document.parse(mapper.writeValueAsString(userSubscriptionDetails));
+				collection.findOneAndReplace(query, dbObject);
+				message = String.format("Record updated for userId : %s", userSubscriptionDetails.getUserId());
+			} else {
+				//Insert the data
+				BasicDBObject query = new BasicDBObject();
+				query.append("_id", userSubscriptionDetails.getUserId());
+				ObjectMapper mapper = new ObjectMapper();
+				Document dbObject = Document.parse(mapper.writeValueAsString(userSubscriptionDetails));
+				collection.insertOne(dbObject);
+				message = String.format("Record inserted for userId : %s", userSubscriptionDetails.getUserId());
+			}
 			return message;
-		} catch(Exception e) {
+		} catch (Exception e) {
 			String message = String.format("Exception occur while inserting detail in db for user : %s", userSubscriptionDetails.getUserId());
 			logger.info(message);
 			logger.info(e.getStackTrace().toString());
@@ -76,9 +88,11 @@ public class ResearchMongoClient {
 	private List<UserSubscriptionDetails> parseData(FindIterable<Document> queryResult) throws Exception {
 		List<UserSubscriptionDetails> userSubscriptionDetails = new ArrayList<>();
 		final ObjectMapper mapper = new ObjectMapper();
-		for (Document doc : queryResult) {
-			UserSubscriptionDetails userSubsricption =  mapper.readValue(doc.toJson(), UserSubscriptionDetails.class);
-			userSubscriptionDetails.add(userSubsricption);
+		if (queryResult != null) {
+			for (Document doc : queryResult) {
+				UserSubscriptionDetails userSubsricption = mapper.readValue(doc.toJson(), UserSubscriptionDetails.class);
+				userSubscriptionDetails.add(userSubsricption);
+			}
 		}
 		return userSubscriptionDetails;
 	}
