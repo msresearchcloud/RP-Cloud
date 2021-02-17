@@ -9,4 +9,4 @@ spec:
     name: my-feed-deployment
   minReplicas: 2
   maxReplicas: 10
-  targetCPUUtilizationPercentage: 30
+  targetCPUUtilizationPercentage: 20
