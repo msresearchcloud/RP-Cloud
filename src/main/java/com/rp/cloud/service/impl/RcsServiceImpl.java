@@ -36,7 +36,7 @@ public class RcsServiceImpl implements RcsService {
 		    
 		    final ObjectMapper mapper = new ObjectMapper();
 		    ClassLoader classloader = Thread.currentThread().getContextClassLoader();
-		    InputStream inputStream = classloader.getResourceAsStream("response.txt");
+		    InputStream inputStream = classloader.getResourceAsStream("prodresponse.txt");
 		    JSONParser jsonParser = new JSONParser();
 		    JSONObject jsonObject = (JSONObject)jsonParser.parse(
 		          new InputStreamReader(inputStream, "UTF-8"));
