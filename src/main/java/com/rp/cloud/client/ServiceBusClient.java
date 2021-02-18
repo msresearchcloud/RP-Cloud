@@ -5,6 +5,8 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.rp.cloud.response.UserSubscriptionDetails;
 import com.rp.cloud.service.RedisService;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -33,6 +35,8 @@ public class ServiceBusClient {
     static String subNameA = "feedtopicsubA";
     static String subNameB = "feedtopicsubB";
     static String subNameC = "feedtopicsubC";
+
+    private static  final Logger logger = LoggerFactory.getLogger(ServiceBusClient.class);
 
     public String publishUserSubscriptionToTopic(UserSubscriptionDetails userSubscriptionDetails){
 
@@ -73,7 +77,7 @@ public class ServiceBusClient {
     private void processMessage(ServiceBusReceivedMessageContext context) {
 
         ServiceBusReceivedMessage message = context.getMessage();
-        System.out.printf("Processing message. Session: %s, Sequence #: %s. Contents: %s%n", message.getMessageId(),
+        logger.info("Processing message. Session: ,{} Sequence #: {}. Contents: {}", message.getMessageId(),
                 message.getSequenceNumber(), message.getBody());
         ObjectMapper mapper = new ObjectMapper();
         UserSubscriptionDetails userSubscriptionDetails = null;
@@ -82,8 +86,11 @@ public class ServiceBusClient {
         } catch (JsonProcessingException e) {
             e.printStackTrace();
         }
+
+        int docCount = userSubscriptionDetails.getDocs().size();
+        logger.info("REDIS CACHE UPDATE : redisService.put "+docCount+","+userSubscriptionDetails.getUserId());
+        redisService.put(userSubscriptionDetails.getUserId(),docCount);
         mongoClient.updateFeedDetails(userSubscriptionDetails);
-        redisService.put(userSubscriptionDetails.getUserId(),userSubscriptionDetails.getDocs().size());
     }
 
     private void processError(ServiceBusErrorContext context, CountDownLatch countdownLatch) {
