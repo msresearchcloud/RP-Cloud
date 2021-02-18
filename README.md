@@ -90,19 +90,19 @@ az aks get-credentials -g msresearch-aks-rg -n msresearch-aks
 
 #### Delete a resource
 * Delete a services under a namespace
--kubectl delete svc <service-name> -n researchfeed
+-kubectl delete svc SERVICE_NAME -n researchfeed
 
 * Delete a deployment under a namespace
--kubectl delete deployment <deployment-name> -n researchfeed
+-kubectl delete deployment DEPLOYMENT_NAME -n researchfeed
 
 * Delete a replicasets under a namespace
--kubectl delete rs <replica-name> -n researchfeed
+-kubectl delete rs REPLICA_NAME -n researchfeed
 
 * Delete all pod under a deployment & namespace
--kubectl delete pod <deployment-name> -n researchfeed
+-kubectl delete pod DEPLOYMENT_NAME -n researchfeed
 
 * Delete all nodes under a deployment & namespace
--kubectl delete nodes <deployment-name> -n researchfeed
+-kubectl delete nodes DEPLOYMENT_NAME -n researchfeed
 
 * Delete all hpa under a deployment & namespace
--kubectl delete hpa <deployment-name> -n researchfeed
+-kubectl delete hpa DEPLOYMENT_NAME -n researchfeed
