@@ -1,6 +1,7 @@
 package com.rp.cloud.client;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 
 import com.mongodb.client.model.UpdateOptions;
@@ -10,6 +11,8 @@ import org.bson.Document;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
+
+import java.util.Set;
 import java.util.stream.Collectors;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -61,6 +64,12 @@ public class ResearchMongoClient {
 			if (CollectionUtils.isNotEmpty(existingSubs)) {
 				List<String> existingDocs = existingSubs.stream().flatMap(e -> e.getDocs().stream()).collect(Collectors.toList());
 				userSubscriptionDetails.getDocs().addAll(existingDocs);
+
+				// removing duplicate docs
+				Set<String> uniqueDocList = new HashSet<>();
+				uniqueDocList.addAll(userSubscriptionDetails.getDocs());
+				userSubscriptionDetails.setDocs(uniqueDocList.stream().collect(Collectors.toList()));
+
 				BasicDBObject query = new BasicDBObject();
 				query.append("userId", userSubscriptionDetails.getUserId());
 				ObjectMapper mapper = new ObjectMapper();
