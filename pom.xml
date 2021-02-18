@@ -90,6 +90,13 @@
 			<version>2.6.1</version>
 		</dependency>
 
+		<dependency>
+			<groupId>com.azure</groupId>
+			<artifactId>azure-messaging-servicebus</artifactId>
+			<version>7.0.2</version>
+			<scope>compile</scope>
+		</dependency>
+
 	</dependencies>
 
 	<build>
