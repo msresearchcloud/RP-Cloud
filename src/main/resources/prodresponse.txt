@@ -1,0 +1,6932 @@
+{
+  "docs": [
+    {
+      "pd": "2021-02-18T11:17:10.000Z",
+      "ab": "Earnings and guidance showcased continued momentum as biotech funding fuels demand for CRL portfolio offerings, while the Cognate acquisition would expand its TAM. Margin expansion opportunity provides upside optionality to numbers. Raising PT to $350. Next catalyst, Analyst Day (in the spring).",
+      "id": "1705d84c-7129-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Charles River Laboratories International: 3 Takes from CRL earnings cc; PT to $350",
+      "a": {
+        "id": "688c1db9-2589-49fb-8783-ee467e0d63e1",
+        "n": " Ricky R Goldwasser"
+      },
+      "co": [
+        {
+          "id": "688c1db9-2589-49fb-8783-ee467e0d63e1",
+          "n": " Ricky R Goldwasser"
+        },
+        {
+          "id": "52acc2b3-5a97-4aee-b385-8fa71ba43bb6",
+          "n": " Rong Li"
+        },
+        {
+          "id": "9ac617ba-ac7a-4b4d-bad1-8fa71ba43bb6",
+          "n": " Raymond Xu CFA"
+        },
+        {
+          "id": "301db172-c224-485c-97f8-8fa71ba43bb6",
+          "n": " Ziv Israel"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "CRL.N",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "9",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "CRL.N",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "CRL.N",
+            "ptp": "280.00",
+            "ptc": "350.00",
+            "cy": "USD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500005494",
+            "industry": "Healthcare Services"
+          },
+          {
+            "id": "1500005520",
+            "industry": "Healthcare Services & Distribution",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T11:13:02.000Z",
+      "id": "0740d7e8-7194-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Futu Holdings Ltd: Regular Update",
+      "a": {
+        "id": "bca1b89e-5f5c-405a-a4a9-8fa71ba43bb6",
+        "n": " Katherine Liu"
+      },
+      "co": [
+        {
+          "id": "bca1b89e-5f5c-405a-a4a9-8fa71ba43bb6",
+          "n": " Katherine Liu"
+        },
+        {
+          "id": "841f5077-3eee-41c2-a2fb-ee467e0d63e1",
+          "n": " Richard Xu CFA"
+        }
+      ],
+      "dt": "application/xls",
+      "pt": "FUTU.O",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "FUTU.O",
+            "srp": null,
+            "src": "Overweight / Attractive"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "FUTU.O"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000008",
+            "industry": "Financial Services"
+          },
+          {
+            "id": "1900000025",
+            "industry": "Financial Services"
+          },
+          {
+            "id": "1900000856",
+            "industry": "China Financials"
+          }
+        ]
+      },
+      "pst": "Model",
+      "pstc": "Model",
+      "pcat1": "Model"
+    },
+    {
+      "pd": "2021-02-18T11:06:06.000Z",
+      "ab": "We expect share prices will be supported at HSBC and STAN as they focus on cost and capital plans. For local banks, revenue pressures will be more to the fore. Retain UW on Hang Seng and BEA.",
+      "id": "6b2d68ea-71ba-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Investor Presentation: 4Q20 HK Banks Preview: HSBC and STAN better positioned vs. local banks",
+      "a": {
+        "id": "e78aa5ea-d9c8-45a1-a01f-ee467e0d63e1",
+        "n": " Nick Lord"
+      },
+      "co": [
+        {
+          "id": "e78aa5ea-d9c8-45a1-a01f-ee467e0d63e1",
+          "n": " Nick Lord"
+        },
+        {
+          "id": "3ba685ed-d857-456c-b69a-8fa71ba43bb6",
+          "n": " Irene Zhou CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Foundation",
+      "pc": "17",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "Asia/Pacific Investment Research"
+        ]
+      },
+      "lang": "eng",
+      "cinfo": {
+
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T11:05:34.000Z",
+      "ab": "Depressed collections a likely transient issue, though depth & duration may curtail Ig demand longer than expected.",
+      "id": "be76caf4-6f09-11eb-aa53-e34ce4ecd4b0",
+      "hl": "CSL Ltd: 1HFY21: How certain is an FY23 rebound?",
+      "a": {
+        "id": "cf41f70c-9f49-407f-80fe-ee467e0d63e1",
+        "n": " Sean Laaman"
+      },
+      "co": [
+        {
+          "id": "cf41f70c-9f49-407f-80fe-ee467e0d63e1",
+          "n": " Sean Laaman"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "CSL.AX",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "21",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "CSL.AX",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "CSL.AX",
+            "ptp": "283.00",
+            "ptc": "276.00",
+            "cy": "AUD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000061",
+            "industry": "Healthcare"
+          },
+          {
+            "id": "1900000322",
+            "industry": "Healthcare"
+          },
+          {
+            "id": "1900000446",
+            "industry": "Australia Healthcare",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T11:04:27.000Z",
+      "ab": "We believe Futu will generate significant alpha over the next few years given its vast potential for monetization. We think it will emerge as a winner in the brokerage space and, potentially, wealth management owing to its strategy, positioning, and technology, along with limited competition.",
+      "id": "7044031a-6a3b-11eb-846d-861a941bf743",
+      "hl": "Futu Holdings: Correction: Potential to Quadruple or Quintuple Profits in 3 Years; Initiate at OW",
+      "a": {
+        "id": "bca1b89e-5f5c-405a-a4a9-8fa71ba43bb6",
+        "n": " Katherine Liu"
+      },
+      "co": [
+        {
+          "id": "bca1b89e-5f5c-405a-a4a9-8fa71ba43bb6",
+          "n": " Katherine Liu"
+        },
+        {
+          "id": "841f5077-3eee-41c2-a2fb-ee467e0d63e1",
+          "n": " Richard Xu CFA"
+        },
+        {
+          "id": "482b60ea-315d-4385-9a69-8fa71ba43bb6",
+          "n": " Chiyao Huang"
+        },
+        {
+          "id": "c2291927-768d-4363-ae5c-ee467e0d63e1",
+          "n": " Daniel Fang"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "FUTU.O",
+      "pv": "4",
+      "pn": "Foundation",
+      "pc": "39",
+      "hi": {
+        "wd": "/MSResearch/Content/Assets/HeroImages/Futu_Holdings_2600_690_02102021.jpg?uuid=VRWHxGuvEeuXIMGDbwEUOA&date=20210215210045",
+        "d": "/MSResearch/Content/Assets/HeroImages/Futu_Holdings_1599_620_02102021.jpg?uuid=fbOJBGuxEeuXIMGDbwEUOA&date=20210215210045",
+        "t": "/MSResearch/Content/Assets/HeroImages/Futu_Holdings_1024_620_02102021.jpg?uuid=hHn30muxEeuXIMGDbwEUOA&date=20210215210045",
+        "m": "/MSResearch/Content/Assets/HeroImages/Futu_Holdings_767_620_02102021.jpg?uuid=ikJ1hmuxEeuXIMGDbwEUOA&date=20210215210045",
+        "tile": "/MSResearch/Content/Assets/HeroImages/Futu_Holdings_700x240_02102021.jpg?uuid=kSD6YmuxEeuXIMGDbwEUOA&date=20210215210045"
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "FUTU.O",
+            "srp": "NA",
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "FUTU.O",
+            "ptp": "0.00",
+            "ptc": "253.00",
+            "cy": "USD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000008",
+            "industry": "Financial Services"
+          },
+          {
+            "id": "1900000025",
+            "industry": "Financial Services"
+          },
+          {
+            "id": "1900000856",
+            "industry": "China Financials",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T10:57:02.000Z",
+      "ab": "With accelerating migration to EV/AV, newcomers may outstrip incumbents in wealth creation and seize a big chunk of sector market capitalization. The changes are some way in the future, but their impact is being felt now and reflected in investor perceptions, strategic actions, and stock valuations.",
+      "id": "2957dbe2-70c7-11eb-aa53-e34ce4ecd4b0",
+      "hl": "China Autos & Shared Mobility: China EV: Wealth Redistribution",
+      "a": {
+        "id": "95f540c6-3668-45b3-b174-ee467e0d63e1",
+        "n": " Tim Hsiao"
+      },
+      "co": [
+        {
+          "id": "95f540c6-3668-45b3-b174-ee467e0d63e1",
+          "n": " Tim Hsiao"
+        },
+        {
+          "id": "c0469e98-eefb-4315-a5c1-8fa71ba43bb6",
+          "n": " Joey Xu CFA"
+        },
+        {
+          "id": "b75f265c-0b24-4b61-9586-8fa71ba43bb6",
+          "n": " Shelley Wang CFA"
+        },
+        {
+          "id": "d43a3aec-5de1-4950-880f-ee467e0d63e1",
+          "n": " Jack Yeung"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "10",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "NIO.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "XPEV.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "LI.O",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "NIO.N"
+          },
+          {
+            "ticker": "XPEV.N"
+          },
+          {
+            "ticker": "LI.O"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000005",
+            "industry": "Automobiles"
+          },
+          {
+            "id": "1900000022",
+            "industry": "Autos & Shared Mobility"
+          },
+          {
+            "id": "1900000113",
+            "industry": "China Autos & Shared Mobility",
+            "ivc": "Cautious"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T10:55:45.000Z",
+      "ab": "Rob Pulleyn talks to Paul Walsh regarding recent events in Renewables. We discuss the likely drivers of stock weakness, the implications from the recent Seabed auctions vs long-term outlook and what to do next.",
+      "id": "dc2f2af8-7131-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Podcast | Utilities: What’s going on with Renewables?",
+      "a": {
+        "id": "3b010f8a-af9f-41c9-b8db-ee467e0d63e1",
+        "n": " Robert Pulleyn"
+      },
+      "co": [
+        {
+          "id": "3b010f8a-af9f-41c9-b8db-ee467e0d63e1",
+          "n": " Robert Pulleyn"
+        },
+        {
+          "id": "6b0f943e-d5d0-4f84-b3b3-8fa71ba43bb6",
+          "n": " Christopher Laybutt"
+        },
+        {
+          "id": "1f164c3d-fb0c-4e1f-a121-ee467e0d63e1",
+          "n": " Lillian Starke"
+        },
+        {
+          "id": "18f80f1a-cf04-4e0f-9e73-8fa71ba43bb6",
+          "n": " Arthur Sitbon CFA"
+        },
+        {
+          "id": "ab273c01-0696-4b4e-96cb-ee467e0d63e1",
+          "n": " Sarah E Lester CFA"
+        },
+        {
+          "id": "7a1002a3-333b-4969-a79d-8fa71ba43bb6",
+          "n": " Diana Lucaci Ph.D."
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Foundation",
+      "pc": "10",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "Audio"
+        ]
+      },
+      "au": [
+        {
+          "th": "/PublishedContent3/2021/02/17/ArticlePages/ARJYOTI20210217150732/Thumbnail%20template_Utils.png?uuid=ed10f852-71c1-11eb-9ee0-32d5bd141632",
+          "aurl": "https://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=89997960-3qrh-g002-8c27-1b4e1c6edb44&store=0&d=1&user=c9bywujy8mxw-2&__gda__=1861937998_65fc1c6dc714636702164b688d3f6b89#0011&c9bywujy8mxw-1&1861937998_46534918f8f7a78d44e12ab740d70dea&0001&c9bywujy8mxw-0&1861937998_be8f2ec6390df361b2efe3ab42d9d2b3",
+          "p": true,
+          "duration": "639",
+          "units": "seconds"
+        }
+      ],
+      "lang": "eng",
+      "cinfo": {
+        "ivcinfo": [
+          {
+            "id": "1500000500",
+            "industry": "Utilities"
+          },
+          {
+            "id": "1500000453",
+            "industry": "Utilities"
+          }
+        ]
+      },
+      "pst": "Audio",
+      "pstc": "Audio",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T10:51:08.000Z",
+      "ab": "We update our numbers following the 1HFY21 result. Our price target remains unchanged at A$3,00/sh, and we remain Overweight.",
+      "id": "8153b504-71b8-11eb-aa53-e34ce4ecd4b0",
+      "hl": "South32 Ltd: Housekeeping post 1HFY21 result",
+      "a": {
+        "id": "987dcfe4-8f22-4067-a8ed-ee467e0d63e1",
+        "n": " Rahul Anand CFA"
+      },
+      "co": [
+        {
+          "id": "987dcfe4-8f22-4067-a8ed-ee467e0d63e1",
+          "n": " Rahul Anand CFA"
+        },
+        {
+          "id": "49d0885b-454d-4544-a0b3-8fa71ba43bb6",
+          "n": " Shannon J Sinha"
+        },
+        {
+          "id": "0617e918-0e51-4b3d-b01d-8fa71ba43bb6",
+          "n": " Alexander Barkley CFA"
+        },
+        {
+          "id": "be1c8d08-1d64-4f57-9ae6-8fa71ba43bb6",
+          "n": " Brian Morgan"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "S32.AX",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "15",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "S32.AX",
+            "srp": null,
+            "src": "Overweight"
+          },
+          {
+            "ticker": "S32J.J",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "S32.AX",
+            "ptc": "3.00",
+            "cy": "AUD"
+          },
+          {
+            "ticker": "S32J.J",
+            "ptp": " 3444",
+            "ptc": " 3386",
+            "cy": "ZAX"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000009",
+            "industry": "Nonferrous Metals & Mining"
+          },
+          {
+            "id": "1900000753",
+            "industry": "Metals & Mining"
+          },
+          {
+            "id": "1900000851",
+            "industry": "Australia Materials",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T10:45:06.000Z",
+      "ab": "Please use the links in the email below to access each data report.US Liquid Rates TrackerThe US Liquid Rates Tracker provides detail on the US Treasury Nominal curve, STRIPS, TIPS, agency debt and covered bondsTreasury & TIPS Summary (Excel version)The excel version of US Liquid Rates Tracker provides a downloadable spreadsheet for US Treasury Nominal curve and TIPS bondsTreasury Relative Valu...",
+      "id": "55ef0496-71d5-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Global Macro Data: Daily Data Update",
+      "a": {
+        "id": "a3f088e8-191d-46d2-a92f-8fa71ba43bb6",
+        "n": " Henry Steck"
+      },
+      "co": [
+        {
+          "id": "a3f088e8-191d-46d2-a92f-8fa71ba43bb6",
+          "n": " Henry Steck"
+        },
+        {
+          "id": "4d2943f0-9606-4bc7-b0be-ee467e0d63e1",
+          "n": " Guneet Dhingra CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "3",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "Global Macro Data"
+        ]
+      },
+      "lang": "eng",
+      "cinfo": {
+
+      },
+      "pst": "DataPackage",
+      "pstc": "DataPackage",
+      "pcat1": "Charts"
+    },
+    {
+      "pd": "2021-02-18T10:44:25.000Z",
+      "ab": "We took part in a small meeting held by Sony to discuss its I&SS business. We think the market is focused on the outlook for top-line growth and operating margins from F3/22. On these topics, the company said that 1) there has been very strong interest in its commodity products for use in Chinese smartphones since F3/21 2H; 2) over the longer term, it expects that requests will move toward...",
+      "id": "deb96f02-71c4-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Sony: I&SS Business Small Meeting: Expecting Top-line Growth from F3/24",
+      "a": {
+        "id": "a6e809dd-644e-46e1-b813-ee467e0d63e1",
+        "n": " Masahiro Ono"
+      },
+      "co": [
+        {
+          "id": "a6e809dd-644e-46e1-b813-ee467e0d63e1",
+          "n": " Masahiro Ono"
+        },
+        {
+          "id": "1fdf3946-2ab2-45c6-af38-8fa71ba43bb6",
+          "n": " Yui Yasumoto"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "6758.T",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "7",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "6758.T",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "6758.T",
+            "ptc": "9500",
+            "cy": "JPY"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1800000006",
+            "industry": "Technology"
+          },
+          {
+            "id": "1800000024",
+            "industry": "Consumer Electronics",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T10:31:07.000Z",
+      "id": "abf16758-71cb-11eb-aa53-e34ce4ecd4b0",
+      "hl": "OZ Minerals Ltd: Regular Update",
+      "a": {
+        "id": "987dcfe4-8f22-4067-a8ed-ee467e0d63e1",
+        "n": " Rahul Anand CFA"
+      },
+      "co": [
+        {
+          "id": "987dcfe4-8f22-4067-a8ed-ee467e0d63e1",
+          "n": " Rahul Anand CFA"
+        },
+        {
+          "id": "0617e918-0e51-4b3d-b01d-8fa71ba43bb6",
+          "n": " Alexander Barkley CFA"
+        },
+        {
+          "id": "49d0885b-454d-4544-a0b3-8fa71ba43bb6",
+          "n": " Shannon J Sinha"
+        }
+      ],
+      "dt": "application/xls",
+      "pt": "OZL.AX",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "OZL.AX",
+            "srp": null,
+            "src": "Overweight / Attractive"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "OZL.AX"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000009",
+            "industry": "Nonferrous Metals & Mining"
+          },
+          {
+            "id": "1900000753",
+            "industry": "Metals & Mining"
+          },
+          {
+            "id": "1900000851",
+            "industry": "Australia Materials"
+          }
+        ]
+      },
+      "pst": "Model",
+      "pstc": "Model",
+      "pcat1": "Model"
+    },
+    {
+      "pd": "2021-02-18T10:29:12.000Z",
+      "ab": "AIA's FY21 outlook is predictably subdued, with policy settings making a Trans Tasman Bubble unlikely until CY22, in our view. We focus on liquidity and positioning, and stay EW.",
+      "id": "88860fe4-255a-11ea-bf4e-364013f6ba02",
+      "hl": "Auckland International Airport: Positioning for Recovery, Pt 1",
+      "a": {
+        "id": "6368a66e-2a2e-41d8-bef0-ee467e0d63e1",
+        "n": " Rob Koh"
+      },
+      "co": [
+        {
+          "id": "6368a66e-2a2e-41d8-bef0-ee467e0d63e1",
+          "n": " Rob Koh"
+        },
+        {
+          "id": "4648ebb1-64f5-4644-97f1-8fa71ba43bb6",
+          "n": " Xindi Shao CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "AIA.NZ",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "14",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "Company Standard"
+        ]
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "AIA.NZ",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "AIA.NZ",
+            "ptp": "7.37",
+            "ptc": "7.17",
+            "cy": "NZD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000006",
+            "industry": "Utilities"
+          },
+          {
+            "id": "1900000023",
+            "industry": "Utilities"
+          },
+          {
+            "id": "1900000853",
+            "industry": "Australia Utilities & Infrastructure",
+            "ivc": "Cautious"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T10:23:16.000Z",
+      "id": "056ee902-71d3-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Global Macro Data: US Liquid Rates Tracker (Excel Version)",
+      "a": {
+        "id": "a3f088e8-191d-46d2-a92f-8fa71ba43bb6",
+        "n": " Henry Steck"
+      },
+      "co": [
+        {
+          "id": "a3f088e8-191d-46d2-a92f-8fa71ba43bb6",
+          "n": " Henry Steck"
+        }
+      ],
+      "dt": "application/xls",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "Global Macro Data"
+        ]
+      },
+      "lang": "eng",
+      "cinfo": {
+
+      },
+      "pst": "DataPackage",
+      "pstc": "DataPackage",
+      "pcat1": "Charts"
+    },
+    {
+      "pd": "2021-02-18T10:20:32.000Z",
+      "ab": "Futures Pricing: We determine a model value for the two front schatz, bobl, bund, buxl, Long Gilt, Swiss CONF, 10y JGB and 10y CGB bond futures contracts. We use this to indicate how rich or cheap the contract is trading. Additionally, we determine the DV01 of the contract.Deliverable Basket: We display market information for each of the bonds in the basket. Included in these are bond yields, r...",
+      "id": "b2b3523e-71d2-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Global Macro Data: Non-US Bond Futures Daily Report",
+      "a": {
+        "id": "a3f088e8-191d-46d2-a92f-8fa71ba43bb6",
+        "n": " Henry Steck"
+      },
+      "co": [
+        {
+          "id": "a3f088e8-191d-46d2-a92f-8fa71ba43bb6",
+          "n": " Henry Steck"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "21",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "Global Macro Data"
+        ]
+      },
+      "lang": "eng",
+      "cinfo": {
+
+      },
+      "pst": "DataPackage",
+      "pstc": "DataPackage",
+      "pcat1": "Charts"
+    },
+    {
+      "pd": "2021-02-18T10:18:41.000Z",
+      "ab": "Futures Pricing: We determine a model value for the two front 2y note, 3y note, 5y note, 10y note and 30y bond futures contracts. We use this to indicate how rich or cheap the contract is trading. Additionally, we determine the DV01 of the contract.Deliverable Basket: We display market information for each of the bonds in the basket. Included in these are bond yields, repo rates, and gross and ...",
+      "id": "5ec08020-71d2-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Global Macro Data: US Bond Futures Daily Report",
+      "a": {
+        "id": "a3f088e8-191d-46d2-a92f-8fa71ba43bb6",
+        "n": " Henry Steck"
+      },
+      "co": [
+        {
+          "id": "a3f088e8-191d-46d2-a92f-8fa71ba43bb6",
+          "n": " Henry Steck"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "41",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "Global Macro Data"
+        ]
+      },
+      "lang": "eng",
+      "cinfo": {
+
+      },
+      "pst": "DataPackage",
+      "pstc": "DataPackage",
+      "pcat1": "Charts"
+    },
+    {
+      "pd": "2021-02-18T10:18:14.000Z",
+      "ab": "We estimate that the major banks released ~A$750m of collective provisions during the December quarter. However, the average CP coverage is still ~50bp above the pre-COVID level, suggesting they could still have excess provisions of ~A$7bn.",
+      "id": "6bc5de72-6fd0-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Australia Banks Chart of the Week: Excess Provisions",
+      "a": {
+        "id": "256297c5-a740-422b-91f2-ee467e0d63e1",
+        "n": " Richard E Wiles"
+      },
+      "co": [
+        {
+          "id": "256297c5-a740-422b-91f2-ee467e0d63e1",
+          "n": " Richard E Wiles"
+        },
+        {
+          "id": "da6d7f7d-d5c5-48db-a84b-8fa71ba43bb6",
+          "n": " Sona F Fernandes"
+        },
+        {
+          "id": "beb30693-2589-49fb-8783-ee467e0d63e1",
+          "n": " Andrei Stadnik FIAA"
+        },
+        {
+          "id": "af0ce8b6-6b91-4260-9426-8fa71ba43bb6",
+          "n": " Jenny Hau"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "7",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "ANZ.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "CBA.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "WBC.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "NAB.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "BEN.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "BOQ.AX",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "ANZ.AX"
+          },
+          {
+            "ticker": "CBA.AX"
+          },
+          {
+            "ticker": "WBC.AX"
+          },
+          {
+            "ticker": "NAB.AX"
+          },
+          {
+            "ticker": "BEN.AX"
+          },
+          {
+            "ticker": "BOQ.AX"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000008",
+            "industry": "Financial Services"
+          },
+          {
+            "id": "1900000025",
+            "industry": "Financial Services"
+          },
+          {
+            "id": "1900000850",
+            "industry": "Australia Financials",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T10:17:15.000Z",
+      "ab": "While we still see option value in EDF shares (€16/share price target and €21/share bull case) with the nuclear reform still alive at this stage, and remain Overweight, we think the shares will need more tangible indications of progress on the topic to go higher in the short term. We think that the negative reaction from the shares today (-2.7% as we write) – despite good FY20 results, reassuri...",
+      "id": "2a390e1a-71c5-11eb-aa53-e34ce4ecd4b0",
+      "hl": "EDF: Key takeaways from the FY20 conference call",
+      "a": {
+        "id": "18f80f1a-cf04-4e0f-9e73-8fa71ba43bb6",
+        "n": " Arthur Sitbon CFA"
+      },
+      "co": [
+        {
+          "id": "18f80f1a-cf04-4e0f-9e73-8fa71ba43bb6",
+          "n": " Arthur Sitbon CFA"
+        },
+        {
+          "id": "3b010f8a-af9f-41c9-b8db-ee467e0d63e1",
+          "n": " Robert Pulleyn"
+        },
+        {
+          "id": "6b0f943e-d5d0-4f84-b3b3-8fa71ba43bb6",
+          "n": " Christopher Laybutt"
+        },
+        {
+          "id": "1f164c3d-fb0c-4e1f-a121-ee467e0d63e1",
+          "n": " Lillian Starke"
+        },
+        {
+          "id": "ab273c01-0696-4b4e-96cb-ee467e0d63e1",
+          "n": " Sarah E Lester CFA"
+        },
+        {
+          "id": "7a1002a3-333b-4969-a79d-8fa71ba43bb6",
+          "n": " Diana Lucaci Ph.D."
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "EDF.PA",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "7",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "EDF.PA",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "EDF.PA",
+            "ptc": "16.00",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000500",
+            "industry": "Utilities"
+          },
+          {
+            "id": "1500000453",
+            "industry": "Utilities",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T10:17:11.000Z",
+      "ab": "Japanese, Taiwanese and Korean lifers are big players in the FX and bond markets. Pension funds are influential participants as well. We recommend long USD/TWD 12m NDFs",
+      "id": "6e277dbc-6ff6-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Global Macro Strategy: Asian Lifers Monthly FX Snapshot: February 2021",
+      "a": {
+        "id": "44508c7a-1db3-4710-a001-ee467e0d63e1",
+        "n": " Shoki Omori"
+      },
+      "co": [
+        {
+          "id": "44508c7a-1db3-4710-a001-ee467e0d63e1",
+          "n": " Shoki Omori"
+        },
+        {
+          "id": "7ff2c0cb-229b-4400-93e1-8fa71ba43bb6",
+          "n": " Belle Chang"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Idea",
+      "pc": "14",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "Global Macro Strategist"
+        ]
+      },
+      "lang": "eng",
+      "cinfo": {
+
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report",
+      "curs": {
+        "cur": [
+          "TWD",
+          "JPY",
+          "KRW"
+        ]
+      }
+    },
+    {
+      "pd": "2021-02-18T10:16:21.000Z",
+      "id": "0d83b3f8-71d2-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Global Macro Data: US Volatility Tracker",
+      "a": {
+        "id": "a3f088e8-191d-46d2-a92f-8fa71ba43bb6",
+        "n": " Henry Steck"
+      },
+      "co": [
+        {
+          "id": "a3f088e8-191d-46d2-a92f-8fa71ba43bb6",
+          "n": " Henry Steck"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "12",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "Global Macro Data"
+        ]
+      },
+      "lang": "eng",
+      "cinfo": {
+
+      },
+      "pst": "DataPackage",
+      "pstc": "DataPackage",
+      "pcat1": "Charts"
+    },
+    {
+      "pd": "2021-02-18T10:14:05.000Z",
+      "id": "be4c61cc-71d1-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Global Macro Data: US Liquid Rates Tracker",
+      "a": {
+        "id": "a3f088e8-191d-46d2-a92f-8fa71ba43bb6",
+        "n": " Henry Steck"
+      },
+      "co": [
+        {
+          "id": "a3f088e8-191d-46d2-a92f-8fa71ba43bb6",
+          "n": " Henry Steck"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "19",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "Global Macro Data"
+        ]
+      },
+      "lang": "eng",
+      "cinfo": {
+
+      },
+      "pst": "DataPackage",
+      "pstc": "DataPackage",
+      "pcat1": "Charts"
+    },
+    {
+      "pd": "2021-02-18T10:11:42.000Z",
+      "id": "386987ba-71d1-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Global Macro Data: Treasury Relative Value Report",
+      "a": {
+        "id": "a3f088e8-191d-46d2-a92f-8fa71ba43bb6",
+        "n": " Henry Steck"
+      },
+      "co": [
+        {
+          "id": "a3f088e8-191d-46d2-a92f-8fa71ba43bb6",
+          "n": " Henry Steck"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "10",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "Global Macro Data"
+        ]
+      },
+      "lang": "eng",
+      "cinfo": {
+
+      },
+      "pst": "DataPackage",
+      "pstc": "DataPackage",
+      "pcat1": "Charts"
+    },
+    {
+      "pd": "2021-02-18T09:55:08.000Z",
+      "ab": "Martijn Rats speaks to Paul Walsh about the outlook for the Oil & Gas majors, and why the team maintains its 'Attractive' sector stance.",
+      "id": "c401487a-7056-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Podcast | Oil & Gas: Goodbye $44, Hello $63...",
+      "a": {
+        "id": "5c4c5861-8977-497d-aa58-ee467e0d63e1",
+        "n": " Martijn Rats CFA"
+      },
+      "co": [
+        {
+          "id": "5c4c5861-8977-497d-aa58-ee467e0d63e1",
+          "n": " Martijn Rats CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Idea",
+      "pc": "10",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "Audio"
+        ]
+      },
+      "au": [
+        {
+          "th": "/PublishedContent3/2021/02/16/ArticlePages/ARKHAN20210216125912/Goodbye%20$44,%20Hello%20$63...Thumbnail.jpg?uuid=4ff6fe74-7057-11eb-9ee0-32d5bd141632",
+          "aurl": "https://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=ct8vf0qg-3qrg-g002-b860-79a64180b920&store=0&d=1&user=c9b1kjl52zlc-2&__gda__=1861938004_e1d60cac6709afb5d7d63b2f2a77b6fc#0011&c9b1kjl52zlc-1&1861938004_e3c61af5dd066ff61aa0930a8a56e78c&0001&c9b1kjl52zlc-0&1861938004_9d1b27c54c5d792d63a4147f9efbde3d",
+          "p": true,
+          "duration": "904",
+          "units": "seconds"
+        }
+      ],
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "RDSa.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "TOTF.PA",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "OMVV.VI",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "LUNE.ST",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "RDSa.L"
+          },
+          {
+            "ticker": "TOTF.PA"
+          },
+          {
+            "ticker": "OMVV.VI"
+          },
+          {
+            "ticker": "LUNE.ST"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700001202",
+            "industry": "Oil & Gas"
+          },
+          {
+            "id": "1700001204",
+            "industry": "Oil Services"
+          },
+          {
+            "id": "1700001356",
+            "industry": "Integrated Oil & Refining"
+          }
+        ]
+      },
+      "pst": "Audio",
+      "pstc": "Audio",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T09:46:57.000Z",
+      "id": "c52ed1aa-71ae-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Lightspeed POS Inc.: Regular Update",
+      "a": {
+        "id": "dd353d3d-f35b-4dd7-8c92-ee467e0d63e1",
+        "n": " Josh Baer CFA"
+      },
+      "co": [
+        {
+          "id": "dd353d3d-f35b-4dd7-8c92-ee467e0d63e1",
+          "n": " Josh Baer CFA"
+        },
+        {
+          "id": "afd9e69f-02fd-4a9b-a3eb-ee467e0d63e1",
+          "n": " Keith Weiss CFA"
+        }
+      ],
+      "dt": "application/xls",
+      "pt": "LSPD.N",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "LSPD.N",
+            "srp": null,
+            "src": "Equal-Weight / In-Line"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "LSPD.N"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000049",
+            "industry": "Software"
+          },
+          {
+            "id": "1500000168",
+            "industry": "Software"
+          }
+        ]
+      },
+      "pst": "Model",
+      "pstc": "Model",
+      "pcat1": "Model"
+    },
+    {
+      "pd": "2021-02-18T09:44:19.000Z",
+      "ab": "Following Stats SA's December retail sales print, we highlight some of the key trends to help investors form a view on the SA consumer environment.",
+      "id": "4eb1a8b0-7120-11eb-aa53-e34ce4ecd4b0",
+      "hl": "SA Retail: December sales show that non-discretionary categories outperformed (but Home Improvement remained robust)",
+      "a": {
+        "id": "58fba61d-775b-47c6-b7d7-8fa71ba43bb6",
+        "n": " Sean Holmes"
+      },
+      "co": [
+        {
+          "id": "58fba61d-775b-47c6-b7d7-8fa71ba43bb6",
+          "n": " Sean Holmes"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "12",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "CLSJ.J",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "DCPJ.J",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "MSMJ.J",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "MRPJ.J",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "PPHJ.J",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "PIKJ.J",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SHPJ.J",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SPPJ.J",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "TFGJ.J",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "TRUJ.J",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "WHLJ.J",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "CLSJ.J"
+          },
+          {
+            "ticker": "DCPJ.J"
+          },
+          {
+            "ticker": "MSMJ.J"
+          },
+          {
+            "ticker": "MRPJ.J"
+          },
+          {
+            "ticker": "PPHJ.J"
+          },
+          {
+            "ticker": "PIKJ.J"
+          },
+          {
+            "ticker": "SHPJ.J"
+          },
+          {
+            "ticker": "SPPJ.J"
+          },
+          {
+            "ticker": "TFGJ.J"
+          },
+          {
+            "ticker": "TRUJ.J"
+          },
+          {
+            "ticker": "WHLJ.J"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700001257",
+            "industry": "EMEA"
+          },
+          {
+            "id": "1700001286",
+            "industry": "EEMEA - Consumer & Retail",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T09:40:36.000Z",
+      "ab": "Risk Reward for Capgemini (CAPP.PA) has been updated",
+      "id": "21115b00-71c8-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Capgemini: Risk Reward Update",
+      "a": {
+        "id": "683570d3-4c2b-4e37-a9af-ee467e0d63e1",
+        "n": " Adam Wood"
+      },
+      "co": [
+        {
+          "id": "683570d3-4c2b-4e37-a9af-ee467e0d63e1",
+          "n": " Adam Wood"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "CAPP.PA",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "CAPP.PA",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "CAPP.PA",
+            "ptc": "145.00",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000478",
+            "industry": "Technology - Software & Services"
+          },
+          {
+            "id": "1500000431",
+            "industry": "Technology - Software & Services",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "StandaloneRiskReward",
+      "pstc": "StandaloneRiskReward",
+      "pcat1": "PublisherDefined",
+      "pcat2": "RiskReward"
+    },
+    {
+      "pd": "2021-02-18T09:32:07.000Z",
+      "ab": "Bridgestone aims to meet the goals of its new mid-term plan via the accumulation of self-help measures, including progressive structural reforms and premium product strategies, confirming our view of the company as a \"Self Help\" name that is not relying on external factors such as demand growth. The company is also focusing on developing product strategies geared to the shift to electric vehicles.",
+      "id": "cdebca28-71b3-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Bridgestone: Takeaways from Follow-up Meeting for Sell-side Analysts on New Mid-term Business Plan",
+      "a": {
+        "id": "60bd6487-b3bd-4f78-85df-ee467e0d63e1",
+        "n": " Shinji Kakiuchi"
+      },
+      "co": [
+        {
+          "id": "60bd6487-b3bd-4f78-85df-ee467e0d63e1",
+          "n": " Shinji Kakiuchi"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "5108.T",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "5108.T",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "5108.T",
+            "ptc": "4500",
+            "cy": "JPY"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1800000779",
+            "industry": "Auto Parts"
+          },
+          {
+            "id": "1800000780",
+            "industry": "Auto Parts",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T09:31:54.000Z",
+      "id": "c859cbc2-71c3-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Qingdao TGOOD Electric Co Ltd: Regular Update",
+      "a": {
+        "id": "596002dc-b6d2-443b-961a-ee467e0d63e1",
+        "n": " Eva Hou"
+      },
+      "co": [
+        {
+          "id": "596002dc-b6d2-443b-961a-ee467e0d63e1",
+          "n": " Eva Hou"
+        },
+        {
+          "id": "95f540c6-3668-45b3-b174-ee467e0d63e1",
+          "n": " Tim Hsiao"
+        },
+        {
+          "id": "4424ab55-f019-48d1-bcfc-ee467e0d63e1",
+          "n": " Simon H.Y. Lee CFA"
+        },
+        {
+          "id": "d43a3aec-5de1-4950-880f-ee467e0d63e1",
+          "n": " Jack Yeung"
+        }
+      ],
+      "dt": "application/xls",
+      "pt": "300001.SZ",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "300001.SZ",
+            "srp": null,
+            "src": "Overweight / Attractive"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "300001.SZ"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000006",
+            "industry": "Utilities"
+          },
+          {
+            "id": "1900000023",
+            "industry": "Utilities"
+          },
+          {
+            "id": "1900000542",
+            "industry": "China Utilities"
+          }
+        ]
+      },
+      "pst": "Model",
+      "pstc": "Model",
+      "pcat1": "Model"
+    },
+    {
+      "pd": "2021-02-18T09:30:53.000Z",
+      "id": "36a5fb1a-71b4-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Shinsei Bank: Regular Update",
+      "a": {
+        "id": "b3b0c3c5-2589-49fb-8783-ee467e0d63e1",
+        "n": " Mia Nagasaka"
+      },
+      "co": [
+        {
+          "id": "b3b0c3c5-2589-49fb-8783-ee467e0d63e1",
+          "n": " Mia Nagasaka"
+        },
+        {
+          "id": "506df893-071d-47fe-abeb-8fa71ba43bb6",
+          "n": " Yuki Yaginuma"
+        }
+      ],
+      "dt": "application/xls",
+      "pt": "8303.T",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "8303.T",
+            "srp": null,
+            "src": "NAV / In-Line"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "8303.T"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1800000002",
+            "industry": "Banks"
+          },
+          {
+            "id": "1500005257",
+            "industry": "Banks"
+          }
+        ]
+      },
+      "pst": "Model",
+      "pstc": "Model",
+      "pcat1": "Model"
+    },
+    {
+      "pd": "2021-02-18T09:29:02.000Z",
+      "ab": "Risk Reward for ANZ Bank (ANZ.AX) has been updated",
+      "id": "3709117c-71c9-11eb-aa53-e34ce4ecd4b0",
+      "hl": "ANZ Bank: Risk Reward Update",
+      "a": {
+        "id": "256297c5-a740-422b-91f2-ee467e0d63e1",
+        "n": " Richard E Wiles"
+      },
+      "co": [
+        {
+          "id": "256297c5-a740-422b-91f2-ee467e0d63e1",
+          "n": " Richard E Wiles"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "ANZ.AX",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "ANZ.AX",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "ANZ.AX",
+            "ptp": "26.20",
+            "ptc": "27.50",
+            "cy": "AUD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000008",
+            "industry": "Financial Services"
+          },
+          {
+            "id": "1900000025",
+            "industry": "Financial Services"
+          },
+          {
+            "id": "1900000850",
+            "industry": "Australia Financials",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "StandaloneRiskReward",
+      "pstc": "StandaloneRiskReward",
+      "pcat1": "PublisherDefined",
+      "pcat2": "RiskReward"
+    },
+    {
+      "pd": "2021-02-18T09:07:19.000Z",
+      "ab": "We update our estimates to incorporate the 1HFY21 results. Our price target increases to A$2.30/sh. We stay Overweight.",
+      "id": "bd188a7a-70ea-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Whitehaven Coal: Housekeeping post 1HFY21 result",
+      "a": {
+        "id": "987dcfe4-8f22-4067-a8ed-ee467e0d63e1",
+        "n": " Rahul Anand CFA"
+      },
+      "co": [
+        {
+          "id": "987dcfe4-8f22-4067-a8ed-ee467e0d63e1",
+          "n": " Rahul Anand CFA"
+        },
+        {
+          "id": "0617e918-0e51-4b3d-b01d-8fa71ba43bb6",
+          "n": " Alexander Barkley CFA"
+        },
+        {
+          "id": "49d0885b-454d-4544-a0b3-8fa71ba43bb6",
+          "n": " Shannon J Sinha"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "WHC.AX",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "10",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "WHC.AX",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "WHC.AX",
+            "ptp": "2.15",
+            "ptc": "2.30",
+            "cy": "AUD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000009",
+            "industry": "Nonferrous Metals & Mining"
+          },
+          {
+            "id": "1900000753",
+            "industry": "Metals & Mining"
+          },
+          {
+            "id": "1900000851",
+            "industry": "Australia Materials",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T09:06:08.000Z",
+      "ab": "Risk Reward for Novo Nordisk A/S (NOVOb.CO) has been updated",
+      "id": "d1b9998c-71c7-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Novo Nordisk A/S: Risk Reward Update",
+      "a": {
+        "id": "3a30d7ca-e1f4-44a5-801f-8fa71ba43bb6",
+        "n": " Mark D Purcell"
+      },
+      "co": [
+        {
+          "id": "3a30d7ca-e1f4-44a5-801f-8fa71ba43bb6",
+          "n": " Mark D Purcell"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "NOVOb.CO",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "NOVOb.CO",
+            "srp": null,
+            "src": "Underweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "NOVOb.CO",
+            "ptp": " 425.00",
+            "ptc": " 430.00",
+            "cy": "DKK"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000507",
+            "industry": "Pharmaceuticals"
+          },
+          {
+            "id": "1500000460",
+            "industry": "Pharmaceuticals",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "StandaloneRiskReward",
+      "pstc": "StandaloneRiskReward",
+      "pcat1": "PublisherDefined",
+      "pcat2": "RiskReward"
+    },
+    {
+      "pd": "2021-02-18T09:05:24.000Z",
+      "id": "9d610d06-71b2-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Fujitsu: Regular Update",
+      "a": {
+        "id": "7941c3ba-ed26-42c5-921b-8fa71ba43bb6",
+        "n": " Hiroto Segawa"
+      },
+      "co": [
+        {
+          "id": "7941c3ba-ed26-42c5-921b-8fa71ba43bb6",
+          "n": " Hiroto Segawa"
+        },
+        {
+          "id": "4b012f97-f632-4233-ae92-ee467e0d63e1",
+          "n": " Kazuo Yoshikawa CFA"
+        }
+      ],
+      "dt": "application/xls",
+      "pt": "6702.T",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "6702.T",
+            "srp": null,
+            "src": "Equal-Weight / In-Line"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "6702.T"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1800000846",
+            "industry": "Information Technology"
+          },
+          {
+            "id": "1800000847",
+            "industry": "Information Technology"
+          }
+        ]
+      },
+      "pst": "Model",
+      "pstc": "Model",
+      "pcat1": "Model"
+    },
+    {
+      "pd": "2021-02-18T09:05:14.000Z",
+      "ab": "Nexans management has just hosted a virtual sell-side meeting post its FY20 results and CMD yesterday. We highlight below the 5 main key takeaways: 1) M&A focus and profile of the new Nexans : Management highlighted that fragmentation was more pronounced in the Buildings part of the business, rather than in the High Voltage part, and was more pronounced in the Middle East/Africa, Asia and Europ...",
+      "id": "f26f1146-71bf-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Nexans S.A.: Feedback from Sell-side Meeting with Management",
+      "a": {
+        "id": "e318bbf1-27bd-4067-8f3b-ee467e0d63e1",
+        "n": " Lucie A Carrier"
+      },
+      "co": [
+        {
+          "id": "e318bbf1-27bd-4067-8f3b-ee467e0d63e1",
+          "n": " Lucie A Carrier"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "NEXS.PA",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "NEXS.PA",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "NEXS.PA",
+            "ptc": "52.00",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000498",
+            "industry": "Capital Goods"
+          },
+          {
+            "id": "1500000451",
+            "industry": "Capital Goods",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T09:04:07.000Z",
+      "ab": "We invited a polysilicon expert to discuss the outlook for the polysilicon sector. Tight supply may be sustained throughout 2021/22.",
+      "id": "e8c65a1e-702a-11eb-aa53-e34ce4ecd4b0",
+      "hl": "China Clean Energy: Key Takeaways From Polysilicon Expert",
+      "a": {
+        "id": "4424ab55-f019-48d1-bcfc-ee467e0d63e1",
+        "n": " Simon H.Y. Lee CFA"
+      },
+      "co": [
+        {
+          "id": "4424ab55-f019-48d1-bcfc-ee467e0d63e1",
+          "n": " Simon H.Y. Lee CFA"
+        },
+        {
+          "id": "7c687f38-bc56-487c-aab9-8fa71ba43bb6",
+          "n": " Leo Dang"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "7",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "601012.SS",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "600438.SS",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "601012.SS"
+          },
+          {
+            "ticker": "600438.SS"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000006",
+            "industry": "Utilities"
+          },
+          {
+            "id": "1900000023",
+            "industry": "Utilities"
+          },
+          {
+            "id": "1900000542",
+            "industry": "China Utilities",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T09:03:02.000Z",
+      "ab": "IVC pre-announced its FY20 result, it was slightly softer than MSe and cons, but we think the market expected a tough 2H and is awaiting a strategic update from the incoming CEO at the February result. We definitely keep an open mind to a turn-around but stay EW, PT A$10.30.",
+      "id": "a18b93cc-71af-11eb-aa53-e34ce4ecd4b0",
+      "hl": "InvoCare Ltd: P re-announcing a softer result",
+      "a": {
+        "id": "61b36520-cf58-43f7-a0c7-ee467e0d63e1",
+        "n": " James Bales"
+      },
+      "co": [
+        {
+          "id": "61b36520-cf58-43f7-a0c7-ee467e0d63e1",
+          "n": " James Bales"
+        },
+        {
+          "id": "e9815af5-96c2-4e81-a3a0-8fa71ba43bb6",
+          "n": " Joseph Michael CFA"
+        },
+        {
+          "id": "a91fd69d-ac27-4c06-9f3d-8fa71ba43bb6",
+          "n": " Chenny Wang CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "IVC.AX",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "11",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "IVC.AX",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "IVC.AX",
+            "ptc": "10.30",
+            "cy": "AUD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000736",
+            "industry": "Emerging Companies"
+          },
+          {
+            "id": "1900000737",
+            "industry": "Emerging Companies"
+          },
+          {
+            "id": "1900000738",
+            "industry": "Australia Emerging Companies",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T09:01:55.000Z",
+      "ab": "Reconfirming OW rating: The disclosed outcome was positive, as we expected. We will need to wait for data on efficacy and safety to be revealed at future medical conference presentations, but confirmation of promising results is indeed positive. We do not see this as the end of the positives, but rather an emergence of an upside factor ahead of the conference presentation. News: Kyowa Kirin...",
+      "id": "a77f4dc8-71be-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Kyowa Kirin: Ph2b Success in KHK4083 (Atopic Dermatitis)",
+      "a": {
+        "id": "513d30a2-f7dc-4cd0-9019-ee467e0d63e1",
+        "n": " Shinichiro Muraoka"
+      },
+      "co": [
+        {
+          "id": "513d30a2-f7dc-4cd0-9019-ee467e0d63e1",
+          "n": " Shinichiro Muraoka"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "4151.T",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "7",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "4151.T",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "4151.T",
+            "ptc": "3760",
+            "cy": "JPY"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1800000008",
+            "industry": "Healthcare"
+          },
+          {
+            "id": "1800000040",
+            "industry": "Pharmaceuticals",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T08:55:36.000Z",
+      "id": "6fd3f8dc-71b0-11eb-aa53-e34ce4ecd4b0",
+      "hl": "NEC: Regular Update",
+      "a": {
+        "id": "7941c3ba-ed26-42c5-921b-8fa71ba43bb6",
+        "n": " Hiroto Segawa"
+      },
+      "co": [
+        {
+          "id": "7941c3ba-ed26-42c5-921b-8fa71ba43bb6",
+          "n": " Hiroto Segawa"
+        },
+        {
+          "id": "4b012f97-f632-4233-ae92-ee467e0d63e1",
+          "n": " Kazuo Yoshikawa CFA"
+        }
+      ],
+      "dt": "application/xls",
+      "pt": "6701.T",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "6701.T",
+            "srp": null,
+            "src": "Overweight / In-Line"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "6701.T"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1800000846",
+            "industry": "Information Technology"
+          },
+          {
+            "id": "1800000847",
+            "industry": "Information Technology"
+          }
+        ]
+      },
+      "pst": "Model",
+      "pstc": "Model",
+      "pcat1": "Model"
+    },
+    {
+      "pd": "2021-02-18T08:54:58.000Z",
+      "id": "ff01241c-71ab-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Konica Minolta: Quarterly Update",
+      "a": {
+        "id": "a6e809dd-644e-46e1-b813-ee467e0d63e1",
+        "n": " Masahiro Ono"
+      },
+      "co": [
+        {
+          "id": "a6e809dd-644e-46e1-b813-ee467e0d63e1",
+          "n": " Masahiro Ono"
+        },
+        {
+          "id": "1fdf3946-2ab2-45c6-af38-8fa71ba43bb6",
+          "n": " Yui Yasumoto"
+        }
+      ],
+      "dt": "application/xls",
+      "pt": "4902.T",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "4902.T",
+            "srp": null,
+            "src": "Equal-Weight / In-Line"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "4902.T"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1800000006",
+            "industry": "Technology"
+          },
+          {
+            "id": "1800000030",
+            "industry": "Precision Instruments"
+          }
+        ]
+      },
+      "pst": "Model",
+      "pstc": "Model",
+      "pcat1": "Model"
+    },
+    {
+      "pd": "2021-02-18T08:48:30.000Z",
+      "ab": "TGOOD's total electricity dispensed during 1-17th Feb. 2021 was 144m kWh (daily average of 8.4m kWh), substantially up from merely 55m kWh in Feb. 2020. Due to the impact of COVID-19, the average daily charging volume was only 1.97m kWh in Feb. last year. In 2021, the charging volume on the first day of Chinese New Year (Feb. 12th) fell to 5.1m kWh given reduced traffic volume, but it quickly...",
+      "id": "43aee572-71b1-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Qingdao TGOOD Electric Co Ltd: Strong charging volume rebound in February",
+      "a": {
+        "id": "596002dc-b6d2-443b-961a-ee467e0d63e1",
+        "n": " Eva Hou"
+      },
+      "co": [
+        {
+          "id": "596002dc-b6d2-443b-961a-ee467e0d63e1",
+          "n": " Eva Hou"
+        },
+        {
+          "id": "4424ab55-f019-48d1-bcfc-ee467e0d63e1",
+          "n": " Simon H.Y. Lee CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "300001.SZ",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "7",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "300001.SZ",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "300001.SZ",
+            "ptc": "41.10",
+            "cy": "CNY"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000006",
+            "industry": "Utilities"
+          },
+          {
+            "id": "1900000023",
+            "industry": "Utilities"
+          },
+          {
+            "id": "1900000542",
+            "industry": "China Utilities",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T08:42:07.000Z",
+      "ab": "We look for faster decision-making with the organizational change to three segments, and focus resources on growth businesses. We believe the firm would need to deploy more management resources on core components and electronic components, and narrow down businesses in solutions.",
+      "id": "6ab2326c-71b3-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Kyocera: IR Day Takeaways: Look for Kyocera to Revert to Growth Track via Reorganization",
+      "a": {
+        "id": "0bf98ac1-1f2f-4e94-828b-ee467e0d63e1",
+        "n": " Shoji Sato"
+      },
+      "co": [
+        {
+          "id": "0bf98ac1-1f2f-4e94-828b-ee467e0d63e1",
+          "n": " Shoji Sato"
+        },
+        {
+          "id": "9808d060-e609-45e9-9904-8fa71ba43bb6",
+          "n": " Ryo Sasaki"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "6971.T",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "9",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "6971.T",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "6971.T",
+            "ptc": "6700",
+            "cy": "JPY"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1800000006",
+            "industry": "Technology"
+          },
+          {
+            "id": "1800000027",
+            "industry": "Electronic Components",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T08:39:57.000Z",
+      "ab": "Smith & Nephew reported its 2H FY20 result this morning. Conference call follows at 8.30am GMT.",
+      "id": "43738038-704c-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Smith & Nephew: 2H FY20 Result: Lack of Guidance Disappointing",
+      "a": {
+        "id": "f486e86d-a711-450a-abf1-ee467e0d63e1",
+        "n": " Michael K Jungling"
+      },
+      "co": [
+        {
+          "id": "f486e86d-a711-450a-abf1-ee467e0d63e1",
+          "n": " Michael K Jungling"
+        },
+        {
+          "id": "77437c0e-a3b9-4fe1-b472-8fa71ba43bb6",
+          "n": " Alex M Gibson CFA"
+        },
+        {
+          "id": "a6c53ab9-a4e5-4d5b-b5d9-8fa71ba43bb6",
+          "n": " Aisyah Noor"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "SN.L",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "9",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "Company Standard"
+        ]
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "SN.L",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "SN.L",
+            "ptc": "1849.00",
+            "cy": "GBX"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700001066",
+            "industry": "Medical Technology & Services"
+          },
+          {
+            "id": "1500004842",
+            "industry": "Medical Devices",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T08:38:47.000Z",
+      "id": "3cc55620-71ba-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Hikma Pharmaceuticals Plc: Quarterly Update",
+      "a": {
+        "id": "ba6aff5c-217d-4644-9d3d-8fa71ba43bb6",
+        "n": " Thibault Boutherin"
+      },
+      "co": [
+        {
+          "id": "ba6aff5c-217d-4644-9d3d-8fa71ba43bb6",
+          "n": " Thibault Boutherin"
+        },
+        {
+          "id": "3a30d7ca-e1f4-44a5-801f-8fa71ba43bb6",
+          "n": " Mark D Purcell"
+        }
+      ],
+      "dt": "application/xls",
+      "pt": "HIK.L",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "HIK.L",
+            "srp": null,
+            "src": "Equal-Weight / In-Line"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "HIK.L"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000507",
+            "industry": "Pharmaceuticals"
+          },
+          {
+            "id": "1500000460",
+            "industry": "Pharmaceuticals"
+          }
+        ]
+      },
+      "pst": "Model",
+      "pstc": "Model",
+      "pcat1": "Model"
+    },
+    {
+      "pd": "2021-02-18T08:33:14.000Z",
+      "id": "ed47a772-71c0-11eb-aa53-e34ce4ecd4b0",
+      "hl": "SAFCO: Regular Update",
+      "a": {
+        "id": "824dbdd9-5652-4c56-aff1-8fa71ba43bb6",
+        "n": " Katherine Carpenter"
+      },
+      "co": [
+        {
+          "id": "824dbdd9-5652-4c56-aff1-8fa71ba43bb6",
+          "n": " Katherine Carpenter"
+        },
+        {
+          "id": "46fe0d37-4c2b-4e37-a9af-ee467e0d63e1",
+          "n": " Saul A Rans"
+        }
+      ],
+      "dt": "application/xls",
+      "pt": "2020.SE",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "2020.SE",
+            "srp": null,
+            "src": "Equal-Weight / No Rating"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "2020.SE"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700001257",
+            "industry": "EMEA"
+          },
+          {
+            "id": "1900000992",
+            "industry": "EEMEA - Chemicals"
+          }
+        ]
+      },
+      "pst": "Model",
+      "pstc": "Model",
+      "pcat1": "Model"
+    },
+    {
+      "pd": "2021-02-18T08:27:21.000Z",
+      "ab": "Magnit this morning has announced 2021-25 targets ahead of the CMD to be held later today. Targets for organic store roll-out and margins are ahead of our forecasts. We do not have consensus for store roll-out, but the target of EBITDA margins trending towards 8% appears to be ahead of consensus, which has EBITDA margins flat at 7.2% over 2021-22 (consensus provided by the company ahead of the ...",
+      "id": "85b00bfa-71bf-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Magnit Pao: CMD targets: first thoughts",
+      "a": {
+        "id": "0d7c788e-eab4-4938-af68-8fa71ba43bb6",
+        "n": " Henrik Herbst"
+      },
+      "co": [
+        {
+          "id": "0d7c788e-eab4-4938-af68-8fa71ba43bb6",
+          "n": " Henrik Herbst"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "MGNTq.L",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "MGNTq.L",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "MGNTq.L",
+            "ptc": "17.90",
+            "cy": "USD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700001257",
+            "industry": "EMEA"
+          },
+          {
+            "id": "1700001286",
+            "industry": "EEMEA - Consumer & Retail",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T08:26:12.000Z",
+      "ab": "Bottom line: Swiss watch exports data for the month of January has just been published. Total exports in January 2021 were down by -11% YoY vs. -2.5% in December 2020 and -3.2% in November 2020. On a two year stack basis, exports were down -0.7% compared to +2.7% and -3.2% in the last two months, respectively. Overall, we view today's data as slightly disappointing. While we think January's...",
+      "id": "9fd4d038-6f7b-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Swiss Watches January export data: Soft start to the year",
+      "a": {
+        "id": "7b014a8b-6960-4f32-87e9-ee467e0d63e1",
+        "n": " Edouard Aubin"
+      },
+      "co": [
+        {
+          "id": "7b014a8b-6960-4f32-87e9-ee467e0d63e1",
+          "n": " Edouard Aubin"
+        },
+        {
+          "id": "b7076c75-6d77-4242-bd36-ee467e0d63e1",
+          "n": " Elena Mariani"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "12",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "CFRJ.J",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "CFR.S",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "UHR.S",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "LVMH.PA",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "PRTP.PA",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "HRMS.PA",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "CFRJ.J"
+          },
+          {
+            "ticker": "CFR.S"
+          },
+          {
+            "ticker": "UHR.S"
+          },
+          {
+            "ticker": "LVMH.PA"
+          },
+          {
+            "ticker": "PRTP.PA"
+          },
+          {
+            "ticker": "HRMS.PA"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700000654",
+            "industry": "Luxury Goods"
+          },
+          {
+            "id": "1700001293",
+            "industry": "Brands",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T08:15:26.000Z",
+      "ab": "Bottom line… Yara has signed a Letter of Intent with Statkraft (producer of hydro, wind and solar power) and Aker Solutions (which focuses on market development in renewable energy and has experience in the shipping fuel market) for and development of green ammonia end markets. Yara is in the process of seeking financial government support for the retrofit of the Porsgrun plant. The Letter of...",
+      "id": "9a6728ae-71b9-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Yara International ASA: Green ammonia partnership",
+      "a": {
+        "id": "73e1f119-1bf7-4eab-b8a3-8fa71ba43bb6",
+        "n": " Lisa H De Neve"
+      },
+      "co": [
+        {
+          "id": "73e1f119-1bf7-4eab-b8a3-8fa71ba43bb6",
+          "n": " Lisa H De Neve"
+        },
+        {
+          "id": "bfeb6ec4-6628-48b7-878a-8fa71ba43bb6",
+          "n": " Charles L Webb"
+        },
+        {
+          "id": "6a9715c5-04eb-424a-943e-8fa71ba43bb6",
+          "n": " Navina Rajan"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "YAR.OL",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "7",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "YAR.OL",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "YAR.OL",
+            "ptc": "345.00",
+            "cy": "NOK"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000484",
+            "industry": "Chemicals"
+          },
+          {
+            "id": "1500000437",
+            "industry": "Chemicals",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T08:12:53.000Z",
+      "ab": "CSL's beat but reiteration of guidance for the FY implies industry dynamics remain challenging and the path towards recovery uncertain. For Grifols, the beat provides upside risk for their CYQ4 results on 26th Feb but the real litmus test will be Q2/Q3 CY21 where mitigation efforts should kick-in.",
+      "id": "d54bc3c0-704d-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Grifols SA: Read-across from CSL's 1H FY20/21 Result",
+      "a": {
+        "id": "77437c0e-a3b9-4fe1-b472-8fa71ba43bb6",
+        "n": " Alex M Gibson CFA"
+      },
+      "co": [
+        {
+          "id": "77437c0e-a3b9-4fe1-b472-8fa71ba43bb6",
+          "n": " Alex M Gibson CFA"
+        },
+        {
+          "id": "f486e86d-a711-450a-abf1-ee467e0d63e1",
+          "n": " Michael K Jungling"
+        },
+        {
+          "id": "a6c53ab9-a4e5-4d5b-b5d9-8fa71ba43bb6",
+          "n": " Aisyah Noor"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "GRLS.MC",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "9",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "GRLS.MC",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "GRLS.MC",
+            "ptc": "31.00",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700001066",
+            "industry": "Medical Technology & Services"
+          },
+          {
+            "id": "1500004842",
+            "industry": "Medical Devices",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T08:08:52.000Z",
+      "ab": "We expect the share's relative performance to be muted relative to the sector. YTD the share has modestly outperformed SXIP by 2ppt. Strong capital return as usual, which in our view could support the share price. The company announced a FY20 total dividend of €2.33, 8% YoY growth. In addition, it also announced a renewed €250m buyback in 2021, as we had expected. Organic capital generation (OC...",
+      "id": "1b238adc-713d-11eb-aa53-e34ce4ecd4b0",
+      "hl": "NN Group NV: FY20 results: strong capital return announced despite OCG missing expectations",
+      "a": {
+        "id": "954e0dd5-b717-4db7-8c48-8fa71ba43bb6",
+        "n": " Fulin Liang CFA"
+      },
+      "co": [
+        {
+          "id": "954e0dd5-b717-4db7-8c48-8fa71ba43bb6",
+          "n": " Fulin Liang CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "NN.AS",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "NN.AS",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "NN.AS",
+            "ptc": "40.40",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000483",
+            "industry": "Insurance"
+          },
+          {
+            "id": "1500000436",
+            "industry": "Insurance",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T08:06:03.000Z",
+      "ab": "We expect a positive market reaction to Repsol's 4Q20 results. Adjusted net income of €404m is materially higher than consensus expectations of €134m. The beat is spread across the segments, although it is significantly amplified by very low corporate and financial charges – coming in at €(12)m vs. consensus €(133)m (3Q20: €(148)m). Net debt was down QoQ. Earnings : Adj. net income of €404m was...",
+      "id": "c05d8240-7125-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Repsol: 4Q20 Results: Earnings Beat, Net Debt Lower",
+      "a": {
+        "id": "5c4c5861-8977-497d-aa58-ee467e0d63e1",
+        "n": " Martijn Rats CFA"
+      },
+      "co": [
+        {
+          "id": "5c4c5861-8977-497d-aa58-ee467e0d63e1",
+          "n": " Martijn Rats CFA"
+        },
+        {
+          "id": "6b822f49-2589-49fb-8783-ee467e0d63e1",
+          "n": " Sasikanth Chilukuru CFA"
+        },
+        {
+          "id": "4182cbe6-baf3-4ac4-a9b8-8fa71ba43bb6",
+          "n": " Rachel Fletcher Ph.D."
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "REP.MC",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "REP.MC",
+            "srp": null,
+            "src": "Underweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "REP.MC",
+            "ptc": "8.55",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700001202",
+            "industry": "Oil & Gas"
+          },
+          {
+            "id": "1700001356",
+            "industry": "Integrated Oil & Refining",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T08:03:23.000Z",
+      "id": "13d72f12-71bb-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Haier Smart Home Co Ltd: Regular Update",
+      "a": {
+        "id": "94c5b5f5-38e4-4ad7-86dc-ee467e0d63e1",
+        "n": " Lillian Lou"
+      },
+      "co": [
+        {
+          "id": "94c5b5f5-38e4-4ad7-86dc-ee467e0d63e1",
+          "n": " Lillian Lou"
+        },
+        {
+          "id": "11380790-2508-47cb-845e-8fa71ba43bb6",
+          "n": " Hanli Fan CFA"
+        }
+      ],
+      "dt": "application/xls",
+      "pt": "6690.HK",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "6690.HK",
+            "srp": null,
+            "src": "Overweight / In-Line"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "6690.HK"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000012",
+            "industry": "Consumer"
+          },
+          {
+            "id": "1900000033",
+            "industry": "Consumer"
+          },
+          {
+            "id": "1900000855",
+            "industry": "China/Hong Kong Consumer"
+          }
+        ]
+      },
+      "pst": "Model",
+      "pstc": "Model",
+      "pcat1": "Model"
+    },
+    {
+      "pd": "2021-02-18T07:58:01.000Z",
+      "ab": "Veon's Q4 20 revenues were +1% vs consensus while EBITDA was a -2% miss. The Russian business is improving faster than we had anticipated with y/y mobile service revenue trends improving by +6pp (to -4% y/y) vs our +2pp expected improvement. The company further stated that Russia was in positive revenue growth territory (in RUB) in Dec and Jan and we note comps should get easier through the yea...",
+      "id": "7d8fbee0-7168-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Veon Ltd: Q4 20: Russia back to positive revenue growth in Dec and Jan",
+      "a": {
+        "id": "0d7c788e-eab4-4938-af68-8fa71ba43bb6",
+        "n": " Henrik Herbst"
+      },
+      "co": [
+        {
+          "id": "0d7c788e-eab4-4938-af68-8fa71ba43bb6",
+          "n": " Henrik Herbst"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "VEON.O",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "VEON.O",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "VEON.O",
+            "ptc": "1.90",
+            "cy": "USD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700001257",
+            "industry": "EMEA"
+          },
+          {
+            "id": "1700001258",
+            "industry": "EEMEA - Telecoms",
+            "ivc": "No Rating"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T07:55:45.000Z",
+      "ab": "We provide holistic daily data set and charts for Japan interest rates. This includes important data such as JGB, Swap, ASW, JGB Futures and JGBi.",
+      "id": "3498b248-71bb-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Global Macro Data: Japan Rates Tracker - 2021/02/18",
+      "a": {
+        "id": "44508c7a-1db3-4710-a001-ee467e0d63e1",
+        "n": " Shoki Omori"
+      },
+      "co": [
+        {
+          "id": "44508c7a-1db3-4710-a001-ee467e0d63e1",
+          "n": " Shoki Omori"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "22",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "Global Macro Data"
+        ]
+      },
+      "lang": "eng",
+      "cinfo": {
+
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T07:54:02.000Z",
+      "id": "0c16954c-7152-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Nibe Industrier AB: Regular Update",
+      "a": {
+        "id": "54a53d01-1250-4046-8d46-8fa71ba43bb6",
+        "n": " Pam Liu"
+      },
+      "co": [
+        {
+          "id": "54a53d01-1250-4046-8d46-8fa71ba43bb6",
+          "n": " Pam Liu"
+        },
+        {
+          "id": "58e51011-36c7-4e9f-a33f-8fa71ba43bb6",
+          "n": " Cedar Ekblom CFA"
+        }
+      ],
+      "dt": "application/xls",
+      "pt": "NIBEb.ST",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "NIBEb.ST",
+            "srp": null,
+            "src": "Underweight / In-Line"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "NIBEb.ST"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000494",
+            "industry": "Building & Construction"
+          },
+          {
+            "id": "1500000447",
+            "industry": "Building & Construction"
+          }
+        ]
+      },
+      "pst": "Model",
+      "pstc": "Model",
+      "pcat1": "Model"
+    },
+    {
+      "pd": "2021-02-18T07:53:24.000Z",
+      "ab": "We expect shares to be up relative to the market. 1H operating profits in-line with guidance of £25m in Jan. More importantly, outlook commentary points to continued gradual recovery and the company has announced a new dividend policy, which points to £150m (5.6% of market cap) of cash returns in the form of special dividend commencing in August and reinstatement of core dividend at prelims...",
+      "id": "79d21d0e-712f-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Hays PLC: 1H21 results and outlook in-line, dividend returns",
+      "a": {
+        "id": "21b0bd99-698f-497d-a35a-ee467e0d63e1",
+        "n": " Anvesh Agrawal"
+      },
+      "co": [
+        {
+          "id": "21b0bd99-698f-497d-a35a-ee467e0d63e1",
+          "n": " Anvesh Agrawal"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "HAYS.L",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "HAYS.L",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "HAYS.L",
+            "ptc": "160.00",
+            "cy": "GBX"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500001165",
+            "industry": "Business Services"
+          },
+          {
+            "id": "1500001166",
+            "industry": "Business Services",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T07:53:06.000Z",
+      "ab": "At around 5pm Feb 17, Kobe Steel announced that Kobelco Construction Machinery (KCM, a wholly owned subsidiary) will suspend production of hydraulic excavators at the US plant. There were delays in the certification of the new model year engines from Hino Motors (7205) that was scheduled to be supplied to KCM’s hydraulic excavators for the N. American market given issues in the process of...",
+      "id": "d652a1a2-71ac-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Kobe Steel: Regarding the Suspension of Output at Kobelco Construction Machinery’s US Hydraulic Excavator Plant",
+      "a": {
+        "id": "935ecc2c-32ce-4b08-bf38-ee467e0d63e1",
+        "n": " Yu Shirakawa"
+      },
+      "co": [
+        {
+          "id": "935ecc2c-32ce-4b08-bf38-ee467e0d63e1",
+          "n": " Yu Shirakawa"
+        },
+        {
+          "id": "ae42591f-9a47-44f0-912d-ee467e0d63e1",
+          "n": " Takato Watabe"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "5406.T",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "7",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "5406.T",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "5406.T",
+            "ptc": "550",
+            "cy": "JPY"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1800000010",
+            "industry": "Steel"
+          },
+          {
+            "id": "1800000042",
+            "industry": "Steel",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T07:52:55.000Z",
+      "ab": "Bouygues ended 2020 on a high note, largely beating market/MSe earnings and cash flow expectations. The 2021 guidance (Group, Telecom, Colas) looks cautious as usual, while we feel the group benefits from solid momentum (Telecom, construction backlog & stimulus plans to start unfolding in 2H21) to offer another beat. The conf call should help provide more colour on guidance, the dividend (very...",
+      "id": "ee8d5fce-71b0-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Bouygues SA: FY20 earnings - First Take: Earnings & cash beat",
+      "a": {
+        "id": "cf78e3ca-3691-478a-8aa6-8fa71ba43bb6",
+        "n": " Nawar Cristini"
+      },
+      "co": [
+        {
+          "id": "cf78e3ca-3691-478a-8aa6-8fa71ba43bb6",
+          "n": " Nawar Cristini"
+        },
+        {
+          "id": "a99e84d2-704b-4428-932f-8fa71ba43bb6",
+          "n": " Nicolas J Mora"
+        },
+        {
+          "id": "ad2eb47c-cadd-4319-9f7e-ee467e0d63e1",
+          "n": " Emmet B Kelly"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "BOUY.PA",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "9",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "BOUY.PA",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "BOUY.PA",
+            "ptc": "44.00",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700001248",
+            "industry": "Telecommunications Services"
+          },
+          {
+            "id": "1700001249",
+            "industry": "Telecommunications Services",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T07:52:00.000Z",
+      "ab": "Barclays reported 4Q net profit of £260mn vs. consensus of -£17mn and MSe -£299mn. All main group P&L lines were better with revenues 3% better driven by BUK and CIB, operating costs 3% below, and provisions were £492mn or 56bps COR, 29% better. CET1 was 15.1%, including 30bp of software intangibles benefit which will soon be removed. Underlying CET1 was 10bp better than consensus, 10bp below M...",
+      "id": "4c4298cc-6f64-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Barclays Bank: 4Q20: Main lines beat plus share buyback",
+      "a": {
+        "id": "12b22665-2205-46fb-95e2-ee467e0d63e1",
+        "n": " Alvaro Serrano"
+      },
+      "co": [
+        {
+          "id": "12b22665-2205-46fb-95e2-ee467e0d63e1",
+          "n": " Alvaro Serrano"
+        },
+        {
+          "id": "ac8929ce-6ecd-4f82-b366-8fa71ba43bb6",
+          "n": " Frederick T Brennan"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "BARC.L",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "9",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "BARC.L",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "BARC.L",
+            "ptc": "160.00",
+            "cy": "GBX"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000481",
+            "industry": "Banks"
+          },
+          {
+            "id": "1700000703",
+            "industry": "Banks",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T07:51:28.000Z",
+      "ab": "Risk Reward for Coca-Cola Amatil (CCL.AX) has been updated",
+      "id": "c83e49e6-71ba-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Coca-Cola Amatil: Risk Reward Update",
+      "a": {
+        "id": "7bcf9766-439a-4b85-b326-8fa71ba43bb6",
+        "n": " Niraj S Shah"
+      },
+      "co": [
+        {
+          "id": "7bcf9766-439a-4b85-b326-8fa71ba43bb6",
+          "n": " Niraj S Shah"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "CCL.AX",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "CCL.AX",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "CCL.AX",
+            "ptp": "12.75",
+            "ptc": "13.50",
+            "cy": "AUD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000012",
+            "industry": "Consumer"
+          },
+          {
+            "id": "1900000033",
+            "industry": "Consumer"
+          },
+          {
+            "id": "1900000411",
+            "industry": "Australia Consumer",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "StandaloneRiskReward",
+      "pstc": "StandaloneRiskReward",
+      "pcat1": "PublisherDefined",
+      "pcat2": "RiskReward"
+    },
+    {
+      "pd": "2021-02-18T07:49:34.000Z",
+      "ab": "We would expect a positive share price reaction today driven by the strong LFL sales achieved in 4Q, the new cost savings targeted and the fact that, for the first time since the beginning of its transformation plan, the company is providing quantitative guidance, targeting net free cash flow generation above €1bn per year from 2021. We view this as a signal that management is comfortable with ...",
+      "id": "88f1b0e2-7125-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Carrefour SA: 4Q20 strong results, FCF target signals management confidence in its strategy",
+      "a": {
+        "id": "c768b9cb-c020-4d39-a717-8fa71ba43bb6",
+        "n": " Maria-Laura R Adurno"
+      },
+      "co": [
+        {
+          "id": "c768b9cb-c020-4d39-a717-8fa71ba43bb6",
+          "n": " Maria-Laura R Adurno"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "CARR.PA",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "CARR.PA",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "CARR.PA",
+            "ptc": "19.50",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700001214",
+            "industry": "Retailing - Food"
+          },
+          {
+            "id": "1700001215",
+            "industry": "Retailing - Food",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T07:49:33.000Z",
+      "ab": "We expect the share to outperform the wider sector modestly today because in our view its FY20 result is a clean beat of consensus, albeit small. YTD the share's performance has been in line with SXIP. Organic capital creation (OCC) of €500m beats the consensus by 3%, helping its S2 ratio achieved 199% at the end of 2020. According to the company, this was partly helped by the asset risking. IF...",
+      "id": "00736398-713c-11eb-aa53-e34ce4ecd4b0",
+      "hl": "ASR Nederland NV: Solid FY20 result and capital return to continue",
+      "a": {
+        "id": "954e0dd5-b717-4db7-8c48-8fa71ba43bb6",
+        "n": " Fulin Liang CFA"
+      },
+      "co": [
+        {
+          "id": "954e0dd5-b717-4db7-8c48-8fa71ba43bb6",
+          "n": " Fulin Liang CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "ASRNL.AS",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "7",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "ASRNL.AS",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "ASRNL.AS",
+            "ptc": "38.40",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000483",
+            "industry": "Insurance"
+          },
+          {
+            "id": "1500000436",
+            "industry": "Insurance",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T07:47:10.000Z",
+      "ab": "Orange has reported Q4 / FY 2020 results - these were slightly light of expectations (Q4 revenues & EBITDAaL c-0.5% below consensus, driven by weakness at Orange Spain). French revenue growth slowed quite sharply at year-end (Q3: +3.1%, Q4: +0.2%), driven by a deceleration of wholesale turnover growth (Q3: +10.5%, Q4: +1.9%), even if partially expected. Domestic EBITDAaL growth was largely...",
+      "id": "4c511aa6-70a3-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Orange: Spain weakens further, new TowerCo created",
+      "a": {
+        "id": "ad2eb47c-cadd-4319-9f7e-ee467e0d63e1",
+        "n": " Emmet B Kelly"
+      },
+      "co": [
+        {
+          "id": "ad2eb47c-cadd-4319-9f7e-ee467e0d63e1",
+          "n": " Emmet B Kelly"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "ORAN.PA",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "ORAN.PA",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "ORAN.PA",
+            "ptc": "11.50",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700001248",
+            "industry": "Telecommunications Services"
+          },
+          {
+            "id": "1700001249",
+            "industry": "Telecommunications Services",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T07:43:05.000Z",
+      "ab": "Bottom Line: Nestlé’s overall business is in rude health. 4Q20 3.9% vs cons 3.5% and 2H20 margins 17.9% 2H20 vs cons 18.3%, and FY margins 17.7% vs cons 17.8%. Working capital down to 0.0% of sales and ROIC up 240bps to 14.7%. 2021 guidance “continued increase in organic sales growth towards a mid-single digit rate and continued moderate improvement in underlying trading operating profit margin...",
+      "id": "d0297fce-711d-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Nestle SA: 4Q20 Results - Rude Health",
+      "a": {
+        "id": "8fdf5ce2-d99e-42d8-bf7e-8fa71ba43bb6",
+        "n": " Richard Taylor"
+      },
+      "co": [
+        {
+          "id": "8fdf5ce2-d99e-42d8-bf7e-8fa71ba43bb6",
+          "n": " Richard Taylor"
+        },
+        {
+          "id": "b9adde6f-bba9-46f9-98a0-8fa71ba43bb6",
+          "n": " Graham Hunt CFA"
+        },
+        {
+          "id": "aa4f76e7-95e6-46f2-9686-ee467e0d63e1",
+          "n": " Sanath Sudarsan CFA"
+        },
+        {
+          "id": "84a5d085-b7e7-4237-8657-8fa71ba43bb6",
+          "n": " Leslie Li"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "NESN.S",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "10",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "NESN.S",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "NESN.S",
+            "ptc": "125.00",
+            "cy": "CHF"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000487",
+            "industry": "Food Producers"
+          },
+          {
+            "id": "1500000440",
+            "industry": "Food Producers",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T07:42:56.000Z",
+      "ab": "Group adj. PBT at CHF861mn, in line with cons. A quarter of moving parts: (1) solid u/lying revenue performance in APAC, Asset Management and the investment bank; (2) Costs higher, provisions lower and (3) litigation/valuation clean-up. CET1 at 12.9% strong (30bps beat vs street). Confident outlook.",
+      "id": "3a99198a-7049-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Credit Suisse Group AG: 4Q20: Underlying solid. Strong capital.",
+      "a": {
+        "id": "88a6a34f-33f3-4fb4-aa3d-ee467e0d63e1",
+        "n": " Magdalena L Stoklosa CFA"
+      },
+      "co": [
+        {
+          "id": "88a6a34f-33f3-4fb4-aa3d-ee467e0d63e1",
+          "n": " Magdalena L Stoklosa CFA"
+        },
+        {
+          "id": "1cfcbbdf-1da2-4b22-b5e1-8fa71ba43bb6",
+          "n": " Izabel Dobreva"
+        },
+        {
+          "id": "8491af12-f385-4036-a2aa-8fa71ba43bb6",
+          "n": " Vishal Shah"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "CSGN.S",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "10",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "CSGN.S",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "CSGN.S",
+            "ptc": "14.00",
+            "cy": "CHF"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000481",
+            "industry": "Banks"
+          },
+          {
+            "id": "1700000703",
+            "industry": "Banks",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T07:42:14.000Z",
+      "ab": "New CMD targets positive for investors but execution now has to follow: Temenos has issued new mid term targets (out to 2025) that we think will be a clear positive for investors this morning. We compare the numbers to forecasts in 2023 as we don't have a strong consensus out much further and we think the mid point of the new guidance suggests numbers about 9% ahead on revenues and c. 12% ahead...",
+      "id": "dbf41e2c-71b3-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Temenos Group AG: CMD gives guidance for 2025 ahead of MS / street",
+      "a": {
+        "id": "683570d3-4c2b-4e37-a9af-ee467e0d63e1",
+        "n": " Adam Wood"
+      },
+      "co": [
+        {
+          "id": "683570d3-4c2b-4e37-a9af-ee467e0d63e1",
+          "n": " Adam Wood"
+        },
+        {
+          "id": "07dbbd2f-23f1-4b0c-9b33-8fa71ba43bb6",
+          "n": " Alastair P Nolan"
+        },
+        {
+          "id": "6497f1b4-e559-444a-849e-8fa71ba43bb6",
+          "n": " George W Webb"
+        },
+        {
+          "id": "1f966f0e-bfea-49b7-9d77-8fa71ba43bb6",
+          "n": " Laura C Metayer"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "TEMN.S",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "TEMN.S",
+            "srp": null,
+            "src": "Underweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "TEMN.S",
+            "ptc": "98.00",
+            "cy": "CHF"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000478",
+            "industry": "Technology - Software & Services"
+          },
+          {
+            "id": "1500000431",
+            "industry": "Technology - Software & Services",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T07:35:49.000Z",
+      "ab": "Atos FY20 revenues broadly in-line, op margin c. 5% below street for 2H20, FCF in-line. 2021 guidance appears in-line, revenue guide a touch better, albeit street at upper end of margin/FCF. Expect shares flat/slightly down this morning on op margin miss/street at upper-end of margin/FCF guide.",
+      "id": "09fb25bc-7156-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Atos SA: Revenues in-line, operating margin weaker, FY21 guide in-line",
+      "a": {
+        "id": "683570d3-4c2b-4e37-a9af-ee467e0d63e1",
+        "n": " Adam Wood"
+      },
+      "co": [
+        {
+          "id": "683570d3-4c2b-4e37-a9af-ee467e0d63e1",
+          "n": " Adam Wood"
+        },
+        {
+          "id": "6497f1b4-e559-444a-849e-8fa71ba43bb6",
+          "n": " George W Webb"
+        },
+        {
+          "id": "07dbbd2f-23f1-4b0c-9b33-8fa71ba43bb6",
+          "n": " Alastair P Nolan"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "ATOS.PA",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "ATOS.PA",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "ATOS.PA",
+            "ptc": "73.00",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000478",
+            "industry": "Technology - Software & Services"
+          },
+          {
+            "id": "1500000431",
+            "industry": "Technology - Software & Services",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T07:30:47.000Z",
+      "ab": "Financial results, softer than suggested by 5 February trading statement . HEPS of R10.68 and EPS of R10.74/share in the middle of range per At the time this appeared to be a beat however, FY20 EBITDA of R49.4bn came in marginally below MSe of R50bn and the beat all appears to have been driven by a lower than expected tax charge (effective tax rate of 12% vs. MSe of 23%) primarily on the...",
+      "id": "2257a34a-712b-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Sibanye-Stillwater: FY20 results - Financials softer than t/s suggested but dividend surprises to upside; materially higher FY21 capex expected",
+      "a": {
+        "id": "ed8d80ab-6bf5-4f2a-b8fa-ee467e0d63e1",
+        "n": " Christopher Nicholson"
+      },
+      "co": [
+        {
+          "id": "ed8d80ab-6bf5-4f2a-b8fa-ee467e0d63e1",
+          "n": " Christopher Nicholson"
+        },
+        {
+          "id": "be1c8d08-1d64-4f57-9ae6-8fa71ba43bb6",
+          "n": " Brian Morgan"
+        },
+        {
+          "id": "ebb5cb3d-e289-4980-8e25-8fa71ba43bb6",
+          "n": " Jared Hoover"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "SSWJ.J",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "9",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "SSWJ.J",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "SSWJ.J",
+            "ptc": "5000.00",
+            "cy": "ZAX"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700001257",
+            "industry": "EMEA"
+          },
+          {
+            "id": "1700001276",
+            "industry": "EMEA - Metals & Mining",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T07:29:32.000Z",
+      "ab": "White space exists for share gain in IB, custody and payments. We think our 5% above consensus EPS is priced into JPM’s 12.2x 2022 P/E. But if the expense ratio comes in below our 56% forecast, there is room for upside. That plus higher rev growth and higher rates drives $168 Bull Case.",
+      "id": "e2fd86fe-6a47-11eb-846d-861a941bf743",
+      "hl": "JPMorgan Chase & Co: Room to Grow",
+      "a": {
+        "id": "1d9fa777-ca24-4cc4-828e-ee467e0d63e1",
+        "n": " Betsy L. Graseck CFA"
+      },
+      "co": [
+        {
+          "id": "1d9fa777-ca24-4cc4-828e-ee467e0d63e1",
+          "n": " Betsy L. Graseck CFA"
+        },
+        {
+          "id": "fd6e9194-9aa9-4621-aa6b-ee467e0d63e1",
+          "n": " Manan Gosalia"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "JPM.N",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "24",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "JPM.N",
+            "srp": null,
+            "src": "Underweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "JPM.N",
+            "ptc": "142.00",
+            "cy": "USD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500004436",
+            "industry": "Banking"
+          },
+          {
+            "id": "1500004468",
+            "industry": "Large Cap Banks & Consumer Finance",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T07:28:47.000Z",
+      "ab": "Risk Reward for Kunlun Energy (0135.HK) has been updated",
+      "id": "e00caf52-71b7-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Kunlun Energy: Risk Reward Update",
+      "a": {
+        "id": "4424ab55-f019-48d1-bcfc-ee467e0d63e1",
+        "n": " Simon H.Y. Lee CFA"
+      },
+      "co": [
+        {
+          "id": "4424ab55-f019-48d1-bcfc-ee467e0d63e1",
+          "n": " Simon H.Y. Lee CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "0135.HK",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "9",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "0135.HK",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "0135.HK",
+            "ptc": "7.50",
+            "cy": "HKD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000006",
+            "industry": "Utilities"
+          },
+          {
+            "id": "1900000023",
+            "industry": "Utilities"
+          },
+          {
+            "id": "1900000542",
+            "industry": "China Utilities",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "StandaloneRiskReward",
+      "pstc": "StandaloneRiskReward",
+      "pcat1": "PublisherDefined",
+      "pcat2": "RiskReward"
+    },
+    {
+      "pd": "2021-02-18T07:25:04.000Z",
+      "ab": "Daimler pre-released FY20E revenues and EBIT. FY21E should see \"significant\" revenue, EBIT and FCF recovery, with Mercedes Cars EBIT at 8-10%, Trucks at 6-7%, largely as per MSe latest forecasts. Dividend of €1.35 was better than our €1.00 forecast. Remains OW. PT remains €68.",
+      "id": "97c4897c-7135-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Daimler: Q420: Cars to 8-10% range, Trucks still at 6-7% margin - as per MSe.",
+      "a": {
+        "id": "171ebbc6-6616-479d-8005-ee467e0d63e1",
+        "n": " Harald C Hendrikse"
+      },
+      "co": [
+        {
+          "id": "171ebbc6-6616-479d-8005-ee467e0d63e1",
+          "n": " Harald C Hendrikse"
+        },
+        {
+          "id": "7fbd9d3b-2760-4f5f-8616-8fa71ba43bb6",
+          "n": " Victoria A Greer"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "DAIGn.DE",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "9",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "DAIGn.DE",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "DAIGn.DE",
+            "ptc": "68.00",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000490",
+            "industry": "Autos & Shared Mobility"
+          },
+          {
+            "id": "1700000645",
+            "industry": "Autos & Shared Mobility",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T07:25:00.000Z",
+      "ab": "AF-KLM reported results better than our estimates and consensus on lower costs. Net debt also came broadly in line with expectations. While this is positive, worsening travel bans are leading to 1Q21 results guidance of worse results than in 4Q and AF-KLM's reduced liquidity (down €2.6bn q-o-q) has dropped to 7-10 months, worse than we expected. Details on further liquidity to be announced in t...",
+      "id": "992ef90a-70ef-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Air France-KLM: 4Q20: Worsening liquidity",
+      "a": {
+        "id": "b6c3968e-18d6-4127-89d1-ee467e0d63e1",
+        "n": " Carolina Dores CFA"
+      },
+      "co": [
+        {
+          "id": "b6c3968e-18d6-4127-89d1-ee467e0d63e1",
+          "n": " Carolina Dores CFA"
+        },
+        {
+          "id": "17b0be92-abce-415f-a208-8fa71ba43bb6",
+          "n": " Alexandra Thrum"
+        },
+        {
+          "id": "a99e84d2-704b-4428-932f-8fa71ba43bb6",
+          "n": " Nicolas J Mora"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "AIRF.PA",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "AIRF.PA",
+            "srp": null,
+            "src": "Underweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "AIRF.PA",
+            "ptc": "3.00",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000495",
+            "industry": "Transport"
+          },
+          {
+            "id": "1700001200",
+            "industry": "Airlines",
+            "ivc": "Cautious"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T07:24:08.000Z",
+      "id": "b63625aa-71b7-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Scandic Hotels Group AB: Regular Update",
+      "a": {
+        "id": "fb3c40a9-8a71-419a-8148-ee467e0d63e1",
+        "n": " Jamie Rollo"
+      },
+      "co": [
+        {
+          "id": "fb3c40a9-8a71-419a-8148-ee467e0d63e1",
+          "n": " Jamie Rollo"
+        },
+        {
+          "id": "8a6d5f8d-50f8-4cd7-ba25-8fa71ba43bb6",
+          "n": " Imogen Barker"
+        },
+        {
+          "id": "bf4809c2-e0f4-43ef-8476-8fa71ba43bb6",
+          "n": " Ed Young"
+        }
+      ],
+      "dt": "application/xls",
+      "pt": "SHOTE.ST",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "SHOTE.ST",
+            "srp": null,
+            "src": "Underweight / Cautious"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "SHOTE.ST"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500001284",
+            "industry": "Leisure and Hotels"
+          },
+          {
+            "id": "1500001285",
+            "industry": "Leisure and Hotels"
+          }
+        ]
+      },
+      "pst": "Model",
+      "pstc": "Model",
+      "pcat1": "Model"
+    },
+    {
+      "pd": "2021-02-18T07:20:55.000Z",
+      "ab": "We would expect a positive reaction from the shares at market open. While EDF did not deliver the large positive surprise we were expecting, we think its set of FY20 results is reassuring, especially following the shares' recent underperformance. We note that today's share price moves will also depend a lot on what management says on the conference call regarding the nuclear reform and potentia...",
+      "id": "29e18a64-7161-11eb-aa53-e34ce4ecd4b0",
+      "hl": "EDF: Reassuring set of results",
+      "a": {
+        "id": "18f80f1a-cf04-4e0f-9e73-8fa71ba43bb6",
+        "n": " Arthur Sitbon CFA"
+      },
+      "co": [
+        {
+          "id": "18f80f1a-cf04-4e0f-9e73-8fa71ba43bb6",
+          "n": " Arthur Sitbon CFA"
+        },
+        {
+          "id": "3b010f8a-af9f-41c9-b8db-ee467e0d63e1",
+          "n": " Robert Pulleyn"
+        },
+        {
+          "id": "6b0f943e-d5d0-4f84-b3b3-8fa71ba43bb6",
+          "n": " Christopher Laybutt"
+        },
+        {
+          "id": "1f164c3d-fb0c-4e1f-a121-ee467e0d63e1",
+          "n": " Lillian Starke"
+        },
+        {
+          "id": "ab273c01-0696-4b4e-96cb-ee467e0d63e1",
+          "n": " Sarah E Lester CFA"
+        },
+        {
+          "id": "7a1002a3-333b-4969-a79d-8fa71ba43bb6",
+          "n": " Diana Lucaci Ph.D."
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "EDF.PA",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "EDF.PA",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "EDF.PA",
+            "ptc": "16.00",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000500",
+            "industry": "Utilities"
+          },
+          {
+            "id": "1500000453",
+            "industry": "Utilities",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T07:17:36.000Z",
+      "ab": "2H20 DPU was -4%YOY to HK$0.128 (full year -6% to HK$0.25, implying 5.5% yield), marginally above our estimates on slightly better cost savings. However, office occupancy fell more than our expectation. BVPS decline of 9%HOH to HK$8.6 at Dec-20 was also worse than expected. Management expressed in the outlook statement that the office outlook remains highly uncertain and retail outlook remains...",
+      "id": "944c2954-71b6-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Champion REIT: 2H20 DPU beat on cost savings; operating outlook remains murky",
+      "a": {
+        "id": "a5ae2b4c-c5d3-4d61-9a1a-ee467e0d63e1",
+        "n": " Hildy Ling"
+      },
+      "co": [
+        {
+          "id": "a5ae2b4c-c5d3-4d61-9a1a-ee467e0d63e1",
+          "n": " Hildy Ling"
+        },
+        {
+          "id": "4b6cbc63-32ba-4340-91e3-ee467e0d63e1",
+          "n": " Praveen K Choudhary"
+        },
+        {
+          "id": "e4572819-1287-439c-8862-8fa71ba43bb6",
+          "n": " Dan Xu"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "2778.HK",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "7",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "2778.HK",
+            "srp": null,
+            "src": "Underweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "2778.HK",
+            "ptc": "4.40",
+            "cy": "HKD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000015",
+            "industry": "Property"
+          },
+          {
+            "id": "1900000037",
+            "industry": "Property"
+          },
+          {
+            "id": "1900000864",
+            "industry": "Hong Kong Property",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T07:09:21.000Z",
+      "ab": "Risk Reward for China Resources Gas Group Ltd (1193.HK) has been updated",
+      "id": "772b44f0-71b5-11eb-aa53-e34ce4ecd4b0",
+      "hl": "China Resources Gas Group Ltd: Risk Reward Update",
+      "a": {
+        "id": "4424ab55-f019-48d1-bcfc-ee467e0d63e1",
+        "n": " Simon H.Y. Lee CFA"
+      },
+      "co": [
+        {
+          "id": "4424ab55-f019-48d1-bcfc-ee467e0d63e1",
+          "n": " Simon H.Y. Lee CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "1193.HK",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "9",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "1193.HK",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "1193.HK",
+            "ptc": "45.00",
+            "cy": "HKD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000006",
+            "industry": "Utilities"
+          },
+          {
+            "id": "1900000023",
+            "industry": "Utilities"
+          },
+          {
+            "id": "1900000542",
+            "industry": "China Utilities",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "StandaloneRiskReward",
+      "pstc": "StandaloneRiskReward",
+      "pcat1": "PublisherDefined",
+      "pcat2": "RiskReward"
+    },
+    {
+      "pd": "2021-02-18T07:09:18.000Z",
+      "ab": "4Q20 Results. Revenue was €1.02bn (consensus €1.09bn, MSe €1.08bn), adjusted EBIT was €105mn (consensus €105mn, MSe €111mn), adjusted EPS were €1.42 (consensus €1.48, MSe €1.65), FCF was €-41mn (consensus -€13mn, MSe €69mn). Proposal of a €1.25 dividend relating to 2020 earnings was not in our assumptions (we had assumed zero). Outlook . Formal guidance is for 2021 revenue of €4.2-4.6bn (consen...",
+      "id": "90d9feda-7144-11eb-aa53-e34ce4ecd4b0",
+      "hl": "MTU Aero Engines AG: FY20 results – cash conversion in focus",
+      "a": {
+        "id": "64ad5467-457b-4bf1-8e3e-ee467e0d63e1",
+        "n": " Andrew Humphrey"
+      },
+      "co": [
+        {
+          "id": "64ad5467-457b-4bf1-8e3e-ee467e0d63e1",
+          "n": " Andrew Humphrey"
+        },
+        {
+          "id": "c23b272d-b0cd-4d02-8e36-ee467e0d63e1",
+          "n": " Joseph Ayoola CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "MTXGn.DE",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "7",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "MTXGn.DE",
+            "srp": null,
+            "src": "Underweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "MTXGn.DE",
+            "ptc": "130.00",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700000863",
+            "industry": "Aerospace & Defence"
+          },
+          {
+            "id": "1700000864",
+            "industry": "Aerospace & Defence",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T07:00:13.000Z",
+      "ab": "Commentary indicates that while sales growth will moderate, demand is likely to remain elevated for longer. Department store earnings growth was strong with elevated demand and early wins from strategic programs. Conversely, limited leverage in Bunnings surprised. Retain EW, PT A$52.",
+      "id": "48a6d788-707b-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Wesfarmers: Leverage?",
+      "a": {
+        "id": "7bcf9766-439a-4b85-b326-8fa71ba43bb6",
+        "n": " Niraj S Shah"
+      },
+      "co": [
+        {
+          "id": "7bcf9766-439a-4b85-b326-8fa71ba43bb6",
+          "n": " Niraj S Shah"
+        },
+        {
+          "id": "5e2ebf5b-ca60-4318-aed8-8fa71ba43bb6",
+          "n": " Peter J Marks"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "WES.AX",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "12",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "WES.AX",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "WES.AX",
+            "ptp": "53.00",
+            "ptc": "52.00",
+            "cy": "AUD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000012",
+            "industry": "Consumer"
+          },
+          {
+            "id": "1900000033",
+            "industry": "Consumer"
+          },
+          {
+            "id": "1900000411",
+            "industry": "Australia Consumer",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T06:56:01.000Z",
+      "ab": "Risk Reward for OZ Minerals Ltd (OZL.AX) has been updated",
+      "id": "d0bf2fcc-71b5-11eb-aa53-e34ce4ecd4b0",
+      "hl": "OZ Minerals Ltd: Risk Reward Update",
+      "a": {
+        "id": "987dcfe4-8f22-4067-a8ed-ee467e0d63e1",
+        "n": " Rahul Anand CFA"
+      },
+      "co": [
+        {
+          "id": "987dcfe4-8f22-4067-a8ed-ee467e0d63e1",
+          "n": " Rahul Anand CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "OZL.AX",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "9",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "OZL.AX",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "OZL.AX",
+            "ptp": "20.30",
+            "ptc": "22.10",
+            "cy": "AUD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000009",
+            "industry": "Nonferrous Metals & Mining"
+          },
+          {
+            "id": "1900000753",
+            "industry": "Metals & Mining"
+          },
+          {
+            "id": "1900000851",
+            "industry": "Australia Materials",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "StandaloneRiskReward",
+      "pstc": "StandaloneRiskReward",
+      "pcat1": "PublisherDefined",
+      "pcat2": "RiskReward"
+    },
+    {
+      "pd": "2021-02-18T06:54:31.000Z",
+      "ab": "In a company press release, thyssenkrupp confirmed that it has ended talks with Liberty Steel with regards to the sale of its steel business, stating that \"the corporate value and the structure of the transaction were far apart\". The company will instead focus on developing a strategy to make the steel business sustainable and profitable on its own. Our view: We see this announcement as a setba...",
+      "id": "c65376b6-71af-11eb-aa53-e34ce4ecd4b0",
+      "hl": "thyssenkrupp AG: Back to square one",
+      "a": {
+        "id": "b21ba945-93b0-467f-a753-ee467e0d63e1",
+        "n": " Alain Gabriel CFA"
+      },
+      "co": [
+        {
+          "id": "b21ba945-93b0-467f-a753-ee467e0d63e1",
+          "n": " Alain Gabriel CFA"
+        },
+        {
+          "id": "43eca20d-8e24-4b7c-9eba-8fa71ba43bb6",
+          "n": " Ioannis Masvoulas CFA"
+        },
+        {
+          "id": "5b0db6ef-8f76-41b5-806e-ee467e0d63e1",
+          "n": " Dan Shaw"
+        },
+        {
+          "id": "c6347362-97c8-4080-92b9-ee467e0d63e1",
+          "n": " Sandeep Peety"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "TKAG.DE",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "7",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "TKAG.DE",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "TKAG.DE",
+            "ptc": "6.20",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700000656",
+            "industry": "Metals & Mining"
+          },
+          {
+            "id": "1900000912",
+            "industry": "Carbon Steel",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T06:53:15.000Z",
+      "ab": "Production, unit cost metrics and Normalised EPS (NEPS) were well guided with the trading statement, with the final dividend being declared at the mid-point of the payout range (c.30% of NEPS). The NEPS beat vs. consensus on the trading statements appears to be driven by the add back of mark-to-market losses on the material FY20 hedge book ($0.27/share pre-tax), as expected. FY21 Guidance large...",
+      "id": "ce13dc5a-719c-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Gold Fields Limited: FY20 Results: Mixed - AIC outlook higher than expected, while Salares Norte on track",
+      "a": {
+        "id": "ebb5cb3d-e289-4980-8e25-8fa71ba43bb6",
+        "n": " Jared Hoover"
+      },
+      "co": [
+        {
+          "id": "ebb5cb3d-e289-4980-8e25-8fa71ba43bb6",
+          "n": " Jared Hoover"
+        },
+        {
+          "id": "ed8d80ab-6bf5-4f2a-b8fa-ee467e0d63e1",
+          "n": " Christopher Nicholson"
+        },
+        {
+          "id": "be1c8d08-1d64-4f57-9ae6-8fa71ba43bb6",
+          "n": " Brian Morgan"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "GFIJ.J",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "GFIJ.J",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "GFIJ.J",
+            "ptc": "16200.00",
+            "cy": "ZAX"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700001257",
+            "industry": "EMEA"
+          },
+          {
+            "id": "1700001276",
+            "industry": "EMEA - Metals & Mining",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T06:51:05.000Z",
+      "ab": "What's new? IndusInd Bank's promoters have converted warrants, which has led to capital infusion of Rs20bn into the bank. This will increase F3Q21 CET 1 ratio by ~75bps to 15.7%. As background, IndusInd Bank's promoters were allotted equity warrants by the bank at the time of the merger with Bharat Financial. These warrants were allotted to allow promoters to keep their equity shareholding in t...",
+      "id": "f1e4bb6a-71ae-11eb-aa53-e34ce4ecd4b0",
+      "hl": "IndusInd Bank: Raises Rs20bn via Promoter Warrants Conversion",
+      "a": {
+        "id": "1d474f2b-fd6a-4d06-85aa-ee467e0d63e1",
+        "n": " Sumeet Kariwala"
+      },
+      "co": [
+        {
+          "id": "1d474f2b-fd6a-4d06-85aa-ee467e0d63e1",
+          "n": " Sumeet Kariwala"
+        },
+        {
+          "id": "3a3ed3db-450d-46ca-8107-ee467e0d63e1",
+          "n": " Subramanian Iyer"
+        },
+        {
+          "id": "86165b38-1423-49bf-9001-ee467e0d63e1",
+          "n": " Rahul Gupta"
+        },
+        {
+          "id": "a3b454fe-34d4-4321-b461-ee467e0d63e1",
+          "n": " Himanshu Khona"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "INBK.NS",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "7",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "INBK.NS",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "INBK.NS",
+            "ptc": "1225.00",
+            "cy": "INR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000008",
+            "industry": "Financial Services"
+          },
+          {
+            "id": "1900000025",
+            "industry": "Financial Services"
+          },
+          {
+            "id": "1900000871",
+            "industry": "India Financials",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T06:48:50.000Z",
+      "ab": "We provide global linker real yield and breakeven carry projections derived from Morgan Stanley inflation forecasts, snapshots of real yield and breakeven forwards, and historical breakeven levels and cross-market spreads.",
+      "id": "a50809fe-71b4-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Global Macro Data: Global Inflation Tracker",
+      "a": {
+        "id": "44508c7a-1db3-4710-a001-ee467e0d63e1",
+        "n": " Shoki Omori"
+      },
+      "co": [
+        {
+          "id": "44508c7a-1db3-4710-a001-ee467e0d63e1",
+          "n": " Shoki Omori"
+        },
+        {
+          "id": "a3f088e8-191d-46d2-a92f-8fa71ba43bb6",
+          "n": " Henry Steck"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "27",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "Global Macro Data"
+        ]
+      },
+      "lang": "eng",
+      "cinfo": {
+
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T06:47:57.000Z",
+      "ab": "We feel trends in trading and working capital stabilised to avoid the bear case of further dilution. Webjet's OTA business is performing well, we see B2B and Online Republic as later cycle and less certain. Remain EW.",
+      "id": "1f2fa658-7163-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Webjet Ltd: A diluted recovery",
+      "a": {
+        "id": "61b36520-cf58-43f7-a0c7-ee467e0d63e1",
+        "n": " James Bales"
+      },
+      "co": [
+        {
+          "id": "61b36520-cf58-43f7-a0c7-ee467e0d63e1",
+          "n": " James Bales"
+        },
+        {
+          "id": "e9815af5-96c2-4e81-a3a0-8fa71ba43bb6",
+          "n": " Joseph Michael CFA"
+        },
+        {
+          "id": "a91fd69d-ac27-4c06-9f3d-8fa71ba43bb6",
+          "n": " Chenny Wang CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "WEB.AX",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "13",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "WEB.AX",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "WEB.AX",
+            "ptp": "3.40",
+            "ptc": "4.50",
+            "cy": "AUD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000736",
+            "industry": "Emerging Companies"
+          },
+          {
+            "id": "1900000737",
+            "industry": "Emerging Companies"
+          },
+          {
+            "id": "1900000738",
+            "industry": "Australia Emerging Companies",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T06:38:37.000Z",
+      "ab": "No surprise given slightly low Jan contract rates, as usual, with sale prices tracking within historical range. Slightly high sales inventory levels bear watching ahead.",
+      "id": "2180c486-70ba-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Real Estate: Jan 2021 REEI Data: Sales Inventory Trends Worth Watching",
+      "a": {
+        "id": "999c2399-4c1f-445e-b8c5-8fa71ba43bb6",
+        "n": " Atsuro Takemura"
+      },
+      "co": [
+        {
+          "id": "999c2399-4c1f-445e-b8c5-8fa71ba43bb6",
+          "n": " Atsuro Takemura"
+        },
+        {
+          "id": "a2aa5294-17ca-4928-aa28-8fa71ba43bb6",
+          "n": " Arisa Katsuyama"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "6",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "ivcinfo": [
+          {
+            "id": "1800000096",
+            "industry": "Real Estate"
+          },
+          {
+            "id": "1800000097",
+            "industry": "Real Estate",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T06:36:06.000Z",
+      "id": "3fc9f462-71af-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Kering: Quarterly Update",
+      "a": {
+        "id": "7b014a8b-6960-4f32-87e9-ee467e0d63e1",
+        "n": " Edouard Aubin"
+      },
+      "co": [
+        {
+          "id": "7b014a8b-6960-4f32-87e9-ee467e0d63e1",
+          "n": " Edouard Aubin"
+        },
+        {
+          "id": "b7076c75-6d77-4242-bd36-ee467e0d63e1",
+          "n": " Elena Mariani"
+        }
+      ],
+      "dt": "application/xls",
+      "pt": "PRTP.PA",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "PRTP.PA",
+            "srp": null,
+            "src": "Equal-Weight / In-Line"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "PRTP.PA"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700000654",
+            "industry": "Luxury Goods"
+          },
+          {
+            "id": "1700001293",
+            "industry": "Brands"
+          }
+        ]
+      },
+      "pst": "Model",
+      "pstc": "Model",
+      "pcat1": "Model"
+    },
+    {
+      "pd": "2021-02-18T06:34:37.000Z",
+      "ab": "4Q20 Results. Revenue was €19.75bn (consensus €19.2bn, MSe €20.5bn), adjusted EBIT was €1.83bn (consensus €1.66bn, MSe €1.90bn) for a margin of 9.3% (consensus 8.6%, MSe 9.3%), adjusted EPS was €1.68 (consensus €1.48, MSe €1.76), FCF was €4.9bn (consensus €3.8bn, MSe €4.7bn). While Q4 earnings and cash performance are ahead of screen consensus, we view them as consistent with pre-close commenta...",
+      "id": "52b1bb16-7144-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Airbus SE: FY20 results: weaker 2021 guidance",
+      "a": {
+        "id": "64ad5467-457b-4bf1-8e3e-ee467e0d63e1",
+        "n": " Andrew Humphrey"
+      },
+      "co": [
+        {
+          "id": "64ad5467-457b-4bf1-8e3e-ee467e0d63e1",
+          "n": " Andrew Humphrey"
+        },
+        {
+          "id": "c23b272d-b0cd-4d02-8e36-ee467e0d63e1",
+          "n": " Joseph Ayoola CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "AIR.PA",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "AIR.PA",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "AIR.PA",
+            "ptc": "112.00",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1700000863",
+            "industry": "Aerospace & Defence"
+          },
+          {
+            "id": "1700000864",
+            "industry": "Aerospace & Defence",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Pulse",
+      "pstc": "Pulse",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T06:19:57.000Z",
+      "ab": "F3/21 3Q results at big 3 Japanese automakers exceeded expectations, supported by reduced/deferred spending and brisk market conditions in the US. Full-year expectations are being revised up as well. Amid some lingering concerns over the sustainability of solid earnings, we note the differences in business strategies and the status surrounding J3 in sales finance, CoGS improvement, as well as coping with Auto 2.0.",
+      "id": "96bea474-7133-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Autos & Shared Mobility: Impressions from Post-3Q Contact with J3 Companies",
+      "a": {
+        "id": "2d718827-274e-4730-9109-ee467e0d63e1",
+        "n": " Kota Mineshima"
+      },
+      "co": [
+        {
+          "id": "2d718827-274e-4730-9109-ee467e0d63e1",
+          "n": " Kota Mineshima"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "7",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "7203.T",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "7267.T",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "7201.T",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "7203.T"
+          },
+          {
+            "ticker": "7267.T"
+          },
+          {
+            "ticker": "7201.T"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1800000001",
+            "industry": "Autos & Shared Mobility"
+          },
+          {
+            "id": "1800000015",
+            "industry": "Autos & Shared Mobility",
+            "ivc": "Cautious"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T06:13:18.000Z",
+      "id": "84a01d5a-71aa-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Workiva Inc: Quarterly Update",
+      "a": {
+        "id": "474f3970-ea63-45b2-815c-ee467e0d63e1",
+        "n": " Stan Zlotsky CFA"
+      },
+      "co": [
+        {
+          "id": "474f3970-ea63-45b2-815c-ee467e0d63e1",
+          "n": " Stan Zlotsky CFA"
+        },
+        {
+          "id": "afd9e69f-02fd-4a9b-a3eb-ee467e0d63e1",
+          "n": " Keith Weiss CFA"
+        }
+      ],
+      "dt": "application/xls",
+      "pt": "WK.N",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "WK.N",
+            "srp": null,
+            "src": "Equal-Weight / In-Line"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "WK.N"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000049",
+            "industry": "Software"
+          },
+          {
+            "id": "1500000168",
+            "industry": "Software"
+          }
+        ]
+      },
+      "pst": "Model",
+      "pstc": "Model",
+      "pcat1": "Model"
+    },
+    {
+      "pd": "2021-02-18T06:08:59.000Z",
+      "id": "7a7b152a-71a8-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Casio Computer: Quarterly Update",
+      "a": {
+        "id": "1fdf3946-2ab2-45c6-af38-8fa71ba43bb6",
+        "n": " Yui Yasumoto"
+      },
+      "co": [
+        {
+          "id": "1fdf3946-2ab2-45c6-af38-8fa71ba43bb6",
+          "n": " Yui Yasumoto"
+        },
+        {
+          "id": "a6e809dd-644e-46e1-b813-ee467e0d63e1",
+          "n": " Masahiro Ono"
+        }
+      ],
+      "dt": "application/xls",
+      "pt": "6952.T",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "6952.T",
+            "srp": null,
+            "src": "Overweight / In-Line"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "6952.T"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1800000006",
+            "industry": "Technology"
+          },
+          {
+            "id": "1800000024",
+            "industry": "Consumer Electronics"
+          }
+        ]
+      },
+      "pst": "Model",
+      "pstc": "Model",
+      "pcat1": "Model"
+    },
+    {
+      "pd": "2021-02-18T06:04:39.000Z",
+      "ab": "Workiva had a strong finish to 2020, with a record quarter of new logos, above consensus billings and profitability metrics. Outlook for 2021 suggests typical conservatism, with room for beat/raise through the year. We remain EW, but as our forward estimates tick up, PT moves to $110.",
+      "id": "e9cce7f4-713b-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Workiva Inc: 4Q20 Results: Strong Finish to 2020",
+      "a": {
+        "id": "474f3970-ea63-45b2-815c-ee467e0d63e1",
+        "n": " Stan Zlotsky CFA"
+      },
+      "co": [
+        {
+          "id": "474f3970-ea63-45b2-815c-ee467e0d63e1",
+          "n": " Stan Zlotsky CFA"
+        },
+        {
+          "id": "afd9e69f-02fd-4a9b-a3eb-ee467e0d63e1",
+          "n": " Keith Weiss CFA"
+        },
+        {
+          "id": "f44f325e-d3a9-47f7-8a46-8fa71ba43bb6",
+          "n": " Peggy Yu"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "WK.N",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "13",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "Company Standard"
+        ]
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "WK.N",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "WK.N",
+            "ptp": "82.00",
+            "ptc": "110.00",
+            "cy": "USD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000049",
+            "industry": "Software"
+          },
+          {
+            "id": "1500000168",
+            "industry": "Software",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T06:03:02.000Z",
+      "ab": "We have revised our forecasts taking 3Q results into account. We expect a bottom in F3/21 & profit growth in F3/22. Areas to watch include effects of Shinsei’s tieup with Monex, and the direction of the TOB involving an equity-method affiliate.",
+      "id": "af0c0388-70f6-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Shinsei Bank: Revisions to Earnings Forecasts: Expect Profit to Bottom in F3/21 & Increase in F3/22",
+      "a": {
+        "id": "b3b0c3c5-2589-49fb-8783-ee467e0d63e1",
+        "n": " Mia Nagasaka"
+      },
+      "co": [
+        {
+          "id": "b3b0c3c5-2589-49fb-8783-ee467e0d63e1",
+          "n": " Mia Nagasaka"
+        },
+        {
+          "id": "506df893-071d-47fe-abeb-8fa71ba43bb6",
+          "n": " Yuki Yaginuma"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "8303.T",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "10",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "8303.T",
+            "srp": null,
+            "src": "++"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "8303.T"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1800000002",
+            "industry": "Banks"
+          },
+          {
+            "id": "1500005257",
+            "industry": "Banks",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T06:02:17.000Z",
+      "ab": "We maintain ratings of OW for NEC and EW for Fujitsu. NEC's mid-term plan is a potential near-term catalyst.",
+      "id": "ab890b14-7062-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Information Technology: Prefer NEC to Fujitsu Ahead of F3/22",
+      "a": {
+        "id": "7941c3ba-ed26-42c5-921b-8fa71ba43bb6",
+        "n": " Hiroto Segawa"
+      },
+      "co": [
+        {
+          "id": "7941c3ba-ed26-42c5-921b-8fa71ba43bb6",
+          "n": " Hiroto Segawa"
+        },
+        {
+          "id": "4b012f97-f632-4233-ae92-ee467e0d63e1",
+          "n": " Kazuo Yoshikawa CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Idea",
+      "pc": "39",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "6702.T",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "6701.T",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "6702.T",
+            "ptp": "13600",
+            "ptc": "16700",
+            "cy": "JPY"
+          },
+          {
+            "ticker": "6701.T",
+            "ptp": "6800",
+            "ptc": "7700",
+            "cy": "JPY"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1800000846",
+            "industry": "Information Technology"
+          },
+          {
+            "id": "1800000847",
+            "industry": "Information Technology",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T06:00:25.000Z",
+      "ab": "With the stock market buoyant we explore scenarios to incorporate bigger TAMs, capacity exits, cost cuts, and higher multiples. We see 80%+ bull case upside at EXHO, BFIT, ACCP, SSP, SHOT, RCL, CCL, TUI, but the last 4 also have 50%+ bear case downside. Best risk-reward balance at EXHO, BFIT, SSP (upgrade to Overweight), ACCP.",
+      "id": "82f9564c-6219-11eb-b6f1-1a4d3d4651f9",
+      "hl": "Leisure & Hotels: What If ...? 8 Possible Doublers, SSP to Overweight",
+      "a": {
+        "id": "fb3c40a9-8a71-419a-8148-ee467e0d63e1",
+        "n": " Jamie Rollo"
+      },
+      "co": [
+        {
+          "id": "fb3c40a9-8a71-419a-8148-ee467e0d63e1",
+          "n": " Jamie Rollo"
+        },
+        {
+          "id": "bf4809c2-e0f4-43ef-8476-8fa71ba43bb6",
+          "n": " Ed Young"
+        },
+        {
+          "id": "909654c4-4393-4aea-8404-8fa71ba43bb6",
+          "n": " Adrija Chakraborty"
+        },
+        {
+          "id": "8a6d5f8d-50f8-4cd7-ba25-8fa71ba43bb6",
+          "n": " Imogen Barker"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Foundation",
+      "pc": "75",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "ACCP.PA",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SHOTE.ST",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "BFIT.AS",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "WTB.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "CPG.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "EXHO.PA",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "CCL.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "CCL.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "TUIT.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "TUIGn.DE",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "RCL.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "IHG.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SSPG.L",
+            "srp": "Equal-weight",
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "ACCP.PA"
+          },
+          {
+            "ticker": "SHOTE.ST",
+            "ptp": " 21.00",
+            "ptc": " 23.00",
+            "cy": "SEK"
+          },
+          {
+            "ticker": "BFIT.AS"
+          },
+          {
+            "ticker": "WTB.L",
+            "ptp": "3000",
+            "ptc": "3500",
+            "cy": "GBX"
+          },
+          {
+            "ticker": "CPG.L"
+          },
+          {
+            "ticker": "EXHO.PA"
+          },
+          {
+            "ticker": "CCL.N"
+          },
+          {
+            "ticker": "CCL.L"
+          },
+          {
+            "ticker": "TUIT.L"
+          },
+          {
+            "ticker": "TUIGn.DE"
+          },
+          {
+            "ticker": "RCL.N"
+          },
+          {
+            "ticker": "IHG.L",
+            "ptp": "4300",
+            "ptc": "4600",
+            "cy": "GBX"
+          },
+          {
+            "ticker": "SSPG.L"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500001284",
+            "industry": "Leisure and Hotels"
+          },
+          {
+            "id": "1500001285",
+            "industry": "Leisure and Hotels",
+            "ivc": "Cautious"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T06:00:03.000Z",
+      "ab": "The firm is set to unveil new mid-term plan at 11:00 Feb 25. It already reported F12/20 results on Feb 15. F12/25 OP target of ¥65bn (10% CAGR vs F12/21 guidance ¥44bn) is our base case, but we do see a 40% probability of a more bullish outcome.",
+      "id": "c6f1ce2e-70bf-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Toyo Tire: Catalyst Driven Idea",
+      "a": {
+        "id": "60bd6487-b3bd-4f78-85df-ee467e0d63e1",
+        "n": " Shinji Kakiuchi"
+      },
+      "co": [
+        {
+          "id": "60bd6487-b3bd-4f78-85df-ee467e0d63e1",
+          "n": " Shinji Kakiuchi"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "5105.T",
+      "pv": "4",
+      "pn": "Idea",
+      "pc": "7",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "5105.T",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "5105.T",
+            "ptc": "1750",
+            "cy": "JPY"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1800000779",
+            "industry": "Auto Parts"
+          },
+          {
+            "id": "1800000780",
+            "industry": "Auto Parts",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Catalyst Driven Idea",
+      "pstc": "CatalystDrivenIdea",
+      "pcat1": "Comment"
+    },
+    {
+      "pd": "2021-02-18T05:58:20.000Z",
+      "id": "b39cbc7c-71a9-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Raycus Fiber Laser: Regular Update",
+      "a": {
+        "id": "1cc3aa68-8067-41ce-96f6-8fa71ba43bb6",
+        "n": " Zhuoran Wang CFA"
+      },
+      "co": [
+        {
+          "id": "1cc3aa68-8067-41ce-96f6-8fa71ba43bb6",
+          "n": " Zhuoran Wang CFA"
+        }
+      ],
+      "dt": "application/xls",
+      "pt": "300747.SZ",
+      "pv": "4",
+      "pn": "Update",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "300747.SZ",
+            "srp": null,
+            "src": "Overweight / In-Line"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "300747.SZ"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000487",
+            "industry": "Industrials"
+          },
+          {
+            "id": "1900000526",
+            "industry": "Industrials"
+          },
+          {
+            "id": "1900000857",
+            "industry": "China Industrials"
+          }
+        ]
+      },
+      "pst": "Model",
+      "pstc": "Model",
+      "pcat1": "Model"
+    },
+    {
+      "pd": "2021-02-18T05:48:48.000Z",
+      "ab": "We highlight the key investor discussions on our counter-consensus upgrade on Fangda Carbon, which falls into the under-researched graphite electrode (GE) industry. We summarize the key feedback and pushbacks below.",
+      "id": "e77f6842-718a-11eb-aa53-e34ce4ecd4b0",
+      "hl": "FangDa Carbon New Material Co. Ltd.: Feedback and Pushbacks",
+      "a": {
+        "id": "b6410f7a-eefe-40ac-af4a-ee467e0d63e1",
+        "n": " Sara Chan"
+      },
+      "co": [
+        {
+          "id": "b6410f7a-eefe-40ac-af4a-ee467e0d63e1",
+          "n": " Sara Chan"
+        },
+        {
+          "id": "ee60e0fb-fd21-46dd-abf8-8fa71ba43bb6",
+          "n": " Hannah Yang CFA"
+        },
+        {
+          "id": "99a64b02-489b-4991-871a-ee467e0d63e1",
+          "n": " Rachel L Zhang"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "600516.SS",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "9",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "SRI"
+        ]
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "600516.SS",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "600516.SS",
+            "ptc": "9.17",
+            "cy": "CNY"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000009",
+            "industry": "Nonferrous Metals & Mining"
+          },
+          {
+            "id": "1900000753",
+            "industry": "Metals & Mining"
+          },
+          {
+            "id": "1900000860",
+            "industry": "Greater China Materials",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T05:30:18.000Z",
+      "ab": "We hosted a call with our MS Mexico Legal and Strategy teams to discuss the impacts of proposed Service-Company law changes. While there are unresolved questions, and the bill could be \"watered-down,\" it could remain an overhang for companies operating in MX, particularly KSU within our coverage.",
+      "id": "6fe1ec04-7150-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Kansas City Southern: Proposed Mexico Labor Reform Q&A: Much To Be Decided, But Risk Remains",
+      "a": {
+        "id": "3b4353ed-b0ec-44d5-bf3b-ee467e0d63e1",
+        "n": " Ravi Shanker"
+      },
+      "co": [
+        {
+          "id": "3b4353ed-b0ec-44d5-bf3b-ee467e0d63e1",
+          "n": " Ravi Shanker"
+        },
+        {
+          "id": "ed93280d-c98b-4a97-93f4-ee467e0d63e1",
+          "n": " Sawyer C Rice"
+        },
+        {
+          "id": "f962692c-4443-4a46-9753-8fa71ba43bb6",
+          "n": " Christyne McGarvey"
+        },
+        {
+          "id": "67823d8c-a08c-4643-aec5-8fa71ba43bb6",
+          "n": " Madison J Pasterchick"
+        },
+        {
+          "id": "bc7f35bd-2589-49fb-8783-ee467e0d63e1",
+          "n": " Nikolaj Lippmann"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "KSU.N",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "11",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "KSU.N",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "KSU.N",
+            "ptc": "200.00",
+            "cy": "USD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500001313",
+            "industry": "Transportation"
+          },
+          {
+            "id": "1500005431",
+            "industry": "Freight Transportation",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T05:01:09.000Z",
+      "ab": "Only a very small handful of banks have a proven ability to meaningfully outgrow peers (i.e. loans, deposits, and BVPS) and that growth has been rewarded with superior stock price performance. Among the faster-growing banks, we favor SBNY and EWBC as our two top picks in the Midcap Banks.",
+      "id": "00006ed8-6bfb-11eb-846d-861a941bf743",
+      "hl": "Midcap Banks: Fastest Growing Banks: 10 Years of Growth in Pictures",
+      "a": {
+        "id": "e9c566e7-218f-4d2a-8083-ee467e0d63e1",
+        "n": " Ken A Zerbe CFA"
+      },
+      "co": [
+        {
+          "id": "e9c566e7-218f-4d2a-8083-ee467e0d63e1",
+          "n": " Ken A Zerbe CFA"
+        },
+        {
+          "id": "2b668095-48a5-4c8e-9110-8fa71ba43bb6",
+          "n": " Brian Wilczynski CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "32",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "OZK.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "BKU.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "BOKF.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "CADE.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "CFG.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "CMA.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "CBSH.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "CFR.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "EWBC.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "FITB.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "FHN.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "FRC.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "HBAN.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "KEY.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "MTB.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "NYCB.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "PBCT.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "PB.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SBNY.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SIVB.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SNV.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "TCF.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "VLY.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "WBS.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ZION.O",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "OZK.O"
+          },
+          {
+            "ticker": "BKU.N"
+          },
+          {
+            "ticker": "BOKF.O"
+          },
+          {
+            "ticker": "CADE.N"
+          },
+          {
+            "ticker": "CFG.N"
+          },
+          {
+            "ticker": "CMA.N"
+          },
+          {
+            "ticker": "CBSH.O"
+          },
+          {
+            "ticker": "CFR.N"
+          },
+          {
+            "ticker": "EWBC.O"
+          },
+          {
+            "ticker": "FITB.O"
+          },
+          {
+            "ticker": "FHN.N"
+          },
+          {
+            "ticker": "FRC.N"
+          },
+          {
+            "ticker": "HBAN.O"
+          },
+          {
+            "ticker": "KEY.N"
+          },
+          {
+            "ticker": "MTB.N"
+          },
+          {
+            "ticker": "NYCB.N"
+          },
+          {
+            "ticker": "PBCT.O"
+          },
+          {
+            "ticker": "PB.N"
+          },
+          {
+            "ticker": "SBNY.O"
+          },
+          {
+            "ticker": "SIVB.O"
+          },
+          {
+            "ticker": "SNV.N"
+          },
+          {
+            "ticker": "TCF.O"
+          },
+          {
+            "ticker": "VLY.O"
+          },
+          {
+            "ticker": "WBS.N"
+          },
+          {
+            "ticker": "ZION.O"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500004436",
+            "industry": "Banking"
+          },
+          {
+            "id": "1500004843",
+            "industry": "Midcap Banks",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T05:01:05.000Z",
+      "ab": "Q4 earnings and revenue have exceeded both the consensus expectations and Q4 2019 results. Financials analysts are the most bullish, while Real Estate analysts are the most bearish. Company guidance remains neutral for FY2021.",
+      "id": "caa12b60-707d-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Quantitative Equity Research: Finding Alpha in Surprises: 4Q20",
+      "a": {
+        "id": "d25126d8-3b6b-4719-8ec8-8fa71ba43bb6",
+        "n": " Boris Lerner"
+      },
+      "co": [
+        {
+          "id": "d25126d8-3b6b-4719-8ec8-8fa71ba43bb6",
+          "n": " Boris Lerner"
+        },
+        {
+          "id": "e2f89628-2159-40f5-b0e9-8fa71ba43bb6",
+          "n": " Jaiwish Nolan"
+        },
+        {
+          "id": "1d0430fd-bb15-4b67-9f0e-8fa71ba43bb6",
+          "n": " Diane Ding Ph.D."
+        },
+        {
+          "id": "8f16ccad-2e30-425f-8e10-8fa71ba43bb6",
+          "n": " Michelle M. Weaver"
+        },
+        {
+          "id": "b3406f3c-e141-413e-a800-ee467e0d63e1",
+          "n": " Kamlesh Lahoti"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "18",
+      "hi": {
+
+      },
+      "pls": {
+        "pl": [
+          "QuantWise",
+          "Quantitative Equity Research"
+        ]
+      },
+      "lang": "eng",
+      "cinfo": {
+
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T05:01:04.000Z",
+      "ab": "4Q rounded out a strong 2020 for CRFB results, with revenue +22% y/y, EBITDA +18%, and EPS +31% for the quarter. While Atacadao margins and Carrefour Retail sales missed our estimates, total revenue was +3% above MSe with EPS +11% above; balancing solid execution with tough comparisons, we stay EW.",
+      "id": "aad3f59e-7125-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Atacadao S.A.: 4Q20 Earnings: Another Solid Quarter for Carrefour Brasil",
+      "a": {
+        "id": "8d172a7d-aabb-4951-b0d6-ee467e0d63e1",
+        "n": " Andrew R Ruben"
+      },
+      "co": [
+        {
+          "id": "8d172a7d-aabb-4951-b0d6-ee467e0d63e1",
+          "n": " Andrew R Ruben"
+        },
+        {
+          "id": "d1784937-fb8c-4ed3-b282-8fa71ba43bb6",
+          "n": " Fernando H Donega"
+        },
+        {
+          "id": "c2d18012-0d7f-4a69-aacf-8fa71ba43bb6",
+          "n": " Alexandre K Namioka"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "CRFB3.SA",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "9",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "CRFB3.SA",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "CRFB3.SA",
+            "ptc": "24.00",
+            "cy": "BRL"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000986",
+            "industry": "LatAm Retail & eCommerce"
+          },
+          {
+            "id": "1900000987",
+            "industry": "LatAm Retail & eCommerce"
+          },
+          {
+            "id": "1900000988",
+            "industry": "LatAm Retail & eCommerce",
+            "ivc": "No Rating"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T05:01:02.000Z",
+      "ab": "OVV posts a CFPS beat while accelerating 2021 debt reduction. The \"New E&P\" further takes shape with multi-year leverage clarity by targeting YE 2022 absolute debt of $4.5 Bn, kickstarting a $1 Bn divestiture program with a $263 MM Duvernay sale, and announcing new ESG initiatives.",
+      "id": "dacf1602-6f9f-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Ovintiv Inc: 4Q20: Shedding the Duvernay",
+      "a": {
+        "id": "b8804113-f28a-42c3-9ba0-ee467e0d63e1",
+        "n": " Benny Wong"
+      },
+      "co": [
+        {
+          "id": "b8804113-f28a-42c3-9ba0-ee467e0d63e1",
+          "n": " Benny Wong"
+        },
+        {
+          "id": "aad3441e-c67b-49f6-a738-8fa71ba43bb6",
+          "n": " Adam J Gray"
+        },
+        {
+          "id": "a078f139-d7ba-42a7-a341-ee467e0d63e1",
+          "n": " Devin McDermott"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "OVV.N",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "OVV.N",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "OVV.N",
+            "ptc": "17.00",
+            "cy": "USD"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500005584",
+            "industry": "Canadian Oil & Gas"
+          },
+          {
+            "id": "1500005585",
+            "industry": "Canadian Oil & Gas",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T05:00:26.000Z",
+      "ab": "SIG's valuation premium to peers continues to expand and the shares are now trading ~15% above our price target, but more upside could be in play if core revenue & EBITDA growth hit the upper end of guidance or ESG credentials continue to strengthen. We see ~23% upside potential in our bull case.",
+      "id": "665806fc-50f1-11eb-ba31-6a3257526fd9",
+      "hl": "SIG Combibloc Group AG: The path to our bull case",
+      "a": {
+        "id": "c6347362-97c8-4080-92b9-ee467e0d63e1",
+        "n": " Sandeep Peety"
+      },
+      "co": [
+        {
+          "id": "c6347362-97c8-4080-92b9-ee467e0d63e1",
+          "n": " Sandeep Peety"
+        },
+        {
+          "id": "b21ba945-93b0-467f-a753-ee467e0d63e1",
+          "n": " Alain Gabriel CFA"
+        },
+        {
+          "id": "43eca20d-8e24-4b7c-9eba-8fa71ba43bb6",
+          "n": " Ioannis Masvoulas CFA"
+        },
+        {
+          "id": "5b0db6ef-8f76-41b5-806e-ee467e0d63e1",
+          "n": " Dan Shaw"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "SIGNC.S",
+      "pv": "4",
+      "pn": "Idea",
+      "pc": "26",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "SIGNC.S",
+            "srp": null,
+            "src": "Equal-weight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "SIGNC.S",
+            "ptc": "20.00",
+            "cy": "CHF"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000499",
+            "industry": "Paper & Packaging"
+          },
+          {
+            "id": "1500000452",
+            "industry": "Paper & Packaging",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T05:00:24.000Z",
+      "ab": "Following FY20 results and ahead of Kerry's CAGNY presentation, we provide a list of 10 topics investors meeting with management may find interesting to explore. 1. Acquisitions . What has driven Kerry's preference for smaller bolt on deals vs. larger more transformational opportunities? What are the characteristics of Kerry's infrastructure and culture that lend themselves to these type of dea...",
+      "id": "b8d28f40-717d-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Kerry Group PLC: 10 Questions for Management",
+      "a": {
+        "id": "b9adde6f-bba9-46f9-98a0-8fa71ba43bb6",
+        "n": " Graham Hunt CFA"
+      },
+      "co": [
+        {
+          "id": "b9adde6f-bba9-46f9-98a0-8fa71ba43bb6",
+          "n": " Graham Hunt CFA"
+        },
+        {
+          "id": "8fdf5ce2-d99e-42d8-bf7e-8fa71ba43bb6",
+          "n": " Richard Taylor"
+        },
+        {
+          "id": "aa4f76e7-95e6-46f2-9686-ee467e0d63e1",
+          "n": " Sanath Sudarsan CFA"
+        },
+        {
+          "id": "84a5d085-b7e7-4237-8657-8fa71ba43bb6",
+          "n": " Leslie Li"
+        },
+        {
+          "id": "73e1f119-1bf7-4eab-b8a3-8fa71ba43bb6",
+          "n": " Lisa H De Neve"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "KYGa.I",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "12",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "KYGa.I",
+            "srp": null,
+            "src": "Overweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "KYGa.I",
+            "ptc": "130.00",
+            "cy": "EUR"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000487",
+            "industry": "Food Producers"
+          },
+          {
+            "id": "1500000440",
+            "industry": "Food Producers",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T05:00:23.000Z",
+      "ab": "Weaker trend in Climate Solutions is likely driven by core exposure to geothermal, as key markets report robust growth in air-sourced heat pumps. Reiterate Underweight.",
+      "id": "c0dff130-6fd6-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Nibe Industrier AB: Growth mispriced",
+      "a": {
+        "id": "54a53d01-1250-4046-8d46-8fa71ba43bb6",
+        "n": " Pam Liu"
+      },
+      "co": [
+        {
+          "id": "54a53d01-1250-4046-8d46-8fa71ba43bb6",
+          "n": " Pam Liu"
+        },
+        {
+          "id": "58e51011-36c7-4e9f-a33f-8fa71ba43bb6",
+          "n": " Cedar Ekblom CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "NIBEb.ST",
+      "pv": "4",
+      "pn": "Idea",
+      "pc": "18",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "NIBEb.ST",
+            "srp": null,
+            "src": "Underweight"
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "NIBEb.ST",
+            "ptp": " 237.00",
+            "ptc": " 239.00",
+            "cy": "SEK"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000494",
+            "industry": "Building & Construction"
+          },
+          {
+            "id": "1500000447",
+            "industry": "Building & Construction",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T05:00:02.000Z",
+      "ab": "With stronger growth, and inflation in line with the NBH's forecast, we expect the central bank to remain on hold while focusing on inflation risks. On the strategy side, we enter short PLNHUF on the back of divergent central bank reaction functions to exchange rates.",
+      "id": "b7e6e132-6f69-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Hungary Economics and Macro Strategy: Stability Still in Focus",
+      "a": {
+        "id": "e148526c-6a12-4b5a-91d1-8fa71ba43bb6",
+        "n": " Georgi Deyanov"
+      },
+      "co": [
+        {
+          "id": "e148526c-6a12-4b5a-91d1-8fa71ba43bb6",
+          "n": " Georgi Deyanov"
+        },
+        {
+          "id": "34e6b428-d00a-4b19-8473-8fa71ba43bb6",
+          "n": " Filip Denchev"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Idea",
+      "pc": "9",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report",
+      "curs": {
+        "cur": [
+          "HUF"
+        ]
+      }
+    },
+    {
+      "pd": "2021-02-18T04:54:54.000Z",
+      "ab": "4Q AFFO/share was roughly in line and we raise 2021/2022e ests slightly as the recent revolver paydown lowers interest expense. We increase our valuation multiple to 13x (from 12x) as we further distance ourselves from Covid shutdowns, and our PT rises $3 to $34. Reiterate Equal-weight.",
+      "id": "00004470-7061-11eb-aa53-e34ce4ecd4b0",
+      "hl": "MGM Growth Properties LLC: 4Q20: PT Increases to $34, Reiterate EW",
+      "a": {
+        "id": "f26d7d7c-25d2-42cf-9ccb-ee467e0d63e1",
+        "n": " Thomas Allen"
+      },
+      "co": [
+        {
+          "id": "f26d7d7c-25d2-42cf-9ccb-ee467e0d63e1",
+          "n": " Thomas Allen"
+        }
+      ],
+      "dt": "application/pdf",
+      "pt": "MGP.N",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "9",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "MGP.N",
+            "srp": null,
+            "src": "Equal-weight"
+          },
+          {
+            "ticker": "GLPI.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "VICI.N",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "MGP.N",
+            "ptp": "31.00",
+            "ptc": "34.00",
+            "cy": "USD"
+          },
+          {
+            "ticker": "GLPI.O"
+          },
+          {
+            "ticker": "VICI.N"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000064",
+            "industry": "Gaming & Lodging"
+          },
+          {
+            "id": "1500004839",
+            "industry": "Gaming & Lodging",
+            "ivc": "In-Line"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-18T04:36:15.000Z",
+      "ab": "ET continues to pursue M&A, while maintaining capital discipline to support FCF and help drive leverage reduction.",
+      "id": "9fcad2c4-711d-11eb-aa53-e34ce4ecd4b0",
+      "hl": "MLPs & Midstream Energy Infrastructure: ET Enters into Agreement to Acquire ENBL",
+      "a": {
+        "id": "a886f219-c91c-416e-af3d-ee467e0d63e1",
+        "n": " Stephen C Byrd"
+      },
+      "co": [
+        {
+          "id": "a886f219-c91c-416e-af3d-ee467e0d63e1",
+          "n": " Stephen C Byrd"
+        },
+        {
+          "id": "a078f139-d7ba-42a7-a341-ee467e0d63e1",
+          "n": " Devin McDermott"
+        },
+        {
+          "id": "9327c796-ada0-4fbf-ae11-ee467e0d63e1",
+          "n": " Robert S Kad"
+        },
+        {
+          "id": "938e1dba-08cb-4e5c-b2f7-8fa71ba43bb6",
+          "n": " Bryce Humphrey"
+        },
+        {
+          "id": "18a4cf0e-94d1-4c84-8d2a-8fa71ba43bb6",
+          "n": " David Arcaro CFA"
+        },
+        {
+          "id": "67c6e722-8716-474c-8d71-ee467e0d63e1",
+          "n": " Laura Sanchez"
+        },
+        {
+          "id": "25c3499b-9839-4fd9-84a2-8fa71ba43bb6",
+          "n": " Janaki Narayanan"
+        },
+        {
+          "id": "b8560fac-aeff-448c-bc66-8fa71ba43bb6",
+          "n": " Andrew S Percoco"
+        },
+        {
+          "id": "e8d2307c-5aaa-4a1d-a13f-8fa71ba43bb6",
+          "n": " Stephen J Blackburn"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "9",
+      "hi": {
+
+      },
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "EPD.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ENB.TO",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ET.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "KMI.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "MMP.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "MPLX.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "OKE.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "TRGP.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "TRP.TO",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "WMB.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "AM.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "BPMP.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ENBL.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ENLC.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ETRN.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "HESM.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "NBLX.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "WES.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "EQT.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "PAA.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "PAGP.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ED.N",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "EPD.N"
+          },
+          {
+            "ticker": "ENB.TO"
+          },
+          {
+            "ticker": "ET.N"
+          },
+          {
+            "ticker": "KMI.N"
+          },
+          {
+            "ticker": "MMP.N"
+          },
+          {
+            "ticker": "MPLX.N"
+          },
+          {
+            "ticker": "OKE.N"
+          },
+          {
+            "ticker": "TRGP.N"
+          },
+          {
+            "ticker": "TRP.TO"
+          },
+          {
+            "ticker": "WMB.N"
+          },
+          {
+            "ticker": "AM.N"
+          },
+          {
+            "ticker": "BPMP.N"
+          },
+          {
+            "ticker": "ENBL.N"
+          },
+          {
+            "ticker": "ENLC.N"
+          },
+          {
+            "ticker": "ETRN.N"
+          },
+          {
+            "ticker": "HESM.N"
+          },
+          {
+            "ticker": "NBLX.O"
+          },
+          {
+            "ticker": "WES.N"
+          },
+          {
+            "ticker": "EQT.N"
+          },
+          {
+            "ticker": "PAA.O"
+          },
+          {
+            "ticker": "PAGP.O"
+          },
+          {
+            "ticker": "ED.N"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500005565",
+            "industry": "Exploration & Production"
+          },
+          {
+            "id": "1500005566",
+            "industry": "Exploration & Production"
+          },
+          {
+            "id": "1900000983",
+            "industry": "MLPs & Midstream Energy Infrastructure"
+          },
+          {
+            "id": "1900000984",
+            "industry": "MLPs & Midstream Energy Infrastructure",
+            "ivc": "Attractive"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    }
+  ]
+}
