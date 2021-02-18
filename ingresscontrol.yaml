@@ -1,0 +1,14 @@
+piVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: myfeed-ingress-stable
+  namespace: researchfeed
+spec:
+  rules:
+    - host: myfeed.research.com
+      http:
+        paths:
+          - path: /
+            backend:
+              serviceName: my-feed-service
+              servicePort: 80
