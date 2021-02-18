@@ -3,6 +3,8 @@ kind: HorizontalPodAutoscaler
 metadata:
   name: my-feed-deployment-blue
   namespace: researchfeed
+  labels:
+    app: my-feed
 spec:
   scaleTargetRef:
     apiVersion: apps/v1
