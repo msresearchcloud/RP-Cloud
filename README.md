@@ -28,7 +28,7 @@
 
 # kill container
 * docker container kill INSTANCE_ID
-
+docker rm /rp-cloud
 
 
 #Clean all docker unused 
