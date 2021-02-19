@@ -106,3 +106,8 @@ az aks get-credentials -g msresearch-aks-rg -n msresearch-aks
 
 * Delete all hpa under a deployment & namespace
 -kubectl delete hpa DEPLOYMENT_NAME -n researchfeed
+
+#### AKS APIs
+* /v1/namespaces/researchfeed/pods
+* /v1/namespaces/researchfeed/services
+* /v1/namespaces/researchfeed/replicationcontrollers

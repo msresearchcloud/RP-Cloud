@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: my-feed-deployment-blue
+  name: my-feed-deployment-green
   namespace: researchfeed
   labels:
     app: my-feed
@@ -10,17 +10,22 @@ spec:
   selector:
     matchLabels:
       app: my-feed
-      version: blue
+      version: green
   template:
     metadata:
+      annotation:
+        prometheus.io/scraps: "true"
+        prometheus.io/path: "/"
+        prometheus.io/port: "8000"
       labels:
         app: my-feed
-        version: blue
+        version: green
     spec:
       containers:
         - name: my-feed
-          image: researchportal/rp-cloud:v15
+          image: researchportal/rp-cloud:vGreen
           ports:
+            - containerPort: 8000
             - containerPort: 80
           resources:
             requests:
