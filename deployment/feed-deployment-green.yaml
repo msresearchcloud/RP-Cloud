@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
         - name: my-feed
-          image: researchportal/rp-cloud:vGreen
+          image: researchportal/rp-cloud:v2Green
           ports:
             - containerPort: 8000
             - containerPort: 80
