@@ -6927,6 +6927,1644 @@
       "pst": "Note",
       "pstc": "Note",
       "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-22T20:30:02.000Z",
+      "ab": "We recently upgraded NWSA to OW following our analysis of NWSA's 80% owned Move Inc … in this video Andrew & Raymond discuss …1) what Move Inc is and why we think its growth rates are inflecting … 2) our approach to valuing the business … & 3) how Move Inc fits into our overall NWSA valuation.",
+      "id": "48129962-74cf-11eb-8bd1-24c714a83794",
+      "hl": "Video: News Corp (NWSA.O): lifting our value estimate for Realtor.com/Move Inc from US$2bn … up to US$5-7bn",
+      "a": {
+        "id": "95328c97-80d0-4216-a6c5-ee467e0d63e1",
+        "n": " Andrew McLeod"
+      },
+      "co": [
+        {
+          "id": "95328c97-80d0-4216-a6c5-ee467e0d63e1",
+          "n": " Andrew McLeod"
+        },
+        {
+          "id": "8156b267-4321-4b97-9edf-8fa71ba43bb6",
+          "n": " Raymond Tan"
+        },
+        {
+          "id": "6b72839c-f5cf-456b-9aab-ee467e0d63e1",
+          "n": " Thomas Yeh"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Insight",
+      "pc": "8",
+      "hi": {
+
+      },
+      "vi": [
+        {
+          "th": "/PublishedContent3/2021/02/22/ArticlePages/ARTAN20210222053157/Thumbnail.jpg?uuid=66423c12-74cf-11eb-a5f0-dce89afce7d1",
+          "vu": "https://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=oo6q96kg-3qrk-g002-b860-79a64180b920&store=0&d=1&user=c9frw2kby3jy-2&__gda__=1861937999_1560a8fe8033cbab54cf4f99576bde55#0011&c9frw2kby3jy-1&1861937999_d47259f9b08d19576af538dc8714d6ac&0001&c9frw2kby3jy-0&1861937999_ea137c8729bb99bdb01fc1d4d7ed8c64",
+          "p": true,
+          "duration": "586",
+          "units": "seconds"
+        }
+      ],
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "NXL.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ALU.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "CAR.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "DHG.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "HT1.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "NWSA.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "NEC.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "PRT.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "REA.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SEK.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SWM.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SKT.NZ",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SXL.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "TLS.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "TYR.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "WTC.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "XRO.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "Z.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ZG.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "RMV.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "G24n.DE",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "RDFN.O",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "NXL.AX"
+          },
+          {
+            "ticker": "ALU.AX"
+          },
+          {
+            "ticker": "CAR.AX"
+          },
+          {
+            "ticker": "DHG.AX"
+          },
+          {
+            "ticker": "HT1.AX"
+          },
+          {
+            "ticker": "NWSA.O"
+          },
+          {
+            "ticker": "NEC.AX"
+          },
+          {
+            "ticker": "PRT.AX"
+          },
+          {
+            "ticker": "REA.AX"
+          },
+          {
+            "ticker": "SEK.AX"
+          },
+          {
+            "ticker": "SWM.AX"
+          },
+          {
+            "ticker": "SKT.NZ"
+          },
+          {
+            "ticker": "SXL.AX"
+          },
+          {
+            "ticker": "TLS.AX"
+          },
+          {
+            "ticker": "TYR.AX"
+          },
+          {
+            "ticker": "WTC.AX"
+          },
+          {
+            "ticker": "XRO.AX"
+          },
+          {
+            "ticker": "Z.O"
+          },
+          {
+            "ticker": "ZG.O"
+          },
+          {
+            "ticker": "RMV.L"
+          },
+          {
+            "ticker": "G24n.DE"
+          },
+          {
+            "ticker": "RDFN.O"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000084",
+            "industry": "Media"
+          },
+          {
+            "id": "1900000085",
+            "industry": "Media"
+          },
+          {
+            "id": "1900000307",
+            "industry": "Australia Media, Internet and Technology"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-22T20:15:02.000Z",
+      "ab": "We recently upgraded our valuation for REA's 20% investment in Realtor.com/Move Inc … in this video Andrew & Raymond discuss …1) what Move Inc is and why we think its growth rates are inflecting … 2) our approach to valuing the business … & 3) how Move Inc fits into our overall valuation for REA.",
+      "id": "b2a78360-74ba-11eb-8bd1-24c714a83794",
+      "hl": "Video: REA Group (REA.AX): we explore Realtor.com/Move Inc (US) ... what could REA’s stake be worth?",
+      "a": {
+        "id": "95328c97-80d0-4216-a6c5-ee467e0d63e1",
+        "n": " Andrew McLeod"
+      },
+      "co": [
+        {
+          "id": "95328c97-80d0-4216-a6c5-ee467e0d63e1",
+          "n": " Andrew McLeod"
+        },
+        {
+          "id": "8156b267-4321-4b97-9edf-8fa71ba43bb6",
+          "n": " Raymond Tan"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Idea",
+      "pc": "8",
+      "hi": {
+
+      },
+      "vi": [
+        {
+          "th": "/PublishedContent3/2021/02/22/ArticlePages/ARTAN20210222030436/Thumbnail_20210127_Andrew_Raymond_Video-2---REA-Group%20(002).jpg?uuid=23f6802a-74cf-11eb-a5f0-dce89afce7d1",
+          "vu": "https://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=nvcojetg-3qrk-g002-b860-79a64180b920&store=0&d=1&user=c9fqy2qn4nzx-2&__gda__=1861937998_4721435aea97210b6578b5bc8baeabd9#0011&c9fqy2qn4nzx-1&1861937998_0b326d9d68d75f35268afbd3f187dd14&0001&c9fqy2qn4nzx-0&1861937998_f2e6573ee2c9515f3af45e6e4be60a72",
+          "p": true,
+          "duration": "552",
+          "units": "seconds"
+        }
+      ],
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "NXL.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ALU.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "CAR.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "DHG.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "HT1.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "NWSA.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "NEC.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "PRT.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "REA.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SEK.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SWM.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SKT.NZ",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SXL.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "TLS.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "TYR.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "WTC.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "XRO.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "Z.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ZG.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "RDFN.O",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "RMV.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "G24n.DE",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "INED.NS",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "NXL.AX"
+          },
+          {
+            "ticker": "ALU.AX"
+          },
+          {
+            "ticker": "CAR.AX"
+          },
+          {
+            "ticker": "DHG.AX"
+          },
+          {
+            "ticker": "HT1.AX"
+          },
+          {
+            "ticker": "NWSA.O"
+          },
+          {
+            "ticker": "NEC.AX"
+          },
+          {
+            "ticker": "PRT.AX"
+          },
+          {
+            "ticker": "REA.AX"
+          },
+          {
+            "ticker": "SEK.AX"
+          },
+          {
+            "ticker": "SWM.AX"
+          },
+          {
+            "ticker": "SKT.NZ"
+          },
+          {
+            "ticker": "SXL.AX"
+          },
+          {
+            "ticker": "TLS.AX"
+          },
+          {
+            "ticker": "TYR.AX"
+          },
+          {
+            "ticker": "WTC.AX"
+          },
+          {
+            "ticker": "XRO.AX"
+          },
+          {
+            "ticker": "Z.O"
+          },
+          {
+            "ticker": "ZG.O"
+          },
+          {
+            "ticker": "RDFN.O"
+          },
+          {
+            "ticker": "RMV.L"
+          },
+          {
+            "ticker": "G24n.DE"
+          },
+          {
+            "ticker": "INED.NS"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000084",
+            "industry": "Media"
+          },
+          {
+            "id": "1900000085",
+            "industry": "Media"
+          },
+          {
+            "id": "1900000307",
+            "industry": "Australia Media, Internet and Technology"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-22T15:58:00.000Z",
+      "ab": "Full-year 2020 combined PPOP was relatively flat YoY for banks in our coverage; yet PATMI fell 38% YoY, due to higher provisioning charges by 74% YoY amid Covid. Restructured loans peaked in 3Q20 and were relatively flat QoQ, in line with what we had expected.",
+      "id": "5a38df56-74f3-11eb-8bd1-24c714a83794",
+      "hl": "Video: Indonesia Banks: 4Q20 Results Recap",
+      "a": {
+        "id": "aa85fce8-c66a-49ce-8520-ee467e0d63e1",
+        "n": " Mulya Chandra CFA"
+      },
+      "co": [
+        {
+          "id": "aa85fce8-c66a-49ce-8520-ee467e0d63e1",
+          "n": " Mulya Chandra CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "6",
+      "hi": {
+
+      },
+      "vi": [
+        {
+          "th": "/PublishedContent3/2021/02/22/ArticlePages/ARHARTANTO20210222095010/MulyaChandra_Thumbnail.jpg?uuid=9c90e9c0-74f3-11eb-89c9-53efa3debefe",
+          "vu": "https://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=t463c0c0-3qrk-g002-b860-79a64180b920&store=0&d=1&user=c9fx7v91vts1-2&__gda__=1861937999_944d770bf2a6ced58c48022945084469#0011&c9fx7v91vts1-1&1861937999_7d766c8e1a1a4eb622ed0ca06f821879&0001&c9fx7v91vts1-0&1861937999_fb9761944e75b85497148035a854712c",
+          "p": true,
+          "duration": "187",
+          "units": "seconds"
+        }
+      ],
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "BBCA.JK",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "BBRI.JK",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "BMRI.JK",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "BBNI.JK",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "BBTN.JK",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "BDMN.JK",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "BBCA.JK"
+          },
+          {
+            "ticker": "BBRI.JK"
+          },
+          {
+            "ticker": "BMRI.JK"
+          },
+          {
+            "ticker": "BBNI.JK"
+          },
+          {
+            "ticker": "BBTN.JK"
+          },
+          {
+            "ticker": "BDMN.JK"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000008",
+            "industry": "Financial Services"
+          },
+          {
+            "id": "1900000025",
+            "industry": "Financial Services"
+          },
+          {
+            "id": "1900000841",
+            "industry": "ASEAN Financials"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-22T05:00:04.000Z",
+      "ab": "In this video, we discuss key takeaways from recent results including BAP and SGF.",
+      "id": "35928a2e-722a-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Video | Morgan Stanley Small Cap TV: If we could only say one thing … BAP and SGF",
+      "a": {
+        "id": "61b36520-cf58-43f7-a0c7-ee467e0d63e1",
+        "n": " James Bales"
+      },
+      "co": [
+        {
+          "id": "61b36520-cf58-43f7-a0c7-ee467e0d63e1",
+          "n": " James Bales"
+        },
+        {
+          "id": "e9815af5-96c2-4e81-a3a0-8fa71ba43bb6",
+          "n": " Joseph Michael CFA"
+        },
+        {
+          "id": "a91fd69d-ac27-4c06-9f3d-8fa71ba43bb6",
+          "n": " Chenny Wang CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "10",
+      "hi": {
+
+      },
+      "vi": [
+        {
+          "th": "/PublishedContent3/2021/02/18/ArticlePages/ARWANG20210218204516/20210218_Small-Cap-TV---Video-3_Thumbnail.jpg?uuid=603fe022-722b-11eb-a057-cffb098258d2",
+          "vu": "https://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=npnnldgg-3qrh-g002-8c27-1b4e1c6edb44&store=0&d=1&user=c9cht2zqbigc-2&__gda__=1861937998_0096cadbd71f6c6313521f1a3acf5c17#0011&c9cht2zqbigc-1&1861937998_cd914035b331a43750b32c9f5fc9d17e&0001&c9cht2zqbigc-0&1861937998_e246a72e5bdfa4181ffaf51b36b70060",
+          "p": true,
+          "duration": "158",
+          "units": "seconds"
+        }
+      ],
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "BAP.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SGF.AX",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "BAP.AX"
+          },
+          {
+            "ticker": "SGF.AX"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000736",
+            "industry": "Emerging Companies"
+          },
+          {
+            "id": "1900000737",
+            "industry": "Emerging Companies"
+          },
+          {
+            "id": "1900000738",
+            "industry": "Australia Emerging Companies"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-21T22:36:04.000Z",
+      "ab": "If you spend only 5 minutes on Australian Healthcare this week, make sure it's the Minimum Effective Dose. In this episode, we review CSL's 1HFY21 result and our expectations for 1H21 results from MPL, NIB and RHC.",
+      "id": "c1f3f30e-7482-11eb-8bd1-24c714a83794",
+      "hl": "Video | The Minimum Effective Dose: CSL result wrap & private health outlook – MPL, NIB, RHC",
+      "a": {
+        "id": "cf41f70c-9f49-407f-80fe-ee467e0d63e1",
+        "n": " Sean Laaman"
+      },
+      "co": [
+        {
+          "id": "cf41f70c-9f49-407f-80fe-ee467e0d63e1",
+          "n": " Sean Laaman"
+        },
+        {
+          "id": "b5524727-3544-45f7-8a2a-8fa71ba43bb6",
+          "n": " Megan J Kirby-Lewis"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "9",
+      "hi": {
+
+      },
+      "vi": [
+        {
+          "th": "/PublishedContent3/2021/02/21/ArticlePages/ARKIRBYLEW20210221202410/20210218_The%20Minimum%20Effective%20Dose.jpg?uuid=f5983dc8-7482-11eb-81aa-789cf48bcd7c",
+          "vu": "https://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=nui229b0-3qrh-g002-8c27-1b4e1c6edb44&store=0&d=1&user=c9chzoyi58h9-2&__gda__=1861937998_f7a0934de9a7c887691a67ec48ddefe4#0011&c9chzoyi58h9-1&1861937998_5b4460d90a31a6f1a2f5528c957dbe59&0001&c9chzoyi58h9-0&1861937998_dad78b6191d047081e864a662947741f",
+          "p": true,
+          "duration": "392",
+          "units": "seconds"
+        }
+      ],
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "RHC.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "MPL.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "NHF.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "CSL.AX",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "RHC.AX"
+          },
+          {
+            "ticker": "MPL.AX"
+          },
+          {
+            "ticker": "NHF.AX"
+          },
+          {
+            "ticker": "CSL.AX"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000061",
+            "industry": "Healthcare"
+          },
+          {
+            "id": "1900000322",
+            "industry": "Healthcare"
+          },
+          {
+            "id": "1900000446",
+            "industry": "Australia Healthcare"
+          },
+          {
+            "id": "1900000008",
+            "industry": "Financial Services"
+          },
+          {
+            "id": "1900000025",
+            "industry": "Financial Services"
+          },
+          {
+            "id": "1900000850",
+            "industry": "Australia Financials"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-21T19:00:04.000Z",
+      "ab": "In this video, we discuss key takeaways from recent results including CTD and WEB.",
+      "id": "7ce27cc2-71d5-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Video | Morgan Stanley Small Cap TV: If we could only say one thing … CTD and WEB",
+      "a": {
+        "id": "61b36520-cf58-43f7-a0c7-ee467e0d63e1",
+        "n": " James Bales"
+      },
+      "co": [
+        {
+          "id": "61b36520-cf58-43f7-a0c7-ee467e0d63e1",
+          "n": " James Bales"
+        },
+        {
+          "id": "e9815af5-96c2-4e81-a3a0-8fa71ba43bb6",
+          "n": " Joseph Michael CFA"
+        },
+        {
+          "id": "a91fd69d-ac27-4c06-9f3d-8fa71ba43bb6",
+          "n": " Chenny Wang CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "10",
+      "hi": {
+
+      },
+      "vi": [
+        {
+          "th": "/PublishedContent3/2021/02/18/ArticlePages/ARMICHAEL20210218103849/20210218_Small-Cap-TV---Video-2_Thumbnail.jpg?uuid=8d2e92a0-71d5-11eb-aea8-df9c5d4bc067",
+          "vu": "https://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=n9vkhnpg-3qrh-g002-8c27-1b4e1c6edb44&store=0&d=1&user=c9ch7hp57ewa-2&__gda__=1861937999_a336aac9d6da838dac3ce672be900e23#0011&c9ch7hp57ewa-1&1861937999_7018ee6d0475f47302d0a70a25134940&0001&c9ch7hp57ewa-0&1861937999_ec90da8fb879b98d6169f8308dfb3d04",
+          "p": true,
+          "duration": "127",
+          "units": "seconds"
+        }
+      ],
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "CTD.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "WEB.AX",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "CTD.AX"
+          },
+          {
+            "ticker": "WEB.AX"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000736",
+            "industry": "Emerging Companies"
+          },
+          {
+            "id": "1900000737",
+            "industry": "Emerging Companies"
+          },
+          {
+            "id": "1900000738",
+            "industry": "Australia Emerging Companies"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-19T20:00:02.000Z",
+      "ab": "Related Research For our full lineup click the link below:",
+      "id": "6dcab074-7081-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Video: Anaplan Inc: Consistency of Execution and Improving Demand Leading to a Re-rating",
+      "a": {
+        "id": "474f3970-ea63-45b2-815c-ee467e0d63e1",
+        "n": " Stan Zlotsky CFA"
+      },
+      "co": [
+        {
+          "id": "474f3970-ea63-45b2-815c-ee467e0d63e1",
+          "n": " Stan Zlotsky CFA"
+        },
+        {
+          "id": "afd9e69f-02fd-4a9b-a3eb-ee467e0d63e1",
+          "n": " Keith Weiss CFA"
+        },
+        {
+          "id": "8aca0d17-1f63-41ac-8c1c-8fa71ba43bb6",
+          "n": " Chris Li CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Idea",
+      "pc": "6",
+      "hi": {
+
+      },
+      "vi": [
+        {
+          "th": "/PublishedContent3/2021/02/16/ArticlePages/ARPARIJAT20210216180435/Anaplan%20Inc_Thumbnail.jpg?uuid=69a4fb36-7161-11eb-a057-cffb098258d2",
+          "vu": "https://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=c18ls3qg-3qrh-g002-b860-79a64180b920&store=0&d=1&user=c9c3h8zdgy4f-2&__gda__=1861938003_0f055fddc7c99a8a5f48b76b7e4894de#0011&c9c3h8zdgy4f-1&1861938003_b23b47a65f1f8e9d83b1e1d0feea1529&0001&c9c3h8zdgy4f-0&1861938003_7ba7436abfc68d6317d5ac003eb3d071",
+          "p": true,
+          "duration": "34",
+          "units": "seconds"
+        }
+      ],
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "PLAN.N",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "PLAN.N"
+          }
+        ]
+      },
+      "pst": "Video",
+      "pstc": "Video",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-19T11:20:44.000Z",
+      "ab": "This week we look at our new bull cases which show 8 stocks that could double, and we upgraded SSP to Overweight. Our weekly also contains previews (RCL, IHG, ACCP, ENT, FLTRF, PTEC, EDEN, BFIT), our latest research (Blue Sky note, M&B), an events calendar, industry data, and global comps.",
+      "id": "0317c8e6-7033-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Video | Leisure & Hotels: \"Weekend Break\" 895: Focus on Blue Sky Scenarios",
+      "a": {
+        "id": "fb3c40a9-8a71-419a-8148-ee467e0d63e1",
+        "n": " Jamie Rollo"
+      },
+      "co": [
+        {
+          "id": "fb3c40a9-8a71-419a-8148-ee467e0d63e1",
+          "n": " Jamie Rollo"
+        },
+        {
+          "id": "bf4809c2-e0f4-43ef-8476-8fa71ba43bb6",
+          "n": " Ed Young"
+        },
+        {
+          "id": "909654c4-4393-4aea-8404-8fa71ba43bb6",
+          "n": " Adrija Chakraborty"
+        },
+        {
+          "id": "8a6d5f8d-50f8-4cd7-ba25-8fa71ba43bb6",
+          "n": " Imogen Barker"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "8",
+      "hi": {
+
+      },
+      "vi": [
+        {
+          "th": "/PublishedContent3/2021/02/16/ArticlePages/ARRAWAT20210216084315/SelfieSummary%20copy.jpg?uuid=704192a4-7280-11eb-9ee0-32d5bd141632",
+          "vu": "https://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=0ac70t90-3qri-g002-8c27-1b4e1c6edb44&store=0&d=1&user=c9cs6na635f5-2&__gda__=1861937999_11131778f5f5c26b7500dbe5eef3218a#0011&c9cs6na635f5-1&1861937999_4e5039695df44a19644d2130e2f9a8b9&0001&c9cs6na635f5-0&1861937999_c691bae9cdf0fb50055b3120fefcd1ab",
+          "p": true,
+          "duration": "197",
+          "units": "seconds"
+        }
+      ],
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "WTB.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ACCP.PA",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "IHG.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SHOTE.ST",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "BFIT.AS",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SSPG.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "EXHO.PA",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "CPG.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "RCL.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "CCL.N",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "CCL.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "TUIT.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "TUIGn.DE",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "WTB.L"
+          },
+          {
+            "ticker": "ACCP.PA"
+          },
+          {
+            "ticker": "IHG.L"
+          },
+          {
+            "ticker": "SHOTE.ST"
+          },
+          {
+            "ticker": "BFIT.AS"
+          },
+          {
+            "ticker": "SSPG.L"
+          },
+          {
+            "ticker": "EXHO.PA"
+          },
+          {
+            "ticker": "CPG.L"
+          },
+          {
+            "ticker": "RCL.N"
+          },
+          {
+            "ticker": "CCL.N"
+          },
+          {
+            "ticker": "CCL.L"
+          },
+          {
+            "ticker": "TUIT.L"
+          },
+          {
+            "ticker": "TUIGn.DE"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500001284",
+            "industry": "Leisure and Hotels"
+          },
+          {
+            "id": "1500001285",
+            "industry": "Leisure and Hotels"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-19T10:15:53.000Z",
+      "ab": "The pool for more ESG focused investments has considerably increased & this has led to companies significantly stepping up their communication on the topic, with some results on the share prices. The catch will be whether, mid term, earnings match communications & dramatically expanded valuations.",
+      "id": "a1fb8bb4-720e-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Video | Capital Goods: Weekly Widget - On ESG Communication, Share Price & Earnings",
+      "a": {
+        "id": "e318bbf1-27bd-4067-8f3b-ee467e0d63e1",
+        "n": " Lucie A Carrier"
+      },
+      "co": [
+        {
+          "id": "e318bbf1-27bd-4067-8f3b-ee467e0d63e1",
+          "n": " Lucie A Carrier"
+        },
+        {
+          "id": "fa9249b5-f5e3-475c-977e-ee467e0d63e1",
+          "n": " Ben Uglow"
+        },
+        {
+          "id": "f29b7d52-5bc0-41ec-8b10-ee467e0d63e1",
+          "n": " Robert J Davies Ph.D."
+        },
+        {
+          "id": "ceb2b7ba-a743-4059-95ce-8fa71ba43bb6",
+          "n": " Katie Self Ph.D."
+        },
+        {
+          "id": "fe32d0b7-f440-4e75-9529-8fa71ba43bb6",
+          "n": " Aurelio Calderon Tejedor"
+        },
+        {
+          "id": "f0d1d00e-16e4-4b37-b936-8fa71ba43bb6",
+          "n": " William E Macaulay"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "5",
+      "hi": {
+
+      },
+      "vi": [
+        {
+          "th": "/PublishedContent3/2021/02/18/ArticlePages/ARKHAN20210218172752/180221_Lucie_Thumbnail.jpg?uuid=1d07115a-7216-11eb-9ee0-32d5bd141632",
+          "vu": "https://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=1paetcgg-3qri-g002-b860-79a64180b920&store=0&d=1&user=c9ctyz58zqoc-2&__gda__=1861937998_fad1538ca659be8a4ef48dfd733aa14a#0011&c9ctyz58zqoc-1&1861937998_b8316e4e19d2b8406a353e779cb674ba&0001&c9ctyz58zqoc-0&1861937998_8feecf1568ee8273f41e80430760cb40",
+          "p": true,
+          "duration": "310",
+          "units": "seconds"
+        }
+      ],
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "ALSO.PA",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "KBX.DE",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SCHN.PA",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SIEGn.DE",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ABBN.S",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SAND.ST",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "DOMETIC.ST",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "LEGD.PA",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "LANDI.S",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ATCOa.ST",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "KNEBV.HE",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SKFb.ST",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "AALB.AS",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "CGCBV.HE",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "KCRA.HE",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SUN.S",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ENR1n.DE",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SGREN.MC",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "JUNG_p.DE",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "KGX.DE",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "VWS.CO",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ASSAb.ST",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "DUEG.DE",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ELUXb.ST",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "EPROb.ST",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "G1AG.DE",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "NEXS.PA",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "PRY.MI",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "RXL.PA",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SCHP.S",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "LIGHT.AS",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ALFA.ST",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ANDR.VI",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "BOY.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "EPIRa.ST",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "FLS.CO",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "HLMA.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "IMI.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "MRON.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "MOCORP.HE",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "RSW.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ROR.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SMIN.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SXS.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "SPX.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "TRELb.ST",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "VALMT.HE",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "VSVS.L",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "WRT1V.HE",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "WEIR.L",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "ALSO.PA"
+          },
+          {
+            "ticker": "KBX.DE"
+          },
+          {
+            "ticker": "SCHN.PA"
+          },
+          {
+            "ticker": "SIEGn.DE"
+          },
+          {
+            "ticker": "ABBN.S"
+          },
+          {
+            "ticker": "SAND.ST"
+          },
+          {
+            "ticker": "DOMETIC.ST"
+          },
+          {
+            "ticker": "LEGD.PA"
+          },
+          {
+            "ticker": "LANDI.S"
+          },
+          {
+            "ticker": "ATCOa.ST"
+          },
+          {
+            "ticker": "KNEBV.HE"
+          },
+          {
+            "ticker": "SKFb.ST"
+          },
+          {
+            "ticker": "AALB.AS"
+          },
+          {
+            "ticker": "CGCBV.HE"
+          },
+          {
+            "ticker": "KCRA.HE"
+          },
+          {
+            "ticker": "SUN.S"
+          },
+          {
+            "ticker": "ENR1n.DE"
+          },
+          {
+            "ticker": "SGREN.MC"
+          },
+          {
+            "ticker": "JUNG_p.DE"
+          },
+          {
+            "ticker": "KGX.DE"
+          },
+          {
+            "ticker": "VWS.CO"
+          },
+          {
+            "ticker": "ASSAb.ST"
+          },
+          {
+            "ticker": "DUEG.DE"
+          },
+          {
+            "ticker": "ELUXb.ST"
+          },
+          {
+            "ticker": "EPROb.ST"
+          },
+          {
+            "ticker": "G1AG.DE"
+          },
+          {
+            "ticker": "NEXS.PA"
+          },
+          {
+            "ticker": "PRY.MI"
+          },
+          {
+            "ticker": "RXL.PA"
+          },
+          {
+            "ticker": "SCHP.S"
+          },
+          {
+            "ticker": "LIGHT.AS"
+          },
+          {
+            "ticker": "ALFA.ST"
+          },
+          {
+            "ticker": "ANDR.VI"
+          },
+          {
+            "ticker": "BOY.L"
+          },
+          {
+            "ticker": "EPIRa.ST"
+          },
+          {
+            "ticker": "FLS.CO"
+          },
+          {
+            "ticker": "HLMA.L"
+          },
+          {
+            "ticker": "IMI.L"
+          },
+          {
+            "ticker": "MRON.L"
+          },
+          {
+            "ticker": "MOCORP.HE"
+          },
+          {
+            "ticker": "RSW.L"
+          },
+          {
+            "ticker": "ROR.L"
+          },
+          {
+            "ticker": "SMIN.L"
+          },
+          {
+            "ticker": "SXS.L"
+          },
+          {
+            "ticker": "SPX.L"
+          },
+          {
+            "ticker": "TRELb.ST"
+          },
+          {
+            "ticker": "VALMT.HE"
+          },
+          {
+            "ticker": "VSVS.L"
+          },
+          {
+            "ticker": "WRT1V.HE"
+          },
+          {
+            "ticker": "WEIR.L"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1500000498",
+            "industry": "Capital Goods"
+          },
+          {
+            "id": "1500000451",
+            "industry": "Capital Goods"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
+    },
+    {
+      "pd": "2021-02-19T05:00:04.000Z",
+      "ab": "In this video, we discuss key takeaways from recent results including NEA, ELO, and RKN.",
+      "id": "fca1d2f4-722b-11eb-aa53-e34ce4ecd4b0",
+      "hl": "Video | Morgan Stanley Small Cap TV: If we could only say one thing… NEA, ELO, RKN",
+      "a": {
+        "id": "61b36520-cf58-43f7-a0c7-ee467e0d63e1",
+        "n": " James Bales"
+      },
+      "co": [
+        {
+          "id": "61b36520-cf58-43f7-a0c7-ee467e0d63e1",
+          "n": " James Bales"
+        },
+        {
+          "id": "e9815af5-96c2-4e81-a3a0-8fa71ba43bb6",
+          "n": " Joseph Michael CFA"
+        },
+        {
+          "id": "a91fd69d-ac27-4c06-9f3d-8fa71ba43bb6",
+          "n": " Chenny Wang CFA"
+        }
+      ],
+      "dt": "application/pdf",
+      "pv": "4",
+      "pn": "Update",
+      "pc": "10",
+      "hi": {
+
+      },
+      "vi": [
+        {
+          "th": "/PublishedContent3/2021/02/18/ArticlePages/ARWANG20210218205800/Thumbnail.jpg?uuid=1c9183b6-722c-11eb-a057-cffb098258d2",
+          "vu": "https://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=op9kem30-3qrh-g002-8c27-1b4e1c6edb44&store=0&d=1&user=c9cj0bf21lbi-2&__gda__=1861937999_9975b6fca967ba4c83afe01308ccf5ed#0011&c9cj0bf21lbi-1&1861937999_bcf2c03e177d39dd9fb6e72c66d82386&0001&c9cj0bf21lbi-0&1861937999_01e74c0430e2f122e7660091074eef32",
+          "p": true,
+          "duration": "176",
+          "units": "seconds"
+        }
+      ],
+      "lang": "eng",
+      "cinfo": {
+        "srcinfo": [
+          {
+            "ticker": "NEA.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "ELO.AX",
+            "srp": null,
+            "src": null
+          },
+          {
+            "ticker": "RKN.AX",
+            "srp": null,
+            "src": null
+          }
+        ],
+        "ptcinfo": [
+          {
+            "ticker": "NEA.AX"
+          },
+          {
+            "ticker": "ELO.AX"
+          },
+          {
+            "ticker": "RKN.AX"
+          }
+        ],
+        "ivcinfo": [
+          {
+            "id": "1900000736",
+            "industry": "Emerging Companies"
+          },
+          {
+            "id": "1900000737",
+            "industry": "Emerging Companies"
+          },
+          {
+            "id": "1900000738",
+            "industry": "Australia Emerging Companies"
+          }
+        ]
+      },
+      "pst": "Note",
+      "pstc": "Note",
+      "pcat1": "Report"
     }
   ]
 }
