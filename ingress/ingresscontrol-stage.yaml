@@ -16,7 +16,7 @@ spec:
           - path: /?(.*)
             backend:
               serviceName: my-feed-ui-service-stage
-              servicePort: 4200
+              servicePort: 80
           - path: /researchfeed/?(.*)
             backend:
               serviceName: my-feed-service-stage
