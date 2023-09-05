@@ -18,7 +18,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<!-- This is the Kafka version in HDInsight 3.6 and above -->
-		<kafka.version>2.3.1</kafka.version>
+		<kafka.version>2.6.3</kafka.version>
 	</properties>
 
 	<dependencies>
